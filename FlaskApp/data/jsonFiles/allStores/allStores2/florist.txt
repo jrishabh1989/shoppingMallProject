@@ -1,0 +1,54 @@
+280:Floret Flower & Gifts
+191:Beltway Blossom Shop
+190:Whole Foods Market
+193:Scent and Such
+288:All Seasons Floral & Gifts,Edible Arrangements
+433:Safeway
+483:Bee Wicked Candles
+480:Hy-Vee
+244:Trader Joe's
+607:Sam's Club
+80:Balloons 'n Things
+242:Trader Joe's
+81:Balloons 'n Things
+573:Pick 'n Save
+437:Safeway
+203:Whole Foods Market
+127:Sueppel's Flowers
+123:Hy-Vee
+305:Edible Arrangements,Monday Morning Flower and Balloon Co
+371:Trader Joe's
+345:Dahlia
+27:BI-LO
+346:Whole Foods Market
+208:Edible Arrangements
+162:Rickey Heroman's Florist & Gifts,Whole Foods Market
+589:Family Florist
+263:Hy-Vee
+132:Hy-Vee
+59:Whole Foods Market
+215:Frank's Flowers
+216:Whole Foods Market
+55:Safeway
+454:Sam's Club
+363:Harris Teeter
+458:Tutto Bella
+173:Raimondi's Florist
+456:Sam's Club
+266:Sciandrone's Classic Touch
+220:Louis Barry Florist
+221:Casablanca Floral Design
+224:Whole Foods Market
+395:AJ's
+227:Trader Joe's
+498:House of Flowers
+351:Mayflower Blooming Inc,Edible Arrangements
+180:Whole Foods Market
+352:Mayflower Blooming Inc,Edible Arrangements
+428:Sam's Club
+611:Bouquets,Whole Foods Market
+53:Kahului Florist,Whole Foods Market
+617:Whole Foods Market
+592:Whole Foods Market
+563:Country Elegance
+619:Whole Foods Market

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"
+            rel="stylesheet">
+            </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h2 class="text-muted">Shopping Mall Store Recommender</h2>
+                
+				
+				
+				<h3 class="text-muted">Add a list of any pre decided stores you have in mind for the same category</h3>
+            </div>
+            <hr/>
+            <div>
+                
+                <form action="getReco" method="post" enctype="multipart/form-data">
+                    <p>Select a category to get recommendations for</p>
+					<input type="radio" name="category"  value="accounting" checked > 	accounting	<br>
+					<input type="radio" name="category"  value="airport"  > 	airport	<br>
+					<input type="radio" name="category"  value="amusement_park"  > 	amusement_park	<br>
+					<input type="radio" name="category"  value="aquarium"  > 	aquarium	<br>
+					<input type="radio" name="category"  value="art_gallery"  > 	art_gallery	<br>
+					<input type="radio" name="category"  value="atm"  > 	atm	<br>
+					<input type="radio" name="category"  value="bakery"  > 	bakery	<br>
+					<input type="radio" name="category"  value="bank"  > 	bank	<br>
+					<input type="radio" name="category"  value="bar"  > 	bar	<br>
+					<input type="radio" name="category"  value="beauty_salon"  > 	beauty_salon	<br>
+					<input type="radio" name="category"  value="bicycle_store"  > 	bicycle_store	<br>
+					<input type="radio" name="category"  value="book_store"  > 	book_store	<br>
+					<input type="radio" name="category"  value="bowling_alley"  > 	bowling_alley	<br>
+					<input type="radio" name="category"  value="bus_station"  > 	bus_station	<br>
+					<input type="radio" name="category"  value="cafe"  > 	cafe	<br>
+					<input type="radio" name="category"  value="car_dealer"  > 	car_dealer	<br>
+					<input type="radio" name="category"  value="car_rental"  > 	car_rental	<br>
+					<input type="radio" name="category"  value="car_repair"  > 	car_repair	<br>
+					<input type="radio" name="category"  value="car_wash"  > 	car_wash	<br>
+					<input type="radio" name="category"  value="casino"  > 	casino	<br>
+					<input type="radio" name="category"  value="church"  > 	church	<br>
+					<input type="radio" name="category"  value="city_hall"  > 	city_hall	<br>
+					<input type="radio" name="category"  value="clothing_store"  > 	clothing_store	<br>
+					<input type="radio" name="category"  value="convenience_store"  > 	convenience_store	<br>
+					<input type="radio" name="category"  value="courthouse"  > 	courthouse	<br>
+					<input type="radio" name="category"  value="dentist"  > 	dentist	<br>
+					<input type="radio" name="category"  value="department_store"  > 	department_store	<br>
+					<input type="radio" name="category"  value="doctor"  > 	doctor	<br>
+					<input type="radio" name="category"  value="electrician"  > 	electrician	<br>
+					<input type="radio" name="category"  value="electronics_store"  > 	electronics_store	<br>
+					<input type="radio" name="category"  value="finance"  > 	finance	<br>
+					<input type="radio" name="category"  value="fire_station"  > 	fire_station	<br>
+					<input type="radio" name="category"  value="florist"  > 	florist	<br>
+					<input type="radio" name="category"  value="food"  > 	food	<br>
+					<input type="radio" name="category"  value="funeral_home"  > 	funeral_home	<br>
+					<input type="radio" name="category"  value="furniture_store"  > 	furniture_store	<br>
+					<input type="radio" name="category"  value="gas_station"  > 	gas_station	<br>
+					<input type="radio" name="category"  value="general_contractor"  > 	general_contractor	<br>
+					<input type="radio" name="category"  value="grocery_or_supermarket"  > 	grocery_or_supermarket	<br>
+					<input type="radio" name="category"  value="gym"  > 	gym	<br>
+					<input type="radio" name="category"  value="hair_care"  > 	hair_care	<br>
+					<input type="radio" name="category"  value="hardware_store"  > 	hardware_store	<br>
+					<input type="radio" name="category"  value="health"  > 	health	<br>
+					<input type="radio" name="category"  value="home_goods_store"  > 	home_goods_store	<br>
+					<input type="radio" name="category"  value="hospital"  > 	hospital	<br>
+					<input type="radio" name="category"  value="insurance_agency"  > 	insurance_agency	<br>
+					<input type="radio" name="category"  value="jewelry_store"  > 	jewelry_store	<br>
+					<input type="radio" name="category"  value="laundry"  > 	laundry	<br>
+					<input type="radio" name="category"  value="lawyer"  > 	lawyer	<br>
+					<input type="radio" name="category"  value="library"  > 	library	<br>
+					<input type="radio" name="category"  value="liquor_store"  > 	liquor_store	<br>
+					<input type="radio" name="category"  value="local_government_office" > 	local_government_office	<br>
+					<input type="radio" name="category"  value="locksmith"  > 	locksmith	<br>
+					<input type="radio" name="category"  value="lodging"  > 	lodging	<br>
+					<input type="radio" name="category"  value="meal_delivery"  > 	meal_delivery	<br>
+					<input type="radio" name="category"  value="meal_takeaway"  > 	meal_takeaway	<br>
+					<input type="radio" name="category"  value="movie_rental"  > 	movie_rental	<br>
+					<input type="radio" name="category"  value="movie_theater"  > 	movie_theater	<br>
+					<input type="radio" name="category"  value="moving_company"  > 	moving_company	<br>
+					<input type="radio" name="category"  value="museum"  > 	museum	<br>
+					<input type="radio" name="category"  value="night_club"  > 	night_club	<br>
+					<input type="radio" name="category"  value="painter"  > 	painter	<br>
+					<input type="radio" name="category"  value="park"  > 	park	<br>
+					<input type="radio" name="category"  value="parking"  > 	parking	<br>
+					<input type="radio" name="category"  value="pet_store"  > 	pet_store	<br>
+					<input type="radio" name="category"  value="pharmacy"  > 	pharmacy	<br>
+					<input type="radio" name="category"  value="physiotherapist"  > 	physiotherapist	<br>
+					<input type="radio" name="category"  value="place_of_worship"  > 	place_of_worship	<br>
+					<input type="radio" name="category"  value="plumber"  > 	plumber	<br>
+					<input type="radio" name="category"  value="point_of_interest"  > 	point_of_interest	<br>
+					<input type="radio" name="category"  value="police"  > 	police	<br>
+					<input type="radio" name="category"  value="post_office"  > 	post_office	<br>
+					<input type="radio" name="category"  value="premise"  > 	premise	<br>
+					<input type="radio" name="category"  value="real_estate_agency"  > 	real_estate_agency	<br>
+					<input type="radio" name="category"  value="restaurant"  > 	restaurant	<br>
+					<input type="radio" name="category"  value="roofing_contractor"  > 	roofing_contractor	<br>
+					<input type="radio" name="category"  value="rv_park"  > 	rv_park	<br>
+					<input type="radio" name="category"  value="school"  > 	school	<br>
+					<input type="radio" name="category"  value="shoe_store"  > 	shoe_store	<br>
+					<input type="radio" name="category"  value="shopping_mall"  > 	shopping_mall	<br>
+					<input type="radio" name="category"  value="spa"  > 	spa	<br>
+					<input type="radio" name="category"  value="stadium"  > 	stadium	<br>
+					<input type="radio" name="category"  value="storage"  > 	storage	<br>
+					<input type="radio" name="category"  value="store"  > 	store	<br>
+					<input type="radio" name="category"  value="transit_station"  > 	transit_station	<br>
+					<input type="radio" name="category"  value="travel_agency"  > 	travel_agency	<br>
+					<input type="radio" name="category"  value="university"  > 	university	<br>
+					<input type="radio" name="category"  value="veterinary_care"  > 	veterinary_care	<br>
+					<input type="radio" name="category"  value="zoo"  > 	zoo	<br>
+
+					<!--<input type="file" name="file">!-->
+					<p>Put in the location details</p>
+					Latitude:<br>
+					<input type="text" name="lat"><br>
+					Longitude:<br>
+					<input type="text" name="long">
+					<br /><br />
+					Write Store Name already present:<br>
+					<input type="text" name="stores">
+					<br /><br />
+                        <input type="submit" value="Submit">
+                    </form>
+            </div>
+        </div>
+    </body>
+</html>

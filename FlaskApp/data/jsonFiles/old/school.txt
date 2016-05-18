@@ -1,0 +1,1 @@
+{"456":{"ITT Technical Institute":4.1},"325":{"The Lawrenceville School":4.4},"617":{"Paul Mitchell The School Denver":4.2},"516":{"KidsPark":4.7},"351":{"NYCDOE: PS 7":4.6},"85":{"Paul Mitchell The School Bradley":5}}

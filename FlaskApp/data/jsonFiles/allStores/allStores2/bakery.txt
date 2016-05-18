@@ -1,0 +1,365 @@
+338:Auntie Anne's Pretzels
+159:Auntie Anne's Pretzels,Great American Cookies
+33:Cinnabon,Classic Cookie
+331:The Main Grind Coffeehouse
+158:Great American Cookies
+157:Great American Cookies
+39:Kroger
+156:Great American Cookies
+37:Great American Cookies
+154:Great American Cookies
+601:Mary's Mountain Cookies
+152:AUNTIE ANNE'S,Cold Stone Creamery,Panera Bread
+600:Pretzelmaker
+530:Crave Cupcakes
+150:Caramanda's Cupcakes,Great American Cookies
+534:Cinnabon,Great American Cookies
+533:Great American Cookies
+609:Cinnabon
+538:Cinnabon,Great American Cookies
+607:Bliss Cupcakes,Cold Stone Creamery,Village Inn
+536:Cinnabon,Great American Cookies,Pretzelmaker
+605:Cinnabon,Mrs. Fields,Paradise Bakery,Wetzel's Pretzels
+604:Panera Bread
+602:Pretzelmaker
+349:Auntie Anne's,Carvel Ice Cream,Panera Bread
+203:Whole Foods Market
+205:Cinnabon,The Great Cookie
+200:Cold Stone Creamery
+23:Cinnabon,Paul Bakery
+169:Bavarian Pretzel Bakery,Cindy's Sweets & Delite-Ful
+24:Cinnabon,Great American Cookies
+25:Auntie Anne's,Calistoga Bakery Cafe,Great American Cookies
+345:Eli Zabar,Financier Patisserie,Golden Krust,Li-Lac Chocolates (Grand Central Market),Magnolia Bakery,Zaro's Bread Basket
+26:Cookie Time
+166:Auntie Anne's Pretzels
+206:Auntie Anne's,Mrs. Fields Center at Salisbury
+346:Whole Foods Market
+27:BI-LO
+347:Nestle Toll House Cafe By Chip
+28:Auntie Anne's Pretzels,Cinnabon,Mrs. Fields,Pretzel Twister,Pretzel Twister
+29:Great American Cookies,Pretzel Time
+167:Panera Bread
+409:Auntie Anne's Pretzels,Coco's Bakery Restaurant,Chompie's,Paradise Bakery & Cafe,Wetzel's Pretzels
+3:Auntie Anne's Pretzels,Mrs. Fields
+161:Great American Cookies
+408:Cold Stone Creamery
+162:Cold Stone Creamery,Whole Foods Market
+542:BLUE BAKER
+1:Carvel/Cinnabon,Mrs. Fields
+164:Hannaford Supermarket
+544:Mimi's Cafe
+7:Panera Bread
+543:Marie Callender's Restaurant & Bakery,Panera Bread
+6:Great American Cookies
+407:Cold Stone Creamery
+340:Auntie Anne's Pretzels,Great American Cookies
+5:Great American Cookies,Auntie Anne's Pretzels
+160:Auntie Anne's Pretzels,Great American Cookies,Great American Cookies
+4:Great American Cookies
+548:Great American Cookies,Sirloin Stockade
+401:Paradise Bakery & Cafe
+400:Sweets From Heaven
+403:Paradise Bakery & Cafe,Wetzel's Pretzels
+549:Great American Cookies
+8:Auntie Anne's Pretzels,Great American Cookies
+211:Dunkin' Donuts,Panera Bread
+210:Cold Stone Creamery,Panera Bread
+215:Dunkin' Donuts
+318:Cold Stone Creamery,Panera Bread
+216:Cold Stone Creamery,Whole Foods Market
+319:Auntie Anne's
+19:Cold Stone Creamery,Great American Cookies,Great American Cookies,Panera Bread
+213:Mrs. Fields
+316:Au Bon Pain
+317:Dunkin' Donuts
+179:Auntie Anne's,Dunkin' Donuts,The Great Cookie,Shoppers Food & Pharmacy - Mondawmin
+314:Cinnabon,Cold Stone Creamery,Mrs. Fields
+18:Auntie Anne's Pretzels,Cinnabon,Mrs. Fields,Pretzel Twister
+178:Vaccaros
+315:Au Bon Pain
+217:Auntie Anne's,Dunkin' Donuts
+312:Auntie Anne's Pretzels,Cinnabon,Crumbs Bake Shop,Panera Bread
+176:Auntie Anne's,The Great Cookie
+218:Dunkin' Donuts
+313:Auntie Anne's
+13:Great American Cookies
+310:Cinnabon,Dunkin' Donuts,Great American Cookies
+14:Great American Cookies,Panera Bread,Twist Cupcakes
+311:Auntie Anne's,Cinnabon,Dunkin' Donuts,Mrs. Fields
+12:Great American Cookies,Panera Bread
+418:Great American Cookies
+21:Auntie Anne's Pretzels,Mrs. Fields
+417:Great American Cookies
+623:Panera Bread
+174:Cold Stone Creamery
+622:Auntie Anne's Pretzels,Dunkin' Donuts
+175:The Great Cookie
+621:Cinnabon,Panera Bread
+620:Gigi's Cupcakes,Panera Bread
+173:Cinnabon,The Great Cookie
+410:Einstein Bros Bagels,Paradise Bakery & Cafe
+517:Frullati,Great American Cookies,Mrs. Fields
+413:Fry's Food And Drug
+412:Cold Stone Creamery,Einstein Bros Bagels,Mimi's Cafe,Paradise Bakery & Cafe
+220:Au Bon Pain,Ben & Jerry's,Cold Stone Creamery,Dunkin' Donuts,Paradise Bakery & Cafe
+221:Dunkin' Donuts
+222:Au Bon Pain
+223:The Chipyard,Kilvert & Forbes Ltd
+224:Au Bon Pain,Whole Foods Market
+328:Nestle Toll House Cafe By Chip
+226:Cold Stone Creamery,Panera Bread,White's Bakery
+227:Auntie Anne's Pretzels,Dunkin' Donuts,Panera Bread
+228:Dunkin' Donuts
+324:Dunkin' Donuts
+229:Dunkin' Donuts,Mrs. Fields Emerald Square
+326:Auntie Anne's
+189:Mrs. Fields White Flint
+320:Auntie Anne's,Great American Cookies
+322:Auntie Anne's Pretzels,Cinnabon,My Favorite Muffin
+522:Great American Cookies
+427:Wildflower Bread Company
+521:Fix it with Frosting,Great American Cookies
+180:Whole Foods Market
+524:Auntie Anne's Pretzels,Great American Cookies
+523:Great American Cookies
+428:Cold Stone Creamery,Kneaders Bakery & Cafe,Mimi's Cafe
+182:Cinnabon,Great American Cookies,Panera Bread
+610:Ben & Jerry's,Mrs. Fields,Wetzel's Pretzels,Woody Creek Bakery & Cafe
+183:Auntie Anne's Pretzels,Cinnabon
+612:Corner Bakery Cafe,Rocky Mountain Chocolate Factory
+520:Coastal Cookie Co
+611:Whole Foods Market
+186:Auntie Anne's Pretzels,Corner Bakery Cafe,Mrs. Fields Montgomery Mall,Yocake Cafe Inc
+614:King Soopers
+529:Auntie Anne's Pretzels,Cinnabon,Mrs Field's Cookies,la Madeleine Country French Café,Nestle Toll House
+615:Cinnabon,Wetzel's Pretzels
+420:Cold Stone Creamery,Wetzel's Pretzels
+618:Cinnabon
+526:Great American Cookies
+423:Paradise Bakery & Cafe,Red Velvet Tucson
+617:Whole Foods Market
+528:Auntie Anne's Pretzels,Cinnabon,Great American Cookies,Panera Bread
+619:Einstein Bros Bagels,Mimi's Cafe,Whole Foods Market
+527:Cold Stone Creamery,H-E-B,la Madeleine Country French Café
+424:Cinnabon,Mimi's Cafe,Mrs. Fields,Wetzel's Pretzels
+116:Cookies Etc Inc,Pretzelmaker
+114:Auntie Anne's Pretzels,Great American Cookies
+78:Auntie Anne's Pretzels,Cookie Factory Bakery,County Market
+115:Cookie Store
+77:Panera Bread
+571:Atlanta Bread,Auntie Anne's Pretzels,Schlotzsky's,Cold Stone Creamery,Great American Cookies
+112:Auntie Anne's,Blondie's Cookies
+570:Panera Bread,Mrs. Fields
+111:MCL Restaurant & Bakery Richmond
+118:Cold Stone Creamery,Pretzelmaker
+436:Cold Stone Creamery
+433:Safeway
+431:Panera Bread,Sweet! By Good Golly Miss Holly
+432:Ben & Jerry's
+430:Cinnzeo,Cold Stone Creamery - Florida Mall,Nestle Toll House,Nestle Toll House
+83:Mrs. Fields
+80:Mrs. Fields
+573:Pick 'n Save
+81:Mrs. Fields
+86:Great American Cookies
+87:Mrs. Fields
+437:Bridge City Cafe - Lloyd Center,Cinnabon,Safeway,Wetzel's Pretzels
+84:Auntie Anne's Pretzels
+438:Bridge City Cafe - Pioneer Place,Kettleman Bagel Company Downtown
+85:Auntie Anne's
+125:Great American Cookies,Panera Bread,Pretzelmaker
+67:Cookie Corner,Times Supermarket
+126:Cookie's & More
+66:Cinnabon,Cold Stone Creamery,Pastry House,Sanrio Cafe,Cookie Corner
+127:Panera Bread
+69:Pretzelmaker,WinCo Foods
+300:Corner Bakery Cafe
+128:Cookies Etc Inc,Pretzelmaker
+580:Cinnabon,Marita Sweet Potato Pie Co,Mrs. Fields
+122:Great American Cookies,Ultimate Confections
+301:Auntie Anne's
+582:Cinnabon,Le Roi Bakery,Mrs. Fields,Pretzel Place
+123:Great American Cookies,Hy-Vee,Tic Tac Toe Cafe,Village Inn
+581:Andersen Bakery,Cinnabon,Mrs. Fields
+124:Pretzelmaker
+308:Sully's Beach House Bagel
+307:Auntie Anne's Pretzels,Cinnabon,Nestle Toll House Cafe By Chip
+129:Auntie Anne's Pretzels,Cinnabon,Cold Stone Creamery,Great American Cookies,Panera Bread,Pretzelmaker
+309:Cinabon
+444:Auntie Anne's
+445:Giant Eagle Supermarket,Great American Cookies
+446:Panera Bread
+440:Auntie Anne's
+583:Mimi's Cafe,Panera Bread
+584:Cinnabon,Mrs. Fields Imperial Valley Mall
+70:Pretzelmaker
+120:Great American Cookies,Pretzelmaker
+587:Baskin Robbins - Dunkin Donuts
+449:Carol's Confections
+589:S & S Donut & Bake Shop & Deli
+134:Mrs Powell's Bakery Eatery
+135:Auntie Anne's,Bob Evans,Cold Stone Creamery,Panera Bread
+132:Hy-Vee
+133:Great American Cookies,Pretzelmaker
+59:Cinnabon,Cookie Corner,Whole Foods Market
+58:Ben & Jerry's,Cinnabon,Cookie Corner
+136:Mimi's Cafe,Mrs. Fields,Panera Bread
+56:Kauai Bakery & Cinnamon,Times Supermarket
+137:Blue Chip Cookies,Cold Stone Creamery,Panera Bread
+55:Cinnabon,Safeway
+454:Auntie Anne's,Panera Bread
+451:Just Dogs! Gourmet
+457:Auntie Anne's Pretzels
+458:Panera Bread
+558:Frullati,Great American Cookies
+455:Mrs. Fields
+559:Cupcakes On the Ridge,Panera Bread
+456:Auntie Anne's,Different Twist Pretzel,Panera Bread
+557:Great American Cookies,Ozark Candies & Nuts,Pretzelmaker
+65:Cold Stone Creamery,Honolulu Cookie Company,Honolulu Cookie Company,Honolulu Chocolate Co.
+554:Great American Cookies,Mimi's Cafe
+459:Mrs. Fields
+63:Honolulu Cookie Company
+552:Auntie Anne's Pretzels,Dunkin' Donuts,Hannaford Supermarket
+131:Auntie Anne's Pretzels
+130:Auntie Anne's Pretzels,Great American Cookies
+551:Ben & Jerry's,Bruegger's Bagels,Panera Bread
+143:Dippin' Dots Treatery,Great American Cookies
+144:Auntie Anne's Pretzels,Cookie Store,The Smoothie & Pretzel Co.
+560:Auntie Anne's Pretzels,Great American Cookies
+147:The Cookie Store
+467:Auntie Anne's,Nestle Toll House
+468:Auntie Anne's Pretzels
+469:Auntie Anne's Pretzels
+565:Different Twist Pretzel,Great American Cookies,Panera Bread
+51:Auntie Anne's Pretzels,Great American Cookies
+566:Great American Cookies,Panera Bread,Cookie Store
+567:Donut Connection,Great American Cookies
+53:Whole Foods Market
+54:Pretzelmaker
+140:Mrs. Fields
+563:Auntie Anne's Pretzels
+564:Auntie Anne's,Panera Bread,Sweets N Treats
+487:Great American Cookies
+486:Great American Cookies
+485:Great American Cookies,Pretzel Time
+484:Ben & Jerry's,Great American Cookies
+285:Cold Stone Creamery,Panera Bread
+284:Cookie Co
+489:Mrs. Fields,Amy Lyn's Sweet Treats
+287:Village Inn
+482:Auntie Anne's Pretzels,Great American Cookies,Great American Cookies
+483:Great American Cookies
+480:Auntie Anne's,Cinnabon,Great American Cookies,Hy-Vee
+481:Great American Cookies
+473:Great American Cookies,Panera Bread,Schlotzsky's
+476:Great American Cookies,Pretzelmaker
+270:Mrs. Fields
+475:Great American Cookies,The Cookie Store,Wetzel's Pretzels
+272:Cinnabon,Great American Cookies,Wetzel's Pretzels
+477:Great American Cookies,Pretzel Twister
+273:Kacie's Cookies
+278:Cinnabon
+109:MCL Restaurant & Bakery Washington Square – Closed,Pretzelmaker
+108:Auntie Anne's Pretzels,Cinnabon,Einstein Bros Bagels,Panera Bread,Wetzel's Pretzels
+107:Panera Bread
+106:Auntie Anne's Pretzels,Fannie May,Frullati,Great American Cookies,Wetzel's Pretzels
+105:Blondie's Cookies,Mrs. Fields
+104:Blondie's Cookies,Cinnabon
+103:Pretzelmaker
+102:Blondie's Cookies
+100:Auntie Anne's Pretzels,Cinnabon,Panera Bread
+595:Red Ribbon Bakeshop
+594:Cinnabon,Mrs. Fields
+97:Original Cookie Co
+391:Auntie Anne's Pretzels,Cinnabon,Great American Cookies,Cheryl and Co,Panera Bread
+596:Andersen Bakery,Cinnabon,Cold Stone Creamery,Mrs. Fields,Wetzel's Pretzels
+390:Auntie Anne's,Cinnabon
+95:Auntie Anne's Soft Pretzel,Mrs. Fields,Wetzel's Pretzels
+599:Auntie Anne's Pretzels
+393:Paradise Bakery & Cafe
+94:Auntie Anne's Pretzels,Cinnabon,Mrs. Fields,Panera Bread - Closed
+598:Cocola Bakery,La Baguette,Sprinkles Cupcakes
+392:Great American Cookies
+93:Cinnabon,Mrs. Fields,Nestle Toll House Cafe By Chip
+395:Panera Bread
+394:Cinnabon
+91:Auntie Anne's Pretzels,Mrs. Fields
+90:Dunkin' Donuts,Meijer
+294:Auntie Anne's Pretzels,Crumbs Bake Shop,Dunkin' Donuts,Mrs. Fields
+499:Great American Cookies,Mrs. Fields
+293:Auntie Anne's Pretzels,Cinnabon,Dunkin' Donuts
+295:Pretzel Time,Pretzel Time
+290:The Cookie Company,Dairy Queen/Orange Julius/Treat Ctr,Panera Bread
+292:Dunkin' Donuts
+497:Auntie Anne's Pretzels,Frullati,Great American Cookies
+298:Cinnabon,Mrs. Fields
+299:Au Bon Pain,Auntie Anne's Pretzels,Mr. Cupcakes
+490:Auntie Anne's Pretzels,Great American Cookies
+396:TopIt Cupcakes
+398:Auntie Anne's Pretzels,Einstein Bros Bagels,Chompie's,Mimi's Cafe,Mrs. Fields,Paradise Bakery & Cafe,Wildflower Bread Company
+399:Auntie Anne's Pretzels,Einstein Bros Bagels,Chompie's,Mimi's Cafe,Mrs. Fields,Paradise Bakery & Cafe,Wildflower Bread Company
+590:Auntie Anne's Pretzels,Cinnabon,Nestle Toll House,Velvet Cupcakes,Wetzel's Pretzels
+592:Boudin SF,Whole Foods Market
+593:Cinnabon,Mrs. Fields,Tuttimelon
+89:Panera Bread
+241:Caribou Coffee,Great American Cookies,Perkins
+383:Auntie Anne's,Cinnabon
+195:Panera Bread
+384:Great American Cookies
+381:Great American Cookies
+382:Auntie Anne's Pretzels,Cinnabon
+191:Atlanta Bread,Heavens Bakery
+190:Cakelove,Cold Stone Creamery,Panera Bread,Whole Foods Market
+192:Golden Krust
+389:Cindy's Cinnamon Rolls
+388:Auntie Anne's
+198:CakeLove
+387:Auntie Anne's Pretzels
+199:Mrs. Fields,Wetzel's Pretzels
+385:Auntie Anne's Pretzels,Panera Bread
+245:Panera Bread
+243:Cinnabon
+242:Bruegger's Bagels
+248:Auntie Anne's,Caribou Coffee,Cold Stone Creamery
+247:Auntie Anne's Pretzels
+506:Great American Chocolate Chip
+509:Auntie Anne's Pretzels,La Madeleine,Corner Bakery Cafe - Galleria
+230:Auntie Anne's,Dunkin' Donuts
+370:Great American Cookies
+371:Bruegger's Bagels,Giant Eagle Supermarket
+372:Mrs. Fields
+373:Auntie Anne's,Panera Bread
+501:Great American Cookies
+379:Auntie Anne's Pretzels,Bob Evans,Cold Stone Creamery,Mrs. Fields
+378:Auntie Anne's Pretzels,Butter Maid Bakery,Frullati
+376:Bob Evans
+231:Mackinaw Pastie & Cookie Co.
+234:Nestle Toll House Cafe By Chip
+233:Auntie Anne's,Cool Beans Coffee & Bakery,Mrs. Fields
+236:Paradise Bakery & Cafe,Wetzel's Pretzels
+235:Auntie Anne's Pretzels
+238:Corner Bakery Cafe,Mrs. Fields
+237:Frullati
+263:Great American Cookies,Hy-Vee
+260:Great American Cookies
+261:The Sweet Spot
+360:Sala Cookies
+363:Cold Stone Creamery,Panera Bread
+369:Cold Stone Creamery
+368:Cinamen Roll Co,Cinamen Roll Co,Mrs. Fields,Rising Bread Co
+268:Bob Evans,Panera Bread
+267:Great American Cookies
+266:Big Momma's Bakery-Cafe,Einstein Bros Bagels,Panera Bread
+265:Cold Stone Creamery
+350:Bakers,Cinnabon,Cookie House,Pretzel Time
+351:Cinnabon,Dunkin' Donuts,Godiva Chocolatier - Queens Center Mall,Morning Glory Bakery,Mrs. Fields
+353:Cold Stone Creamery,New York Bagels - Outer Banks
+352:Cinnabon,Dunkin' Donuts,Godiva Chocolatier - Queens Center Mall,Morning Glory Bakery,Mrs. Fields
+357:Great American Cookies
+359:Cookie Jar
+358:Auntie Anne's Pretzels,Cinnabon,Cold Stone Creamery,The Great American Bagel & Bakery
+259:Classic Cookie
+256:Classic Cookie
+255:The Cookie Store,Pretzel Twister

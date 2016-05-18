@@ -1,0 +1,1 @@
+{"183":{"Avis Car Rental":2.8},"301":{"Dollar Rent a Car":2.3,"Avis Car Rental":2.8},"108":{"Enterprise Rent-A-Car":4.2},"186":{"Avis Car Rental":3.1},"306":{"Enterprise Rent-A-Car":4.4},"64":{"Enterprise Rent-A-Car":4.1},"330":{"Enterprise Rent-A-Car":4.3},"243":{"Avis Car Rental":3.7},"350":{"Enterprise Rent-A-Car":4.9}}

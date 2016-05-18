@@ -1,0 +1,310 @@
+34:Joe Muggs Café,Starbucks
+331:The Main Grind Coffeehouse
+37:Java Junction
+152:First Watch,Panera Bread,Starbucks
+600:Java Time
+530:Cafe Express,Starbucks
+153:Saxbys Coffee Newport on the Levee
+150:Starbucks,Tumbleweed Mexican Cafe
+534:Starbucks
+42:The Chocolaterie Luxury Chocolates
+533:Piccadilly Cafeteria
+532:Starbucks
+539:Starbucks
+608:Euro Cafe & Market,Starbucks
+538:Barnes & Noble
+607:Bobalicious Tea House,Caribou Coffee,Wine Experience Café & World Cellar,Wine Experience Café & World Cellar
+606:Starbucks
+605:Teavana,Mediterranean Cafe,In House,Starbucks,Teavana
+604:Daphne's California Greek,Panera Bread,Peet's Coffee & Tea,Starbucks
+602:Solar Roast Coffee Drive Thru
+202:Lebanese Taverna,Starbucks
+349:Cajun Cafe & Grill,Gloria Jean's Coffees,Panera Bread,Starbucks
+205:Q Chocolate & Coffee,Starbucks,Starbucks,Teavana
+201:Caffe Euro
+23:Apropo,Starbucks
+342:Camperito Deli Cafe
+24:Caribbean Cafe
+25:Calistoga Bakery Cafe,Starbucks
+344:Panera Bread,Starbucks
+206:Coffee Beanery
+345:Financier Patisserie,Oren's Daily Roast,Starbucks
+27:Starbucks
+28:Starbucks
+347:Nestle Toll House Cafe By Chip,Skipper's Pierside Cafe
+167:Panera Bread
+409:Paradise Bakery & Cafe,Starbucks
+408:Nespresso Boutique,Starbucks
+162:Starbucks
+541:Cotton Patch Café,Starbucks
+544:Mimi's Cafe,Tinos Greek Cafe
+405:Starbucks
+7:Panera Bread,Starbucks
+543:Panera Bread
+407:Nespresso Boutique,Starbucks
+340:Taza Cafe
+548:Starbucks
+401:The Coffee Bean & Tea Leaf,Paradise Bakery & Cafe,Tea Infusion
+400:Starbucks
+403:NM Cafe,Ebar,Paradise Bakery & Cafe,Starbucks
+402:Slo Foods Organic Cafe and Cheese Shop
+211:Dunkin' Donuts,Maui Wowi,Panera Bread
+212:Mocha Emporium
+210:Panera Bread
+318:Panera Bread
+319:Marketplace Cafe,Teavana
+213:Starbucks
+19:Panera Bread,Starbucks,Coffee Beanery
+316:Au Bon Pain,NM Cafe,Espresso Bar,Espresso Bar,Starbucks
+214:Mocha Emporium
+317:Dunkin' Donuts
+179:Dunkin' Donuts,Panda China Cafe
+18:Starbucks
+315:Au Bon Pain,NM Cafe,Espresso Bar,Espresso Bar,Starbucks
+217:Dunkin' Donuts
+312:East Cafe,Panera Bread,Starbucks,Coffee Beanery
+218:Coffee Trader,Dunkin' Donuts
+16:West Wing Café,McDonald's
+313:Coffee Beanery
+310:Dunkin' Donuts,Starbucks
+14:Panera Bread
+311:Bubble Tea & Smoothie,Dunkin' Donuts
+12:Panera Bread,Starbucks
+170:Mugshots Coffee
+417:Daily Grind
+171:Nan's Gourmet Ice Cream
+416:Einstein Bros Bagels,Starbucks
+623:Panera Bread,Starbucks
+174:Starbucks
+622:Dunkin' Donuts,Starbucks
+175:Starbucks
+621:Panera Bread
+620:Panera Bread,Starbucks
+173:Starbucks,Teavana
+410:Einstein Bros Bagels,Paradise Bakery & Cafe,Starbucks
+518:Frullati,In House,Starbucks
+517:Frullati,Starbucks
+516:Cold Stone Creamery,Mimi's Cafe
+413:Coffee Connoisseur
+411:Drybar,minibar.ber.shop,Narcisse Champagne & Tea Lounge,Press Coffee Roasters
+220:Au Bon Pain,Dunkin' Donuts,Teavana
+221:Au Bon Pain,Dunkin' Donuts,Starbucks
+222:Au Bon Pain,Teavana
+223:Cheers,Cheers,Cheers
+224:J.P. Licks
+225:Teavana
+328:Nestle Toll House Cafe By Chip
+226:Panera Bread
+329:Starbucks
+227:Cuppy's Coffee Cafe,Dunkin' Donuts,Panera Bread
+188:Bourbon Street Cafe,Bubble Tea,Bubble Tea,Dunkin' Donuts,Starbucks
+228:Dunkin' Donuts
+323:Starbucks
+229:Dunkin' Donuts
+324:Dunkin' Donuts,Dolceria
+320:Deux Au Naturel
+321:BitterSweet Cafe,News Stand
+322:Maui Wowi,Teavana
+522:Coffee Beanery
+521:Fix it with Frosting
+180:Starbucks
+429:Livias Coffee
+523:Cotton Patch Café,Cuppys Coffee & More
+428:Kneaders Bakery & Cafe,Mimi's Cafe,Starbucks
+610:Starbucks,Starbucks,Woody Creek Bakery & Cafe
+183:Starbucks
+612:Corner Bakery Cafe
+185:Starbucks
+611:Peet's Coffee & Tea
+186:Caribou Coffee,Corner Bakery Cafe,Janetta Belgian Waffles,Starfruit,Teavana
+614:Starbucks
+613:Starbucks
+615:Teavana,Cafe Bistro,Ebar,Starbucks,Starbucks,Teavana
+420:Melt Gelato & Crete Cafe,Starbucks
+618:Kataluma Chai Co,Starbucks
+423:Caffe Luce,Espresso Art Cafe,Paradise Bakery & Cafe,Starbucks,The Cereal Boxx
+617:Wystone's World Teas
+528:Aroma Coffee Bar,Panera Bread
+619:Blue Sky Cafe,Mimi's Cafe
+527:la Madeleine Country French Café,Starbucks
+424:Gloria Jean's Coffees,Mimi's Cafe
+116:Jitters Coffee Bar
+77:Gloria Jean's Coffees,Panera Bread,Sam's Cafe
+571:Gloria Jean's Coffees
+570:Panera Bread
+436:Starbucks
+433:The Human Bean
+431:Panera Bread,Starbucks
+432:Strictly Organic
+572:All Seasons Coffeehouse
+80:Grinders Gourmet Coffee
+81:Grinders Gourmet Coffee
+578:Starbucks,Starbucks
+86:Grinders Gourmet Coffee
+579:Starbucks
+87:Starbucks
+437:Bridge City Cafe - Lloyd Center,McDonald's,Starbucks
+577:Starbucks
+438:Bridge City Cafe - Pioneer Place,Kettleman Bagel Company Downtown,Moonstruck Chocolate Cafe,Starbucks,Teavana
+125:Panera Bread
+67:Starbucks
+126:T.Spoons
+66:Borders,Sanrio Cafe,Seattle's Best Coffee,Starbucks
+127:Panera Bread
+69:Botticelli Espresso,Starbucks
+300:Corner Bakery Cafe
+68:Victrola Coffee Roasters,Starbucks
+121:Starbucks
+582:Mrs. Fields,Starbucks
+304:Coffee Beanery
+581:Andersen Bakery,Starbucks
+305:Cafe East
+307:Nestle Toll House Cafe By Chip,Starbucks,Coffee Beanery
+129:Panera Bread,Starbucks
+309:Starbucks
+444:Something's Brewin
+446:Panera Bread,Starbucks
+440:Got Beans
+441:Caffe Europa
+442:Auntie Anne's Pretzels
+583:Mimi's Cafe,Panera Bread,Starbucks,Teazer World Tea Market,World sports cafe
+584:Starbucks
+71:Tully's Coffee
+587:El Meson Sandwiches,Starbucks
+73:Starbucks
+588:Starbucks
+449:Cool Beans Coffee Co,Hard Rock Cafe Pittsburgh
+589:Starbucks
+135:Panera Bread,Scooters Coffee House
+59:Starbucks
+138:Java Jive
+139:Marketplace Cafe
+57:Lappert's Hawaii,Living Foods Market
+136:Cafe Fresh Express,Mimi's Cafe,Nestle Toll House,Paciugo Gelato Overland Park,Panera Bread,Teavana
+56:Starbucks
+137:Dean & DeLuca,Panera Bread
+450:Caribou Coffee,Crazy Mocha Coffee
+453:Ebar,Marketplace Cafe
+454:Panera Bread,Starbucks
+451:McDonald's,Starbucks
+452:Starbucks
+458:Panera Bread,Starbucks
+558:Frullati
+455:Bourbon Street Cafe,Gloria Jean's Coffees
+559:Panera Bread
+456:Panera Bread,Starbucks
+64:Marie's Health Foods Organic Cafe
+554:Cafe Waza,Mimi's Cafe,Savoy Tea Co
+459:Gloria Jean's Coffee
+62:Island Vintage Coffee
+63:Beachwalk Cafe,Starbucks
+552:Dunkin' Donuts
+131:Starbucks
+60:Starbucks
+130:Click's Gaming Center & Internet Cafe
+550:MyH2O,Starbucks
+143:Starbucks
+560:Sweet Bay Coffee Co
+149:Starbucks
+461:Starbucks
+464:Nestle Toll House Cafe
+569:Gloria Jean's Coffees
+467:Nestle Toll House
+565:Panera Bread,Starbucks
+51:Starbucks
+567:Donut Connection
+53:Lighthouse Cafe
+54:Starbucks
+140:Missy's Mochas
+563:Gloria Jean's Coffees
+564:Panera Bread,Seattle's Best Coffee
+50:Starbucks
+487:Cafe Latte Coffee Co LLC,Pyramid Cafe
+281:Snickerdoodle's
+484:Starbucks
+285:Panera Bread
+284:Scooter's Coffee
+286:Starbucks
+287:Starbucks
+480:Caribou Coffee
+473:Kilwin's Chocolates,Panera Bread,Starbucks
+272:Starbucks
+274:Gloria Jean's Coffee,Gloria Jean's Coffee
+479:Starbucks
+275:Caffe Dolce,Mustard Seed Asian Cafe
+276:Starbucks
+278:Coffee Mill,Starbucks
+108:Panera Bread
+107:Panera Bread
+106:Frullati
+105:Cafe Bistro,Ebar,Starbucks
+102:Starbucks
+100:J L Hufford Coffee & Tea Co,Panera Bread
+595:Starbucks
+597:Andersen Bakery,Starbucks,Teavana
+391:Panera Bread,Starbucks
+596:Andersen Bakery,Starbucks
+390:Starbucks
+94:Panera Bread - Closed
+393:Coffee Beanery,Paradise Bakery & Cafe
+598:La Baguette,Starbucks
+93:Nestle Toll House Cafe By Chip,Starbucks,Wetzel's Pretzels
+395:Capriotti's Sandwich Shop,Panera Bread,Starbucks
+91:Starbucks
+394:Cinnabon
+90:Dunkin' Donuts
+294:Dunkin' Donuts,Starbucks
+293:Dunkin' Donuts,Gloria Jean's Coffee
+295:Gloria Jean's Coffees
+290:Panera Bread
+292:Dunkin' Donuts
+497:Frullati
+297:Starbucks
+298:Java Coast
+299:Au Bon Pain,Cafe L'Amour
+490:Starbucks
+396:Phoenicia Cafe,TopIt Cupcakes
+398:Teavana,Mimi's Cafe,Paradise Bakery & Cafe,Starbucks,Teavana,The Coffee Bean & Tea Leaf
+399:Teavana,Mimi's Cafe,Paradise Bakery & Cafe,Starbucks,Teavana,The Coffee Bean & Tea Leaf
+590:The Coffee Bean & Tea Leaf,Kelly's Coffee & Fudge Factory,Nestle Toll House,Starbucks
+592:Boudin SF,Peet's Coffee & Tea
+88:Caribou Coffee,Egg Harbor Cafe
+593:Nordstrom In House Cafe,Starbucks,Teavana
+89:Panera Bread,Starbucks
+241:Caribou Coffee
+195:Panera Bread
+383:Caribou Coffee
+194:Panera Bread,Starbucks
+191:Atlanta Bread
+190:Panera Bread,Starbucks
+198:Capital Teas, National Harbor,Gaylord National Resort & Convention Center,Mayorga Coffee Roasters,Gaylord National Resort & Convention Center
+385:McDonald's,Panera Bread,Starbucks
+245:Caribou Coffee,Panera Bread
+244:Teavana
+243:Caribou Coffee
+242:Bruegger's Bagels
+248:Caribou Coffee
+247:Caribou Coffee
+509:Nestle Toll House Cafe By Chip,Starbucks,Teavana Tea Store,Corner Bakery Cafe - Galleria
+230:Dunkin' Donuts
+370:Caribou Coffee
+372:Starbucks
+379:Havana House,Mrs. Fields,Starbucks
+378:Frullati,Gloria Jean's Coffees,Cheddar's Casual Cafe
+232:Cool Beans Coffee & Bakery
+234:Coffee Beanery
+233:Cool Beans Coffee & Bakery
+236:Marketplace Cafe,Ebar,Paradise Bakery & Cafe
+237:Frullati
+366:Starbucks
+363:Panera Bread,Starbucks
+368:Lighthouse Coffee,Moxie Java
+268:Panera Bread,Starbucks
+267:Gloria Jean's Coffees,Yogurtini
+266:Big Momma's Bakery-Cafe,Panera Bread,Shang Tea Co.
+264:Lollicup,Panera Bread
+350:Chock Full o' Nuts
+351:Dunkin' Donuts,Gloria Jean's Coffee,Starbucks
+353:New York Bagels - Outer Banks
+352:Dunkin' Donuts,Gloria Jean's Coffee,Starbucks
+358:Starbucks

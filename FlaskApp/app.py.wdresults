@@ -1,0 +1,68 @@
+from flask import Flask, render_template, request, redirect, url_for
+from flask.helpers import send_from_directory
+app = Flask(__name__)
+import association_analysis
+
+
+@app.route("/")
+def main():
+	print 'started'
+	"""
+	dataset=association_analysis.load_dataset('store')
+	print 'data done'
+	#print dataset
+	listOfFreqItems,support_data=association_analysis.apriori(dataset,0.04)
+	print 'list done'
+	result= association_analysis.find_suggestion('GameStop',listOfFreqItems,support_data) 
+	print 'result done'
+	#return result
+	return "Welcome!\nWelcome"
+	"""
+	
+	return render_template('index.html')
+
+@app.route('/dataset')
+def generateDataset():
+	print 'data done'
+	dataset=association_analysis.load_dataset('store')
+	
+	return str(dataset)	
+	
+@app.route('/getReco', methods=['POST'])
+def generate_recommendation():
+	print 'data done'
+	storeType=request.form['category']
+	stores=request.form['stores']
+	stores=stores.lower()
+	print storeType
+	print stores
+	dataset=association_analysis.load_dataset(storeType)
+	listOfFreqItems,support_data=association_analysis.apriori(dataset,0.04)
+	result= association_analysis.find_suggestions(stores.strip(),listOfFreqItems,support_data) 
+        incomeBased=request.form['income']
+	resultString=''
+	list_suggestion=''
+	if(incomeBased=='True'):
+		list_suggestion= association_analysis.getStoresBasedOnIncomeScores(stores,10)
+    
+		for i in range(0,list_suggestion.shape[0]):
+        		resultString=resultString+'\n'+ list_suggestion[i][0]+","+ list_suggestion[i][1]
+	resultString=str(result)+'\n Suggestion from Income Data: \n' +resultString;
+	print list_suggestion[0]
+	#return str(resultString)	
+	return render_template("results.html", resultString=[1,2,3,4])
+
+@app.route('/getIncomeReco', methods=['POST'])
+def generate_recommendation2():
+        print 'data done'
+        incomeBased=request.form['income']
+        stores=request.form['stores']
+        stores=stores.lower()
+        print storeType
+        print stores
+        result= association_analysis.getStoresBasedOnIncomeScores(stores)
+        return str(result)
+	
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=47152,debug=True)
+	

@@ -1,0 +1,96 @@
+338:CVS Pharmacy
+487:Street Corner
+195:CVS Pharmacy
+39:Mom & Pop's Dollar Plus
+191:CVS Pharmacy
+434:Rite Aid
+198:CVS Pharmacy
+42:CVS Pharmacy
+385:CVS Pharmacy
+40:Mapco Express
+245:Amarose Convenience Store
+572:Outagamie Cooperative Services Inc
+243:Amarose Convenience
+536:B & B News Stand Inc
+349:CVS Pharmacy
+125:Coral Convenience Store
+67:Tesoro
+126:CVS Pharmacy
+66:Longs Drugs
+69:Rite Aid Pharmacy
+205:C Mart
+507:Firewheel Mart
+201:Dollar Ocean
+230:CVS
+372:C K's Lottery Mart
+475:Sunrise At North Park
+307:Woodbridge News Inc
+501:Convenience Corner and Cafe
+309:Street Corner
+409:Chevron Phoenix
+379:Dollar Plus
+445:Rite Aid Pharmacy
+378:Mr.News
+375:Marc's Stores,Street Corner,Street Corner
+441:CVS Pharmacy
+340:Snack N More
+587:Walgreens
+236:The Snack Shop
+134:Street Corner
+211:Liberty News
+132:Hy-Vee Gas & Convenience Store
+59:Longs Drugs
+136:Street Corner
+56:Longs Drugs
+213:Paper Route
+179:Rite Aid Pharmacy,Rite Aid Pharmacy
+17:CVS Pharmacy
+177:BP
+217:CVS Pharmacy
+176:Perfumery
+218:Dollar N Things
+310:Street Corner News
+311:Good Times Convenience Center
+170:M J Mart
+21:At Your Convenience
+512:Street Corner News
+171:Convenience Corner
+511:Street Corner News
+451:Street Corner
+416:Lobby Shop
+623:Dollar N Things
+622:Street Corner
+369:Speedway
+455:STREET CORNER
+456:Z Cornerstore
+410:Walgreens
+64:ABC Stores
+63:ABC Stores
+414:Walgreens
+60:Chevron,Walgreens
+267:Street Corner
+413:Danny's Family Car Wash
+61:ABC Stores,Longs Drugs
+265:CVS Pharmacy
+221:CVS
+222:S K Convenience Stores
+223:Gateway Newstand
+328:Giant
+329:CVS Pharmacy,CVS Pharmacy
+226:Rite Aid Pharmacy
+394:At Ur Convenience
+499:Quick Mart
+293:Queen City News
+296:CVS Pharmacy
+295:CVS Pharmacy
+321:News Stand
+322:Deptford News
+522:Goodies
+463:CVS Pharmacy
+464:Suit Max
+469:Dollar Plus
+186:Perfume Depot,Montgomery Mall Shell
+421:Sam's Mini Mart
+568:Walgreens
+528:B & B Newsstand
+424:Street Corner News

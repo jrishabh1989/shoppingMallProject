@@ -1,0 +1,403 @@
+338:Bon-Ton,Christopher & Banks,JCPenney,JCPenney,Macy's,Sears,Sears Optical,Sunglass Hut at Macy's
+339:Bon-Ton,Bon-Ton,Christopher & Banks,Christopher & Banks,Sears,Target
+332:Christopher & Banks,Christopher & Banks,JCPenney,JCPenney,Sears,Target
+330:Dillard's,JCPenney,Sears
+158:Belk,Dillard's,JCPenney,Sears,Stein Mart
+331:JCPenney,JCPenney,Sears
+336:Bon-Ton,Christopher & Banks,Christopher & Banks,JCPenney,Sears
+156:Dillard's,Sears
+337:Sears,Christopher & Banks,Kmart,Macy's - CLOSED,Sears
+334:Bon-Ton,JCPenney,Sears,Sears,T.J.Maxx,Target
+154:JCPenney,Macy's,Macy's,Sears
+601:CJ Banks,Christopher & Banks,Macy's
+152:CJ Banks,Dillard's,Dillard's,Eddie Bauer,Christopher & Banks
+600:Christopher & Banks,JCPenney,Sears,Sears
+150:Christopher & Banks,Dillard's,Dillard's,Gordmans,Christopher & Banks,JCPenney,Macy's,Sunglass Hut at Macy's,JCPenney
+534:Dillard's,JCPenney,Macy's,Sears,Sears Optical
+533:Macy's,Palais Royal
+609:Claire's,Dillard's,JCPenney,Macy's,Sears,Sears Optical
+539:Dillard's,JCPenney,Macy's
+608:JCPenney,Macy's,Target
+538:Dillard's,Eddie Bauer,Macy's,PacSun,Sunglass Hut at Macy's
+607:JCPenney,Ross Dress for Less,T.J.Maxx,Talbots,Walmart Supercenter
+606:CJ Banks,Christopher & Banks,JCPenney,Macy's,Ross Dress for Less,Target
+536:Dillard's,JCPenney,Macy's,Palais Royal,Sears
+605:Dillard's,Christopher & Banks,Macy's,Nordstrom FlatIron Crossing
+604:Macy's,Nordstrom Rack Twenty Ninth Street Shopping Center
+602:Christopher & Banks,Christopher & Banks,JCPenney,Sears
+202:Nordstrom Rack Annapolis Harbour Center
+349:JCPenney,Macy's,Sears
+203:Target
+205:Gordon's Jewelers,JCPenney,Lord & Taylor,Macy's,Nordstrom Annapolis Mall,Sears,Sears,Sears Optical,Sunglass Hut at Macy's
+200:Target
+201:Sunglass Hut at Macy's,JCPenney,Macy's,Sears,Sunglass Hut at Macy's
+169:Bon-Ton,Christopher & Banks,Sunglass Hut at Macy's,Christopher & Banks,JCPenney,Macy's - Closed,Sears
+342:Aéropostale,Macy's,Sears
+344:Bloomingdale's,Lord & Taylor,Macy's,Saks Fifth Avenue,Steve Madden
+206:Boscov's,JCPenny,Macy's,Sears
+166:Bon-Ton,Christopher & Banks,JCPenney,Sears,Sears Optical,Sears,Walmart Supercenter
+165:Christopher & Banks,JCPenney
+208:Macy's,Sears
+209:Big Lots,T.J. Maxx and HomeGoods
+161:Dillard's,Dillard's,JCPenney,JCPenney,Sears
+409:Costco,Dillard's,Christopher & Banks,JCPenney,Macy's,Sears
+541:Kohl's Georgetown,Ross Dress for Less,Target,T.J.Maxx
+7:Kinnucan's of Tuscaloosa
+405:Ross Dress for Less,Target
+544:Marshalls
+6:Dillard's,Dollar Tree,Goody's,JCPenney,Sears
+543:Nordstrom Rack Gateway
+5:Belk,Belk
+340:Bon-Ton,Christopher & Banks,JCPenney,Macy's - Closed,Sears
+546:Bealls,Fallas Stores,JCPenney,Ross Dress for Less
+160:Aéropostale,Dillard's,JCPenney,Kohl's Lake Charles,Sears,Prien Lake Mall,Spencer Gifts
+4:Belk,Dillard's,Dillard's,JCPenney,JCPenney,Sears,Target
+401:Claire's,G by Guess,JCPenney,Ross Dress for Less,Stein Mart,Target
+548:Bealls,Dillard's,JCPenney,JoeBrand,Macy's,Sears,Sears Optical,Zales - The Diamond Store
+400:Arizona Mills,JCPenney Outlet Store,Marshalls,Arizona Mills,Ross Dress for Less
+547:Bealls,JCPenney,Ross Dress for Less
+9:Belk,Citi Trends,jcpenney
+403:Barneys New York, Scottsdale,Dillard's,Barneys New York, Scottsdale,Macy's,Talbots
+8:Belk,Belk,JCPenney,Sears,The Children's Place
+549:Dillard's,JCPenney,Sears
+211:Kohl's Danvers,Marshalls,Nordstrom Rack Liberty Tree Mall,Target
+212:JCPenney,Target
+210:Kohl's Millbury,Target
+216:Walmart
+319:JCPenney,Macy's,Nordstrom Cherry Hill
+213:JCPenney,Macy's,Sears,Target
+316:Bloomingdale's,Fendi,Macy's,Nordstrom The Mall at Short Hills,Saks Fifth Avenue
+214:Macy's - Closed,Sears
+317:JCPenney,Sears,Sears Optical,Target
+179:Target
+178:Christopher & Banks,Macy's,Sears,Sears Optical
+315:Bloomingdale's,Fendi,Macy's,Nordstrom The Mall at Short Hills,Saks Fifth Avenue
+217:Square One Mall,Macy's,Sears,Square One Mall,T.J.Maxx
+177:Macy's,Macy's,Sears,The Athlete's Foot
+312:JCPenney,Lord & Taylor,Macy's,Sears,Sunglass Hut at Macy's,Target,Rockaway Townsquare
+218:Marshalls
+176:JCPenney,Sears,Sears Optical
+313:Bon-Ton,JCPenney,Kohl's Phillipsburg,Sears
+310:Lord & Taylor,Macy's,Sears
+311:Sears,Lord & Taylor,Macy's,Livingston Mall,Sears,Sears Optical
+170:Belk,Boscov's,Christopher & Banks,Sears,Sears Optical
+418:Dillard's,JCPenney
+171:Macy's - CLOSED
+417:Dillard's,JCPenney,JCPenney,Stage
+512:Sears
+511:Sears
+623:Christopher & Banks,Macy's - Closed,Sears,Target
+622:JCPenney,Lord & Taylor,Macy's,Sears
+175:JCPenney,Macy's,Macy's,Sears
+621:Dillard's,DownEast Basics,JCPenney,Macy's,Sears,Target
+620:CJ Banks,Christopher & Banks,Lucky Brand
+173:Macy's,Nordstrom,Nordstrom Rack Towson
+419:Green Valley Village
+410:Ross Dress for Less
+519:Christopher & Banks,Dillard's,Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears,Sears Optical,Sears
+518:Dillard's: Northeast Mall,North East Mall,JCPenney,North East Mall,Macy's,Nordstrom North East Mall,North East Mall,Sears,North East Mall,T.J.Maxx
+414:JCPenney,Ross Dress for Less,Target,Walmart Supercenter
+517:Dillard's,Fossil Apparel,JCPenney,Macy's,Sears
+413:Last Chance Clearance Store,Marshalls,Nordstrom Rack
+514:Grapevine Mills,Grapevine Mills,JCPenney Outlet Store,Marshalls,Ross Dress for Less,Grapevine Mills
+220:Lord & Taylor,Olympia Sports,Saks Fifth Avenue
+221:Macy's,Macy's,Sears,Sunglass Hut at Macy's
+222:Barneys New York, Copley Place,Elie Tahari
+223:Crate & Barrel
+225:The Shops at Chestnut Hill,Bloomingdale's,Eddie Bauer,The Shops at Chestnut Hill
+328:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Ross Dress for Less,Sears,Sears
+226:Kohl's Hingham,Talbots
+329:Ross Dress for Less
+227:JCPenney - Closed,JCPenney - Closed,Macy's,Sears,Sears Optical,Walmart
+228:Fallas Stores,Macy's,Sears
+188:G by Guess,JCPenney,Macy's,Target,Westfield Wheaton
+229:JCPenney,Macy's,Macy's,Macy's,Sears,Sears Optical,Emerald Square
+189:Lord & Taylor
+320:Boscov's,Macy's
+321:Boscov's,Lord & Taylor,Macy's,Sears,Macy's
+322:Boscov's,JCPenney,Macy's,Sears
+427:Dillard's,Christopher & Banks,JCPenney,K-Momo,Sears
+522:Sears,JCPenney,Sears,Sears
+426:Dillard's,JCPenney,Marshalls,Sears
+521:Bealls,Dillard's,JCPenney,Dillard's,Ross Dress for Less,Sears,Sears,Sears Optical,Sears
+429:Dillard's,Sears
+428:Dillard's,JCPenney,Marshalls,Ross Dress for Less,Target
+523:Dillard's,JCPenney,Macy's
+610:Dillard's,JCPenney,Lucky Brand,Macy's,Nordstrom Park Meadows
+183:JCPenney,Lord & Taylor,Macy's,Sears,Sears Optical,Sunglass Hut at Macy's
+520:Bealls,Dillard's,JCPenney,JCPenney,Sears,Sears,Sears
+611:Macy's,Sears,Sunglass Hut at Macy's
+186:Macy's,Westfield Montgomery,Nordstrom Montgomery Mall,Sears,Sears Optical,Westfield Montgomery
+421:Saks Fifth Avenue OFF 5TH,Ross Dress for Less
+615:Macy's,Nordstrom Cherry Creek Shopping Center,Saks Fifth Avenue
+420:Dillard's,Macy's,Sears
+618:Colorado Mills,Colorado Mills,Colorado Mills,Colorado Mills,Colorado Mills,Christopher & Banks Outlet,Colorado Mills,Colorado Mills,Target,Colorado Mills
+617:Nordstrom Rack Belmar,Target
+528:Dillard's,JCPenney,Macy's
+424:Dillard's,JCPenney,Macy's,Sears,Trading Post
+527:Target
+116:CJ Banks,Christopher & Banks,JCPenney - Closed,Younkers
+114:CJ Banks,Dillard's,Christopher & Banks,JCPenney,Macy's,Marshalls
+115:Dillard's,JCPenney,Sears,Sears,T.J.Maxx
+112:Christopher & Banks,College Mall,College Mall,Christopher & Banks,Macy's,Sears,College Mall,Target,College Mall,Vanity
+571:CJ Banks,Christopher & Banks,JCPenney,Macy's,New York & Company,Sears,Target,Younkers
+113:Elder-Beerman,JCPenney,JCPenney,Kmart
+570:Hollister Co.,Hollister Co.,Christopher & Banks,Sears,Hollister Co.,JCPenney,Macy's,Macy's,Macy's,Sears,Sunglass Hut at Macy's,Target
+118:Gordmans,Christopher & Banks,JCPenney - Closed,Sears,Sears Optical,Sears,Younkers
+119:Glik's,Christopher & Banks,JCPenney,Younkers
+433:Macy's - Closed,JCPenney - Closed,JCPenney - Closed,Macy's - Closed,Ross Dress for Less
+434:Macy's - Closed,Kmart
+431:Ross Dress for Less,T.J.Maxx
+575:Boston Store,Christopher & Banks,Christopher & Banks,JCPenney,Kohl's Janesville,Sears
+439:Big Lots,Christopher & Banks,JCPenney,Ross Dress for Less,Sears
+437:Sears,Macy's,Marshalls,Nordstrom Lloyd Center,Nordstrom Lloyd Center,Ross Dress for Less,Sears
+576:Dillard's,Dillard's,JCPenney,Sears,Sears
+577:Christopher & Banks,JCPenney,JCPenney,Macy's,Ross Dress for Less,Sears,Sears,Target
+125:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears,Sears,Sears,Target,Younkers
+128:Christopher & Banks,JCPenney,Younkers
+580:JCPenney,Macy's,Sears,Sears,Sears Optical
+123:CJ Banks,Christopher & Banks,Sears,Von Maur,Younkers
+304:Marshalls
+582:JCPenney,Sunglass Hut at Macy's - Mens,Macy's,Sunglass Hut at Macy's - Mens,Urban Outfitters
+124:JCPenney,Younkers
+581:JCPenney,Macy's,Sears
+307:JCPenney,Lord & Taylor,Macy's,Sears
+129:Nordstrom Rack The Plaza at Jordan Creek,Caché,Dillard's,Christopher & Banks,Younkers,Younkers
+309:Boscov's,JCPenney,Ocean County Mall,Macy's,Boscov's,Sears,Sears Optical,Ocean County Mall
+444:Christopher & Banks,Christopher & Banks,JCPenney,Macy's,Sears,Sears Optical
+445:Bon-Ton - CLOSED,Boscov's,Christopher & Banks,JCPenney,Sears,T.J.Maxx
+446:Macy's
+440:Christopher & Banks,JCPenney,Sears,Sears,Bon-Ton
+441:Bon-Ton,JCPenney,Macy's,Sears,Strawberry
+442:Bon-Ton,Boscov's,JCPenney - Closed,Sears
+583:JCPenney,Kohl's Fresno North,Macy's,Marshalls,Target
+584:Dillard's,JCPenney,Macy's,Marshalls,Sears
+120:Christopher & Banks,Concept by Iowa Hearing Aid Centers,JCPenney,Younkers
+587:Plaza Carolina,Plaza Carolina,Plaza Carolina,JCPenney,Sears,T.J.Maxx,Tiendas Capri - Plaza Carolina
+589:Big Lots,T.J.Maxx
+134:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney
+135:JCPenney,T.J.Maxx,Target
+132:Sears,Target
+133:CJ Banks,Dillard's,Kohl's Salina,Christopher & Banks,JCPenney,Sears,Sears Optical,Sears
+139:JCPenney,Nordstrom Anchorage
+136:Dillard's,Dillard's,Dillard's,JCPenney,Macy's,Nordstrom Rack Orchard Corners
+137:Macy's
+453:JCPenney,Macy's,Nordstrom Ross Park,Ross Park Mall,Sears,Ross Park Mall
+454:CJ Banks,Christopher & Banks,JCPenney,Macy's,Ross Dress for Less,Sears,Walmart Supercenter
+451:JCPenney,Macy's,Sears
+452:Marshalls,T.J.Maxx
+455:Sunglass Hut at Macy's,Christopher & Banks,JCPenney,JCPenney,Macy's
+558:Dillard's,Dillard's,Talbots,Talbots,Talbots
+456:CJ Banks,Christopher & Banks,JCPenney,Macy's,Ross Dress for Less,Sears,Walmart Supercenter
+559:Belk
+459:South Hills Village,Christopher & Banks,Macy's,South Hills Village,Sears,Sears Optical,South Hills Village,Sunglass Hut at Macy's,Target
+554:Dillard's,Gordmans,Christopher & Banks,JCPenney,T.J.Maxx,Target
+555:Dillard's,Dillard's,Forever 21,JCPenney,Sears
+131:Kohl's Merle Hay,Sears,Sears Optical,Target,Younkers
+552:Bon-Ton,Christopher & Banks,Christopher & Banks,JCPenney,Kohl's South Burlington,Sears
+130:CJ Banks,Chiq,Christopher & Banks,JCPenney,Von Maur,Younkers
+550:Macy's
+143:CJ Banks,Dillard's,Elder-Beerman,Christopher & Banks,JCPenney,Sears
+144:Dillard's,Christopher & Banks,JCPenney,Macy's,Macy's,Sears
+560:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears,Sears
+146:Magic Mart,Peebles
+147:Belk,Christopher & Banks,JCPenney,Sears
+148:Christopher & Banks,JCPenney,Macy's
+149:Dillard's,T.J.Maxx,JCPenney,Macy's,Sears
+461:Bon-Ton,Stein Mart
+460:Aéropostale,Bon-Ton,JCPenney,Kmart,Sears
+463:Boscov's,Christopher & Banks,Kohl's Pottstown
+464:As Seen on TV,JCPenney,Philadelphia Mills,Marshalls HomeGoods
+465:Walmart Supercenter
+466:Macy's,Target
+569:CJ Banks,Christopher & Banks,Kohl's Green Bay West,Bay Park Square
+467:Boscov's,J C Penney Co,Macy's,Sears
+468:JCPenney,Sears
+469:Bon-Ton,Christopher & Banks,Sears
+565:CJ Banks,Elder-Beerman - CLOSED,Sears,Christopher & Banks,JCPenney,Kohl's Huntington,Macy's,Sears,Sunglass Hut at Macy's
+567:Belk,Christopher & Banks,JCPenney,Sears
+140:Bethel Limited,Icing by Claire's
+561:Dillard's,Goody's - CLOSED,JCPenney,Sears,Sears
+562:Citi Trends
+563:Belk,Christopher & Banks,Elder-Beerman,Christopher & Banks,JCPenney,Sears,Sears Optical
+564:Belk,Elder-Beerman,Christopher & Banks,JCPenney,Sears,Sears Optical,Sears
+195:Dollar General,Ross Dress for Less
+194:Macy's,Sears
+197:Forman Mills
+196:Dollar General
+191:Big Lots,Marshalls,Sears Home Appliance Showroom GREENBELT,Shopper World,Target
+190:Pier 1 Imports
+192:Macy's,Marshalls,Ross Dress for Less,Target
+506:Stage,Dillard's,JCPenney,JCPenney,Sears,Sears
+509:Macy's,Saks Fifth Avenue
+507:Christopher & Banks,Dillard's,Firewheel Town Center,Firewheel Town Center,Firewheel Town Center,Macy's,Spencer Gifts,Sunglass Hut at Macy's,Urban Attitude
+508:Ross Dress for Less,Sears,Target
+501:Bealls,Central Mall,Central Mall,Dillard's,Christopher & Banks,JCPenney,Sears
+39:Target,Target
+37:Belk,Belk,JCPenney (PERMANENTLY CLOSED),Sears
+42:Aéropostale,Ten Thousand Villages
+23:A'GACI,Sawgrass Mills,Barneys Warehouse, Sawgrass Mills,Bealls Outlet,Bloomingdale's,Brandsmart USA,Sawgrass Mills,Barneys Warehouse, Sawgrass Mills,Sawgrass Mills,International Electronics Superstore,Marshalls,Max Studio,Nordstrom Rack The Oasis at Sawgrass Mills,Sawgrass Mills,Target,T.J.Maxx
+24:Dillard's,JCPenney,Macy's,Sears
+25:Dillard's,JCPenney,JCPenney,Macy's,Sears
+26:Belk,JCPenney,Sears
+27:Bealls Outlet,Belk,Belk,JCPenney
+28:Ann Taylor,Belk,Dillard's,JCPenney,Macy's,Sears
+29:Belk,JCPenney,Ross Dress for Less,Sears
+19:Dillard's,JCPenney,Sears
+17:Ross Dress for Less,Target,Walmart
+18:Ann Taylor,Belk,Dillard's,JCPenney,Macy's,Sears
+13:Belk,Dillard's,JCPenney
+14:Aéropostale,Belk,Dillard's,Ross Dress for Less
+11:Belk,Dillard's,Dillard's,JCPenney,JCPenney,Sears
+12:Dillard's
+21:JCPenney,Kohl's Coral Springs,Macy's,Coral Square,Sears
+79:Kohl's Springfield,T.J.Maxx
+78:Bergner's,White Oaks Mall,CJ Banks,Christopher & Banks,Kohl's Springfield,Macy's,Sears,Sears Optical,White Oaks Mall,T.J.Maxx
+77:Christopher & Banks,JCPenney,Macy's,Sunglass Hut at Macy's
+80:Bergner's,Christopher & Banks,JCPenney,JCPenney,Kohl's Decatur,Von Maur
+81:Bergner's,Christopher & Banks,JCPenney,JCPenney,Kohl's Decatur,Von Maur
+86:Christopher & Banks,Christopher & Banks,JCPenney,JCPenney,Marshalls
+87:The Promenade Bolingbrook,Hollister Co.,Macy's,Macy's,The Promenade Bolingbrook
+84:Bergner's,Christopher & Banks,Gordmans,Christopher & Banks,JCPenney,Kohl's Champaign,Macy's
+85:Christopher & Banks,Carson's,Christopher & Banks - Closed,JCPenney,Sears
+66:Lady Foot Locker,Macy's,Macy's,Ross Dress for Less,Sears
+69:Christopher & Banks,Macy's - Closed,Macy's - Closed,Ross Dress for Less
+68:Macy's,Ross Dress for Less
+70:Christopher & Banks,JCPenney,Macy's,Pretzelmaker,Sears,Sunglass Hut at Macy's
+71:Dress Barn,Gordmans,Kohl's Nampa,Target
+73:Bergner's,CJ Banks,Christopher & Banks,JCPenney - Closed,JCPenney - Closed,Sears,Sears Optical
+59:Macy's
+56:Kmart,Macy's,Macy's,Macy's
+61:Macy's,Nordstrom Ala Moana,Shirokiya
+44:Walmart
+51:Aéropostale,Dillard's,JCPenney,Macy's,Sears
+54:Macy's,Macy's,Sears
+50:Target
+281:Herberger's,Christopher & Banks,JCPenney
+487:Belk,Dillard's,Christopher & Banks,JCPenney,Macy's,Sears,Talbots,Talbots
+280:CJ Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears,Sears,Sears,Younkers
+486:Aéropostale,Belk,Belk,Kmart,JCPenney
+485:Belk,CJ Banks,Christopher & Banks,Sears,T.J.Maxx
+285:Christopher & Banks,Von Maur
+284:CJ Banks - Closed,Dillard's,Christopher & Banks,JCPenney,Sears,Younkers
+489:Belk,JCPenney,Macy's,Sears,Sears Optical
+287:Dillard's,JCPenney,Sears,Younkers
+482:Belk,Belk,Christopher & Banks,JCPenney,Sears
+483:Belk,Goody's,Christopher & Banks,JCPenney - CLOSED,JCPenney - CLOSED,Kohl's Morristown,Sears
+480:CJ Banks,Gordmans,The Empire Mall,Christopher & Banks,JCPenney,Kohl's Sioux Falls,Macy's,The Empire Mall,Sears,T.J.Maxx,Talbots,Target,Younkers
+481:Belk,Belk,Dillard's,Christopher & Banks,JCPenney,Sears,Target
+473:Aéropostale,Pier Park,Dillard's,JCPenney,Marshalls,Target
+270:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Macy's,Sears,Sears Optical,Sunglass Hut at Macy's
+476:Belk,Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears,Sears
+475:Belk,Dillard's,JCPenney,Northpark Mall
+272:Marshalls
+477:Belk,JCPenney,Sears
+274:Belk
+273:CJ Banks,Christopher & Banks,JCPenney,Macy's
+479:Herberger's,JCPenney,Sears
+275:Dillard's,Herberger's,Christopher & Banks,Icing by Claire's,JCPenney
+276:Big Lots,Herberger's,Christopher & Banks,JCPenney,JCPenney,Ross Dress for Less
+277:Hot Topic,JCPenney,Macy's
+278:Dillard's,Rimrock Mall,Herberger's,JCPenney
+279:CJ Banks,Herberger's,Christopher & Banks,JCPenney,Target
+471:Macy's,Sears,Bon-Ton
+109:In New Style,Target
+108:Carson's,Go Fish Clothing & Jewelry Co,Circle Centre Mall,T.J.Maxx,Talbots
+107:Christopher & Banks,Christopher & Banks,JCPenney
+106:Forever 21,JCPenney,JCPenney,Macy's,Sears,Castleton Square,Von Maur
+105:The Fashion Mall at Keystone,Nordstrom Fashion Mall at Keystone,Saks Fifth Avenue,The Fashion Mall at Keystone,Talbots,Talbots
+104:CJ Banks,Elder-Beerman,Elder-Beerman,Christopher & Banks,JCPenney,Macy's,Sears
+103:Carson's,JCPenney,JCPenney
+102:Carson's,Christopher & Banks,Sears,Target
+100:CJ Banks,Tippecanoe Mall,Tippecanoe Mall,Christopher & Banks,JCPenney,Kohl's Lafayette,Macy's,Sears
+98:CJ Banks,Christopher & Banks - Closed,JCPenney
+595:Marshalls
+97:Carson's,JCPenney
+391:The Mall at Tuttle Crossing,Christopher & Banks,JCPenney,Macy's,The Mall at Tuttle Crossing,The Mall at Tuttle Crossing,Macy's,Sears,Sears Optical,Sears,The Mall at Tuttle Crossing,Talbots
+597:Macy's,Nordstrom Hillsdale Shopping Center,Sunglass Hut at Macy's
+390:Christopher & Banks,JCPenney,Macy's,Saks Fifth Avenue,Sears,Sears Optical,Sears,Talbots,Von Maur
+596:JCPenney,Sears,Target
+599:Macy's,Sears,Sunglass Hut at Macy's
+94:Carson's,Kohl's Chicago Ridge,Sears,Sears Optical
+393:Dillard's,Christopher & Banks,JCPenney,JCPenney,Macy's,Ross Dress for Less,Sears
+93:Carson's,Irish and Celtic Imports,JCPenney,Macy's,Sears,Sears Optical,Torrid
+392:Dillard's,Christopher & Banks,JCPenney,JCPenney,Sears
+598:Bloomingdale's,Macy's,Nordstrom Stanford Shopping Center,Wilkes Bashford
+395:Talbots
+91:Anna's Linens,Carson's,JCPenney,Sears,Sears Optical,Sears
+394:Dillard's: Fiesta Mall,Sears,Tinkerbell
+294:JCPenney,JCPenney,Macy's,Pheasant Lane Mall,Sears,Target
+90:Marshalls
+293:Christopher & Banks,JCPenney,Macy's,Sears,The Mall of New Hampshire
+499:Abercrombie Kids,Bealls,Dillard's,Christopher & Banks,JCPenney,Sears
+295:Christopher & Banks,JCPenney,Macy's,Macy's,Sears,The Mall at Fox Run
+290:Claire's,JCPenney,JCPenney,Von Maur,Younkers
+292:Bon-Ton,Christopher & Banks,JCPenney,Sears,Talbots
+291:Talbots
+497:Bealls,Earthbound Trading Co,Christopher & Banks,JCPenney,Sears
+298:JCPenney,Macy's,Sears
+299:Barneys New York Co-Op,Bloomingdale's,Saks Fifth Avenue,The Shops at Riverside,Talbots,Talbots,The Shops at Riverside
+490:Dillard's,Her-She,Macy's
+398:Dillard's,Guess,Macy's,Nordstrom Chandler Fashion Center,Nordstrom Rack Chandler Festival,Ross Dress for Less,Sears,T.J.Maxx
+399:Dillard's,Guess,Macy's,Nordstrom Chandler Fashion Center,Nordstrom Rack Chandler Festival,Ross Dress for Less,Sears,T.J.Maxx
+590:JCPenney,Macy's,Sears,Sears Optical,Talbots,Westfield Valencia Town Center,Westfield Valencia Town Center
+88:Christopher & Banks,Carson's,Carson's,Charming Charlies Yorktown Center,JCPenney,JCPenney Salon,Marshalls,Target
+593:Westfield Galleria at Roseville,J Crew,JCPenney,Macy's,Nordstrom Galleria at Roseville,Sears,Sears Optical
+241:Christopher & Banks,JCPenney,Sears,Miller Hill Mall,Younkers
+383:CJ Banks,Dillard's,Christopher & Banks,Macy's,Sears
+384:JCPenney,Macy's,Sears,Walmart Supercenter
+381:Elder-Beerman,Christopher & Banks,JCPenney,Elder-Beerman,T.J.Maxx
+382:CJ Banks,Elder-Beerman - CLOSED,Christopher & Banks,Icing by Claire's,JCPenney,Macy's,Sears
+389:Christopher & Banks,Elder-Beerman,Christopher & Banks,JCPenney,Sears
+388:Christopher & Banks,Elder-Beerman,Elder-Beerman,Christopher & Banks,JCPenney,Sears,Sears Optical
+387:Elder-Beerman,Elder-Beerman,JCPenney,JCPenney,Sears
+385:Kmart,Christopher & Banks,Elder-Beerman,Christopher & Banks,Macy's,Sears
+245:Christopher & Banks,Herberger's,Christopher & Banks,Christopher & Banks,JCPenney,Target,Macy's,Macy's,Sunglass Hut at Macy's,Sunglass Hut at Macy's
+243:JCPenney,Kohl's Maplewood,Macy's,Sears,Sears Optical
+242:CJ Banks,Christopher & Banks
+248:CJ Banks,Herberger's,Christopher & Banks,JCPenney,Macy's
+247:Christopher & Banks,Herberger's,Christopher & Banks,JCPenney,Sears,Sears Optical,Sears,Target
+246:CJ Banks,Glik's,Herberger's,Christopher & Banks,JCPenney,JCPenney
+230:Sunglass Hut at Macy's,Cape Cod Mall,Cape Cod Mall,Macy's,Cape Cod Mall,Marshalls,Sears,Sears Optical
+370:Dillard's,Dillard's,JCPenney,Macy's,Sunglass Hut at Macy's,Franklin Park Mall,Franklin Park Mall
+372:Christopher & Banks,Dillard's,Christopher & Banks,JCPenney,JCPenney,Macy's,Macy's,Sears,Sears Optical,Great Northern Mall
+379:Big Lots,Dillard's,Charlotte Russe,Christopher & Banks,JCPenney,Kohl's Niles,Macy's,Sears,Kmart,T.J.Maxx,Target
+239:Christopher & Banks - Closed
+378:CJ Banks,Dillard's,Christopher & Banks,JCPenney,Macy's,Sears,Sears Optical
+375:JCPenney,Macy's,Walmart
+376:JCPenney,Kmart,Kmart
+232:Christopher & Banks,Hollister Co.,Christopher & Banks,JCPenney,Macy's,T.J.Maxx,Target
+234:Christopher & Banks,JCPenney,Macy's,Macy's,Sears
+233:Christopher & Banks,Hollister Co.,Christopher & Banks,JCPenney,Macy's,T.J.Maxx,Target
+236:The Shops at Mission Viejo,Macy's,Nordstrom The Shops at Mission Viejo,The Shops at Mission Viejo,The Shops at Mission Viejo
+235:JCPenney,Macy's,Sears
+237:Christopher & Banks,Christopher & Banks,JCPenney,Macy's,Sears,Target
+263:Dillard's,Christopher & Banks,JCPenney,Sears
+260:Belk,Dillard's,JCPenney,Sears
+261:Dillard's,Gordmans,JCPenney,Sears,Sears Optical
+360:Belk,JCPenney
+366:CJ Banks,Herberger's,Christopher & Banks,JCPenney,Target
+364:Christopher & Banks,Herberger's,Christopher & Banks - Closed,JCPenney,Bon-Ton,Sears,Target
+363:Belk
+369:Elder-Beerman,JCPenney,Sears
+368:Christopher & Banks,Herberger's,JCPenney,Macy's,Sears,Sunglass Hut at Macy's
+367:Kmart
+269:Talbots,Von Maur
+268:Kohl's Lee's Summit,T.J.Maxx
+267:Dillard's,Independence Center,Macy's,Independence Center,Sears
+266:Halls Kansas City,Halls Kansas City
+265:Dillard's,Marshalls and HomeGoods
+264:Dillard's,Christopher & Banks,JCPenney,Sears,Target
+350:Macy's,Sears,Sunglass Hut at Macy's
+351:JCPenney,Macy's,Sunglass Hut at Macy's
+353:Belk
+352:JCPenney,Macy's,Sunglass Hut at Macy's
+355:JCPenney - Closed,Roses
+354:Walmart Supercenter
+357:Belk,JCPenney,Sears,Sears Optical
+359:Belk,Dillard's,JCPenney - CLOSED,RadioShack,Sears,Sears
+358:Aéropostale,Concord Mills,Concord Mills,Concord Mills,T.J. Maxx and HomeGoods
+259:Belk,Dillard's,JCPenney,Sears
+254:Belk,Dillard's,JCPenney
+256:JCPenney,Sears,Goody's
+255:Belk,David's Uniforms,Dillard's,JCPenney,Sears,T.J.Maxx

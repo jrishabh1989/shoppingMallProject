@@ -1,0 +1,408 @@
+338:Regis Salon,UHS Stay Healthy
+339:Kendal At Ithaca,MasterCuts,Regis Salon,Weight Watchers
+332:MasterCuts,Regis Salon
+330:Deborah Heikes, LPCC,MasterCuts,Regis Salon
+158:MasterCuts,Regis Salon
+336:Cost Cutters,MasterCuts,Regis Salon
+156:Eyemasters,Mastercuts
+334:Regis Salon
+154:Doctors of Optometry,MasterCuts,Regis Salon
+601:Massage Heights Centerra,Regis Salon,TEN Salon and Spa
+600:MasterCuts
+530:Utopia Med Spa
+150:Regis Salon
+534:MasterCuts,Teavana
+609:Metro Barber Shop,Oriental Massage,Paris Salon & Barber Shop
+539:Eyemasters,Visionworks Doctors of Optometry,MasterCuts,Proactive Skin Care
+538:Regis Salon
+607:Family Life Counseling,Great Clips Southlands,His & Hers Barbershop and Salon,Chirosport,Regis Salon,Sam's Club
+606:Pigtails & Crewcuts Haircuts for Kids
+536:Visionworks,MasterCuts,Proactiv Skincare
+605:Teavana,MasterCuts,Oriental Chi Massage,Regis Signature Salon,Teavana,Visionworks
+604:lululemon athletica
+603:Blooming Massage,Sunglass Hut
+602:Chinese Massage,MasterCuts
+202:Bubbles Salons,Hair Cuttery
+349:CVS Pharmacy,Teavana
+203:Hair Cuttery,lululemon athletica,Whole Foods Market
+205:MasterCuts,Regis Salon,Teavana
+200:Great Clips Centre At Glen Burnie
+201:Regis Salon,The Barber Shop
+169:Hair Cuttery,MasterCuts,Regis Salon
+342:Foot Locker
+344:Teavana
+206:Hair Cuttery,MasterCuts,Regis Salon
+166:Holiday Hair,Regis Salon,Pesta Richard M OD
+165:Michael A. Metayer, OD,Regis Salon
+346:Whole Foods Market
+347:Health King
+209:Oasis At Dodge Park
+167:Hair Cuttery
+161:Regis Salon
+409:Easy Relax,Visionworks,MasterCuts,Regis Salon
+162:Bath Junkie,Medical Spa of Baton Rouge,Whole Foods Market
+408:V's Barbershop
+164:Supercuts
+541:Great Clips Wolf Ranch
+7:Spine & Sport Chiropractic, Inc.,Sport Clips
+405:Visionworks,Pavilion Barber Shop,Supercuts
+544:Floyd's 99 Barbershop,Sport Clips,Visionworks
+6:MasterCuts,Regis Salon
+543:First Leap,Become Yourself
+340:Ageless LLC, Integrative Medical Spa,Arnot Mall Barber Shop Inc,MasterCuts,Regis Salon
+407:V's Barbershop
+4:MasterCuts,Regis Salon
+160:Visionworks,Regis Salon
+548:Visionworks,MasterCuts,Regis Salon
+400:Gentleman Joe's Barber Shop,Frank's Barber Shop,MasterCuts
+547:Eclipse Brazilian Jiu Jitsu,MasterCuts
+403:Teavana,Regis Salon,Teavana,TONI&GUY Hair Salon
+8:MasterCuts
+549:Valley Optometic Associates PLLC: Sumerlin Larry D OD,Zimmerman Carl E OD,MasterCuts,Regis Salon,Valle Vista Optical,Visionworks
+211:U.S. Army Recruiting Station,Asian Island,MasterCuts
+212:MasterCuts,Trader Joe's
+216:Whole Foods Market
+319:Cherry Hill Eye Doctors,Teavana
+213:MasterCuts,Teavana
+316:Optica At Short Hills,Teavana
+214:Eric D. Dostal, OD,Chinese Massage,MasterCuts
+317:Kuttin Zone,Regis Salon,VUTT Sunglasses & Optical
+179:Baker's Beauty Salon,Esquire Barber Shop,Shoppers Food & Pharmacy - Mondawmin
+178:Visionworks,Hair Cuttery,MasterCuts,Regis Salon,Sport Clips
+315:Optica At Short Hills,Teavana
+217:MasterCuts
+312:Dazzles Hair Salon,Pro Haircutters,Solstice Sunglass Boutique,Sport Clips,Teavana
+218:Golfsmith,Healthcare Massage
+313:MasterCuts,MasterCuts,Outlooks For Hair,Regis Salon
+310:The Body Shop
+170:Hair Cuttery,Regis Salon,Visionworks
+418:Humanitarian School of Martial Arts,Regis Salon
+171:Anxi Wang TA Comfort Pain Rlf,HairMasters
+417:Dr. Glenn Baggs
+512:Mental Health Treatment Hurst
+511:Mental Health Treatment Hurst
+510:SmartStyle Hair Salon
+623:MasterCuts,Regis Salon
+174:Bubbles Salons,Visionworks
+622:Precision Lens Crafters,Regis Salon,L & Y Relax Now Corporation,Teavana
+175:Comfort Pain Relief Center,Phyllis M. Strickland, OD,MasterCuts,Regis Salon
+621:Visionworks,Mia & Maxx Hair Studio,Regis Salon,Seniors Resource Center
+173:Bubbles Salons,Visionworks,Hair Cuttery,Teavana
+419:Creative Health Care Solution,Green Valley Barber Shop,Southwest Acupuncture
+410:Great Clips,Nationwide Vision,Paradise Valley Barber Shop,Walgreens
+519:MasterCuts,Regis Salon
+518:Visionworks,Regis Salon,Sport Clips,Teavana
+414:Visionworks,Supercuts,Walgreens
+517:Christopher W. Biles, DC,Regis Salon,TONI&GUY Hair Salon
+413:Great Clips Camelback Colonnade
+516:Great Clips,Lasik Plus Vision Center,Medifast Weight Control Centers,Medi Weightloss Clinics
+515:Victorya Rogers Company - Life Coach, Relationship Coach, Life Transitions Coach
+411:lululemon athletica,minibar.ber.shop
+514:MasterCuts
+220:Anfa Barber Shop,lululemon athletica,Teavana
+221:Skin Care
+222:Teavana
+224:lululemon athletica,Lunette Optic,Whole Foods Market
+225:lululemon athletica,Teavana
+328:MasterCuts,Regis Salon
+226:lululemon athletica,Lunette Optic
+329:CVS Pharmacy,Great Clips De Vargas Center Mall,CVS Pharmacy
+227:MasterCuts,Trader Joe's,Zumba / Zyp Fitness Plus
+228:MasterCuts
+188:Friendly Faces Barbershop,Hair Cuttery,MasterCuts,Target
+229:Asian Island,Regis Salon,Sears Hearing Aid Center by Miracle-Ear (inside Sears),Teavana
+324:Center Barber Shop,Great Clips Princeton Shopping Center,Optical Gallery of Princeton: Tullo William OD,Princeton Nassau Pediatrics
+325:Regis Salon
+189:Sunglass Hut
+326:Work At Home United
+320:BAYADA Nursing
+321:Outlooks For Hair
+322:New You Massage,Regis Salon,Teavana
+427:Metro Barbershop,Regis Salon
+522:Sturtevant Charles R OD,Visionworks,China Yang Foot Massage,MasterCuts,Regis Salon
+180:The Maryland Athletic Club,Whole Foods Market
+426:Visionworks,MasterCuts
+521:MasterCuts,Visionworks
+429:MasterCuts,Regis Salon,Sierra Vista Regional Health
+428:MasterCuts,Regis Salon,Sam's Club
+523:Visionworks,Regis Salon
+610:lululemon athletica,Michael Of The Carlyle,Oriental Chi,Teavana,TONI&GUY Hair Salon
+183:Barber Shop & Co,Rudraksha Ratna Chakrayog Maryland,Haiyan Li, LAC,US Wushu Academy
+520:MasterCuts,Regis Salon,Shanghai Massage
+611:Floyd's 99 Barbershop,Great Clips Streets at SouthGlenn,Whole Foods Market
+186:Right At Home,Bubbles For Hair,Teavana
+614:Great Clips Downtown,Great Clips Downtown
+613:Kaiser Permanente
+615:Teavana,Mind Body Sole,N3L Optics,Teavana
+420:Headliners Barber Shop,MasterCuts,Teavana
+618:MasterCuts,Oriental Back Rub,Scrubs & Beyond,Visionworks
+423:Cost Cutters,Cry Baby Couture Cosmetics,Style America,The Joint
+617:Whole Foods Market
+422:Teavana
+525:Look At Me Now Barber,HairMasters
+528:Bella Beau Medspa,MasterCuts,Regis Salon,Snip-Its Houston/Woodlands,Success Center,TONI&GUY Hair Salon
+619:Denver Chinese Acupuncture,Sport Clips,Whole Foods Market
+424:Regis Salon,Regis Salon,Toni&Guy
+527:lululemon athletica
+116:Regis Salon,Visionworks
+114:MasterCuts,Regis Salon
+115:Mastercuts,Regis Salon
+112:Home Spa College Mall,MasterCuts,Mia & Maxx Hair Studio,Regis Salon
+571:Cost Cutters,MasterCuts,Regis Salon
+113:BoRics Hair Care,Kmart
+570:Regis Salon
+118:Gold's Gym,Massage Great Relief,K J & Kompany,MasterCuts
+119:MasterCuts,Regis Salon
+436:Bishops Cuts & Colors,HairMasters,Open Advanced MRI NW,Therapeutic Associates
+433:Safeway,VA North Bend Clinic
+434:MasterCuts
+431:Hair Cuttery,Supercuts,Victory Martial Arts Waterford Lakes
+575:Chinese Relaxaton Center,Regis Salon
+573:Salon At Cedar Creek
+439:MasterCuts,SMP Home Medical DuBois
+437:Carrington College,Visionworks,Jenny Craig Local Centre,MasterCuts,Regis Salon,Safeway
+576:Regis Salon,Chinese Massage,Supercuts
+438:Rose Petal Massage & Spa,Teavana
+577:MasterCuts,Regis Salon
+125:MasterCuts,Regis Salon
+126:Advanced Eyecare,CVS Pharmacy
+127:Great Clips Sycamore Mall North,McDonald Optical,Style America
+128:Great Clips North Grand Mall,MasterCuts,Regis Salon
+580:Art of Reflexology,LensCrafters,Mark's Barber Shop,Mark's Barber Shop
+123:Great Relief Massage,Hy-Vee,Kim & Lee's Olympictaekowndo,MasterCuts,Pearle Vision,Regis Salon
+582:Oriental Chi Massage,Body Health & Wellness Massage Therapy,Regis Salon
+124:Bradley C. Parsons, OD,Cost Cutters,VA Cedar Rapids Clinic,Witwer Children's Therapy Center
+581:Reflexology Center,Regis Salon
+307:Life Uniform,Relax Magic
+129:MasterCuts,Regis Salon,Regis Salon,Teavana
+444:MasterCuts,Regis Salon
+445:Concordia at the Orchard,Giant Eagle Supermarket,MasterCuts,Regis Salon
+440:City Classic,Holiday Hair
+441:MasterCuts,Outlooks For Hair,Regis Salon
+442:Holiday Hair,MasterCuts
+584:MasterCuts
+120:City Looks Salon,Cost Cutters
+587:MasterCuts
+588:Sport Clips
+589:Angelo's Barber Shop #4,Supercuts
+134:MasterCuts,Regis Salon
+132:Hy-Vee,Pearle Vision
+133:MasterCuts,Regis Salon
+139:Regis Salon,Teavana
+136:Hearts At Home LLC,Eye Masters,Invision Eyewear,Kessler Eye Care,Regis Salon,Teavana
+453:lululemon athletica,Visionworks
+454:Destination Wellness,Great Clips The Village at Pittsburgh Mills,MasterCuts,Regis Salon,Sam's Club
+451:Visionworks
+452:Cost Cutters
+458:Gymboree Play & Music
+455:C Truxell Research,Regis Salon,Success Barbershop,Visionworks
+558:Life Uniform,MasterCuts,Ridings Wayne OD,Regis Salon,Teavana
+456:Destination Wellness,Lulu Massage,Lulu Massage,MasterCuts,Regis Salon,Sam's Club
+559:Cupcakes On the Ridge
+459:Philip Pelusi,Regis Salon,Teavana
+554:Regis Salon
+555:MasterCuts,Regis Salon
+131:Jazzercise - Des Moines,Regis Salon
+130:Cost Cutters,Regis Salon,Regis Salon
+550:MasterCuts
+143:MasterCuts,Regis Salon
+144:Justin C. Wilkins, O.D.,MasterCuts,Regis Salon
+145:Sears Retirement Planning Services
+560:Mark A. Horne, OD,Regis Salon,Sparks Medical Clinic
+146:Regis Salon
+147:MasterCuts,Regis Salon
+148:GNC,MasterCuts
+149:Regis Salon
+461:MasterCuts,Oriental Therapy
+460:BoRics Hair Care,Regis Salon
+463:CVS Pharmacy,LensCrafters,MasterCuts,Regis Salon,Sears Optical
+464:Serene Blu
+466:MasterCuts,Regis Salon
+569:MasterCuts,Mia & Maxx Hair Studio,Regis Salon
+467:Healthy Way,MasterCuts
+468:Holiday Hair,MasterCuts,Outlooks For Hair
+469:MasterCuts,Regis Salon
+565:Fiesta Salons,MasterCuts,Regis Salon,Visionworks
+567:Family Martial Arts,Hair Plus,MasterCuts
+568:Meyer Christopher DC,Walgreens
+140:Blood Bank of Alaska,Regis Salon
+561:MasterCuts,Regis Salon
+562:Fresenius Kidney Care Pine Bluff,Jefferson Square Barber Shop
+563:MasterCuts,Regis Salon
+141:Northway Barber Shop
+564:MasterCuts,Regis Salon
+195:CVS Pharmacy,Sport Clips
+194:Bowie Town Barbers,Bubbles Salons,Hair Cuttery
+197:Coley's Barber Shop,Lamont T. Bunyon, O.D. (Special Eyes Optometry),Lamont T. Bunyon, O.D. (Special Eyes Optometry)
+191:Advance Health Cup Corporation,Beltway Plaza Barbershop,CVS Pharmacy,Giant
+190:Dr. Vu Tim OD,Whole Foods Market
+192:Ebony Barbers,Regis Salon
+198:CVS Pharmacy
+506:Visionworks
+509:lululemon athletica,Proactiv Skin Care,Therapeutic Spa,TONI&GUY Hair Salon
+507:Visionworks,Regis Salon,Chinese Massage
+501:MasterCuts
+42:Complete Health Diagnostics,CVS Pharmacy
+41:The Joint Chiropractic - Cumming Town Center
+23:MasterCuts,Proactiv,Teavana Tea Store
+24:Brookstone
+25:MasterCuts,Regis Salon,Ultimate Relaxation
+27:Hair Plus
+28:Hair Plus,MasterCuts,Mia & Maxx Hair Studio,Regis Salon
+29:All Heads Barber Shop,MasterCuts,Regis Salon
+30:SmartStyle Hair Salon
+31:Great Clips
+19:Cost Cutters,Regis Salon,The Corner Barber Shop
+17:Hair Cuttery,Lange Eye Care & Associates,Trader Joe's,Weight Watchers
+18:Fit2Run-The Runner's Superstore,Hair Plus,MasterCuts,Mia & Maxx Hair Studio,Proactiv Kiosk,Regis Salon,Teavana
+13:Eye Masters: Mc Arthur Charles S OD,Custom Built Personal Training inside of Gold's Gym,MasterCuts,Regis Salon
+14:Jenny Craig Weight Loss Center
+11:Regis Salon
+21:Mastercuts,Nail Mall Spa & Skin Care,Regis Salon,Teavana
+20:SmartStyle Hair Salon
+79:BoRics Hair Care,Great Clips White Oaks Plaza,LensCrafters
+78:BoRics Hair Care,Great Clips White Oaks Plaza,LensCrafters,MasterCuts,Mia & Maxx Hair Studio,Teavana
+77:Doctor's Valuvision,MasterCuts
+80:BoRics Hair Care,MasterCuts,Regis Salon,Sharp's School of Taekwondo
+81:BoRics Hair Care,MasterCuts,Regis Salon,Sharp's School of Taekwondo
+84:MasterCuts,Regis Salon
+85:ATA Black Belt Academy-Karate,Body Relax Massage,MasterCuts,Regis Salon
+67:Diagnostic Laboratory Services,Kuwabara Iris Y OD,Mililani Back Care Center,Patricia K. Ichimura, OD,Regis Salon,Gardner Sheryl P MD,Supercuts
+66:REHAB At Aiea,Diagnostic Laboratory Services,Alaimalo Mavis M,Au & Lau,Green Tea Hawaii,Christina C. Kent, PsyD,Rogers Joseph P PhD,Mary L. U. Dang, Clinical Psychologist,MasterCuts,Miles Fujinaka, Optometrist,Misaka Brian,Pearlridge Chiropractic Center,Proactiv Skin Care,Regis Salon,REHAB At Aiea
+69:Regis Salon
+70:MasterCuts,Regis Salon
+71:HairMasters,Massage Envy - Nampa,Sport Clips
+73:Mcdougall John H OD,MasterCuts,MasterCuts
+59:Kahala Barber & Hair Salon,Therapy Boutique,Whole Foods Market
+56:Longs Drugs,MasterCuts,Regis Salon
+60:Active Sports Massage,Supercuts,Walgreens
+61:Longs Drugs,lululemon athletica,Regis Salon,Thom's Barber Shop
+51:Famous Hair,Life Uniform,Regis Salon
+53:Whole Foods Market
+54:MasterCuts,Regis Salon
+281:MasterCuts,Regis Salon
+487:Aqua Foot Care,LensCrafters,MasterCuts,Regis Salon,Teavana
+280:Regis Salon
+486:Pope's Tiger Rock Martial Arts Academy
+485:Hair Plus,Hair Plus
+284:MasterCuts,Proactiv Skin Care,Regis Salon
+489:Regis Salon
+288:Jackson & Schaffer Family Eye
+286:Supercuts
+287:Delin Massage,Visionworks,MasterCuts,Regis Salon
+482:Hair Plus,MasterCuts
+483:Regis Salon
+480:Hair By Stewarts,Hy-Vee,MasterCuts,Pearle Vision Express,Regis Salon
+481:MasterCuts,Regis Salon,Visionworks Doctors of Optometry
+473:Regis Salon
+270:Bushido Dojo,Life Uniform,Regis Salon
+476:Regis Salon,Relaxation Station
+475:Northpark Barber & Style,Prestige Barber Shop,Regis Salon
+477:Hair Plus,Life Uniform,Regis Salon,Visionworks
+274:New Balance Branson,Regis Salon
+273:Dr. Morgan Berry,MasterCuts,Regis Salon
+479:MasterCuts,Regis Salon,Tradehome Shoes
+275:Cost Cutters,Regis Salon
+276:Great Clips Holiday Village,MasterCuts
+277:Eyecare USA,MasterCuts,Regis Salon
+278:MasterCuts,Pan Massage,Regis Salon
+471:Holiday Hair,Regis Salon
+109:MMA Fit Club,Mojo's Barber Shop
+108:Teavana
+106:Mia & Maxx Hair Studio,Regis Salon,Teavana
+105:lululemon athletica,Teavana
+104:MasterCuts
+103:MasterCuts
+100:Englin's Fine Footwear,MasterCuts,Regis Salon
+98:BoRics Hair Care
+595:Cost Cutters
+97:Jenniffer Shiple, OD,LensCrafters
+597:Michael L. Gatschet, OD,Regis Salon,Teavana
+96:Gentlemens Place,Victor T. Needham Jr, MA
+391:MasterCuts,Tai Ji Acupressure,Teavana
+596:Art of Reflexology & Quick Fix,Livewell Medical Clinic,MasterCuts,Regis Salon
+390:MasterCuts,Proactive Solutions,Regis Salon
+599:Cost Cutters,Doctors of Optometry
+94:Regis Salon,Visionworks
+393:Visionworks,EyeStop,MasterCuts,Regis Salon
+598:Ilori,Stanford Internal Medicine at Hoover Pavilion,Teavana
+93:Regis Salon,Teavana,Visionworks
+392:Kish Nicole M OD
+395:Sport Clips,Well Life Chiropractic
+91:Visionworks
+394:EyeMasters,MasterCuts
+294:Hair Excitement,Teavana
+90:Bally Total Fitness
+293:Regis Salon
+499:Visionworks,Chao Relax Chair Massage,MasterCuts,Regis Salon
+296:CVS Pharmacy
+295:Hair Excitement,Regis Salon
+290:MasterCuts,Mia & Maxx Hair Studio,Regis Salon,Teavana
+292:Regis Salon
+497:Visionworks,MasterCuts,Regis Salon
+298:Regis Salon,Stars Salon,Sunglass Hut
+299:Teavana
+490:Regis Salon,Visionworks
+396:Sport Clips
+398:Visionworks,Grant Chiropractic & Physical Therapy,Teavana,MasterCuts,Merle Norman Cosmetics,Neos MedSpa,Regis Salon,Supercuts,Teavana,TONI&GUY Hair Salon,Tonsorial Barber
+399:Visionworks,Grant Chiropractic & Physical Therapy,Teavana,MasterCuts,Merle Norman Cosmetics,Neos MedSpa,Regis Salon,Supercuts,Teavana,TONI&GUY Hair Salon,Tonsorial Barber
+590:Carlton Hair,Teavana
+88:Asha SalonSpa Butterfield,Proactive Skin Care,Visionworks,Yorktown Barber Shop
+592:Whole Foods Market
+89:Open Advanced MRI of Deer Park,Great Clips Deer Park Town Center,Open Advanced MRI of Deer Park,Teavana
+593:Good Hand Massage,MasterCuts,Teavana
+241:MasterCuts,Regis Salon,Teavana
+383:MasterCuts
+384:MasterCuts
+381:Fiesta Salons,MasterCuts,Regis Salon
+382:MasterCuts,Regis Salon
+389:MasterCuts,Regis Salon
+388:MasterCuts
+387:MasterCuts,Regis Salon
+385:CVS Pharmacy,MasterCuts,Regis Salon
+245:Scrubs & Beyond,Massage Therapy Land,MasterCuts,Regis Salon,Weight Watchers - Roseville
+244:Regis Salon,Teavana,Trader Joe's
+243:Ecumen Seasons at Maplewood,Final Cut Sports Barbershop,MasterCuts,Regis Salon,Visionworks
+242:Regis Salon,Trader Joe's
+248:Massage Relaxing,Visionworks
+247:MasterCuts,Mia & Maxx Hair Studio,Regis Salon,Relaxing Massage,Visionworks
+246:City Looks Salon,Cost Cutters,Regis Salon,Visionworks
+230:Regis Salon,Teavana
+370:MasterCuts,Teavana
+372:Visionworks,MasterCuts,Regis Salon
+379:Fiesta Salons
+239:MasterCuts
+378:Right At Home,Life Uniform,Regis Salon
+375:Best Cuts,GIONETWORK,Quest Diagnostics - Parma
+376:MasterCuts
+232:MasterCuts,Mia & Maxx Hair Studio,Regis Salon
+234:Regis Salon,Relaxation Touch
+233:MasterCuts,Mia & Maxx Hair Studio,Regis Salon
+236:Carlton Hair,Teavana,TONI&GUY Hair Salon
+235:MasterCuts,Regis Salon
+237:MasterCuts,Super Life
+263:Hy-Vee,MasterCuts
+260:MasterCuts,Regis Salon
+261:MasterCuts,Regis Salon
+361:Macdonald Angela OD
+360:Plaza Barber Shop
+366:MasterCuts,Regis Salon
+364:MasterCuts,Regis Salon
+363:Glo MedSpa,Great Clips Mayfaire Towne Center
+369:Regis Salon
+368:MasterCuts,Regis Salon,Visionworks
+367:Cost Cutters,People Barbers,Stengl Johnson Cruise & Travel
+269:New Balance St. Louis
+268:Great Clips Summitwoods Crossing,Sport Clips
+267:Visionworks,MasterCuts,Regis Salon,Teavana,Weight Loss Surgical Center
+265:CVS Pharmacy
+264:Life Uniform,MasterCuts,Regis Salon
+252:Brass Shear
+350:Sunrise at Mill Basin
+355:Bobs Hair Center,GNC,Parkwood Barber Shop,Tang Soo DO Karate Center
+357:MasterCuts
+358:MasterCuts,Scrubs & Beyond
+259:Master Eye Associates,MasterCuts,Regis Salon
+254:Prudhomme David OD
+256:SmartStyle Hair Salon
+255:Affordable Dentures,MasterCuts,United Blood Services

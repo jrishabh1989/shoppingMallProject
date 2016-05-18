@@ -1,0 +1,102 @@
+281:Valentino's
+487:Chili's Grill & Bar,Pizza Hut
+39:Pizza Hut
+285:Chili's Grill & Bar,Valentino's
+156:Piccadilly Restaurants
+287:Chili's Grill & Bar
+482:Piccadilly
+42:Jim 'N Nick's Bar-B-Q
+608:Marco's Pizza
+607:Chili's Grill & Bar
+606:Marco's Pizza
+205:Romano's Macaroni Grill
+270:Chili's Grill & Bar
+345:Hale & Hearty Soup,Two Boots Grand Central
+165:Papa Gino's
+409:Chili's Grill & Bar
+2:Papa John's Pizza
+542:BLUE BAKER
+541:Mama Fu's Asian House
+405:Barro's Pizza
+404:Barro's Pizza
+340:Blimpie
+160:Piccadilly Restaurants
+401:Jimmy John's,Slices Pizza
+211:Regina Pizzeria
+216:Chili's Grill & Bar
+319:Maggiano's Little Italy
+19:New York's Famous Pizza & Pasta
+314:Chili's Grill & Bar
+13:Piccadilly Restaurants,Piccadilly Restaurants
+418:Pizza Hut
+174:Chili's Grill & Bar
+106:Pizza Di Roma
+105:Maggiano's Little Italy
+102:Chili's Grill & Bar
+98:Papa John's Pizza,Pizza Hut
+96:Southland Caterers
+94:Chili's Grill & Bar
+90:Pizza Hut
+296:Pizza Hut
+612:Maggiano's Little Italy
+299:Maggiano's Little Italy
+529:Chili's Grill & Bar
+398:Chili's Grill & Bar,NYPD Pizza
+399:Chili's Grill & Bar,NYPD Pizza
+423:Jimmy John's,Red Velvet Tucson
+116:Domino's Pizza
+79:Chili's Grill & Bar,Jimmy John's
+78:Chili's Grill & Bar,Jimmy John's
+114:Chili's Grill & Bar
+110:Pizza Hut
+111:Chili's Grill & Bar
+195:Chili's Grill & Bar
+381:Donatos Pizza
+196:Papa John's Pizza
+191:Three Brothers Italian Restaurant
+190:zpizza
+435:By Design Pizza
+434:Round Table Pizza
+431:Pizza Hut,Pizzeria Valdiano
+199:Chili's Grill & Bar
+432:Jimmy John's
+245:Green Mill Restaurant & Bar
+244:Let's Dish!
+579:Pizza Hut
+437:Bridge City Cafe - Lloyd Center
+576:Chili's Grill & Bar
+438:Bridge City Cafe - Pioneer Place
+125:Chili's Grill & Bar
+67:Chili's Grill & Bar,Pizza Hut
+66:Chili's Grill & Bar
+127:Pizza Ranch
+128:Jimmy John's
+121:Jimmy John's
+301:Blimpie
+123:Pizza Hut
+304:Pizza Hut
+306:Pizza Hut
+305:Tre Piani,Tre Piani,Valentino's Pizza
+584:Chili's Grill & Bar
+70:Pizza Hut
+134:Chili's Grill & Bar
+135:Chili's Grill & Bar
+263:Pizza Hut
+133:Blimpie
+59:Chili's Grill & Bar,Pizza Hut
+58:Papa John's Pizza
+454:Chili's Grill & Bar
+456:Chili's Grill & Bar
+65:zpizza
+268:Chili's Grill & Bar
+130:Jimmy John's
+265:Smokehouse Barbecue - Kansas City, MO (Zona Rosa)
+143:Pizza Hut
+144:Pizza Hut
+145:Ray's Ny Pizza
+353:China King
+358:Chili's Grill & Bar
+565:Chili's Grill & Bar
+566:Chili's Grill & Bar
+53:Pizza Hut
+140:Round Table Pizza

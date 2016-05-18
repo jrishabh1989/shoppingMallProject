@@ -1,0 +1,100 @@
+338:CVS Pharmacy
+35:Kangaroo Express
+487:Street Corner
+39:Mom & Pop's Dollar Plus
+42:CVS Pharmacy
+40:Mapco Express
+536:B & B News Stand Inc
+349:CVS Pharmacy
+205:C Mart
+201:Dollar Ocean
+475:Sunrise At North Park
+409:Chevron Phoenix
+340:Snack N More
+211:Liberty News
+215:CVS Pharmacy,Neighborhood Foods
+213:Paper Route
+179:Rite Aid Pharmacy,Rite Aid Pharmacy
+217:CVS Pharmacy
+177:BP
+218:Dollar N Things
+176:Perfumery
+310:Street Corner News
+311:Good Times Convenience Center
+21:At Your Convenience
+170:M J Mart
+171:Convenience Corner
+511:Street Corner News
+623:Dollar N Things
+622:Street Corner
+410:Walgreens
+413:Danny's Family Car Wash
+412:CVS Pharmacy,Danny's Gourmet Market
+221:CVS
+222:S K Convenience Stores
+223:Gateway Newstand
+328:Giant
+226:Rite Aid Pharmacy
+329:CVS Pharmacy,CVS Pharmacy
+394:At Ur Convenience
+293:Queen City News
+499:Quick Mart
+296:CVS Pharmacy
+295:CVS Pharmacy
+321:News Stand
+322:Deptford News
+522:Goodies
+182:Merle Norman Cosmetic Studio
+186:Perfume Depot,Montgomery Mall Shell
+529:Tourist Stop
+421:Sam's Mini Mart
+528:B & B Newsstand
+424:Street Corner News
+195:CVS Pharmacy
+191:CVS Pharmacy
+435:Natural Mart
+434:Rite Aid
+198:CVS Pharmacy
+385:CVS Pharmacy
+430:CVS Pharmacy,Street Corner
+245:Amarose Convenience Store
+572:Outagamie Cooperative Services Inc
+243:Amarose Convenience
+67:Tesoro
+125:Coral Convenience Store
+66:Longs Drugs
+126:CVS Pharmacy
+69:Rite Aid Pharmacy
+301:CVS
+507:Firewheel Mart
+230:CVS
+372:C K's Lottery Mart
+307:Woodbridge News Inc
+373:C K Lottery
+501:Convenience Corner and Cafe
+309:Street Corner
+379:Dollar Plus
+378:Mr.News
+445:Rite Aid Pharmacy
+375:Marc's Stores,Street Corner,Street Corner
+441:CVS Pharmacy
+587:Walgreens
+236:The Snack Shop
+134:Street Corner
+132:Hy-Vee Gas & Convenience Store
+59:Longs Drugs
+56:Longs Drugs
+136:Street Corner
+451:Street Corner
+369:Speedway
+455:STREET CORNER
+456:Z Cornerstore
+64:ABC Stores
+63:ABC Stores
+267:Street Corner
+60:Chevron,Walgreens
+265:CVS Pharmacy
+463:CVS Pharmacy
+464:Suit Max
+469:Dollar Plus
+568:Walgreens

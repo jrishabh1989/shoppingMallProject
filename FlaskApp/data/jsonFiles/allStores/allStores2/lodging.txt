@@ -1,0 +1,44 @@
+215:Springfield Marriott
+332:Best Western Plus The Inn At Smithfield
+312:Hilton Garden Inn Rockaway
+13:Carousel Motel
+14:Holiday Inn Express & Suites Daphne-Spanish Fort Area
+190:Courtyard by Marriott
+454:SpringHill Suites Pittsburgh Mills
+433:Quality Inn & Suites at Coos Bay,Quality Inn & Suites at Coos Bay
+510:DoubleTree by Hilton Hotel Dallas Near the Galleria
+42:Fairfield Inn & Suites Atlanta Cumming/Johns Creek
+480:Courtyard Sioux Falls,Fairfield Inn & Suites Sioux Falls,Residence Inn Sioux Falls,SpringHill Suites Sioux Falls
+455:DoubleTree by Hilton Hotel Pittsburgh - Monroeville Convention Center
+430:The Florida Hotel & Conference Center
+40:Days Inn North Knoxville
+64:Hilton Waikiki Beach
+538:Courtyard Houston Pearland
+607:Fairfield Inn & Suites Denver Aurora/Parker
+439:Hampton Inn DuBois
+437:Kah-Nee-Ta High Desert Resort and Casino
+143:Holiday Inn Express & Suites Paducah West
+125:Holiday Inn Express & Suites Coralville
+49:Holiday Inn Express Athens-University Area
+69:Best Western Plus University Inn
+222:Revere Hotel Boston Common
+223:Omni Parker House
+509:The Westin Galleria Dallas,The Westin Galleria Dallas
+473:Counts- Oakes Resort
+129:Residence Inn Des Moines West at Jordan Creek Town Center
+26:Embassy Suites by Hilton Brunswick
+28:La Quinta Inn Gainesville
+274:Hilton Promenade at Branson Landing,Hilton Branson Convention Center
+347:Holiday Inn Express New York City-Wall Street
+379:Fairfield Inn Warren Niles
+542:Renaissance Austin Hotel
+181:America Suite
+184:TownePlace Suites Gaithersburg
+546:La Quinta Inn Eagle Pass
+565:Comfort Inn
+584:Fairfield Inn & Suites El Centro,TownePlace Suites El Centro
+529:The Westin Galleria Houston,The Westin Oaks Houston at the Galleria
+400:Holiday Inn Express & Suites Tempe
+403:Pacific Monarch Resorts
+615:Inn At Cherry Creek
+449:Sheraton Pittsburgh Hotel at Station Square

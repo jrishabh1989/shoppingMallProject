@@ -1,0 +1,1 @@
+{"610":{"Tesla Motors showroom":5},"241":{"NorthStar Ford":3.3},"529":{"Tesla Motors":3.9},"105":{"Northside Fiat of Indianapolis":4.3},"572":{"Car Credit Center":2.3},"420":{"O'Rielly Collision Center":4.3},"561":{"National Park Chrysler Dodge Jeep Ram":4.6}}

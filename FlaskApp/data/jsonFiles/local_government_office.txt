@@ -1,0 +1,1 @@
+{"211":{"Danvers RMV":3.3},"241":{"St. Louis County Auditor Service Center":3.9},"17":{"Alachua County Tax Collector Southwest Branch":3.9},"61":{"Honolulu Satellite City Hall":3.4},"118":{"Iowa Department of Transportation":2.9}}

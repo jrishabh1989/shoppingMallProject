@@ -1,0 +1,341 @@
+338:Subway
+330:New York Deli
+34:Atlanta Bread
+331:McDonald's,Taco Bell
+39:Pizza Hut
+336:Olive Garden
+337:Arby's
+601:Charley's Grilled Subs,On The Border Mexican Grill & Cantina
+152:Five Guys Burgers and Fries,McAlister's Deli,Panera Bread
+600:Olive Garden
+530:My Fit Foods
+153:Tom+Chee
+150:Great Steak,Olive Garden,TGI Fridays
+534:Arby's,Taco Bell
+42:Mellow Mushroom,Which Wich
+533:Taco Bell
+609:Charley's Grilled Subs,TGI Fridays
+539:Charley's Grilled Subs,The Cheesecake Factory
+608:Del Taco,Marco's Pizza,Olive Garden,Red Lobster,TGI Fridays
+538:BJ's Restaurant & Brewhouse
+607:Del Taco,Chili's Grill & Bar,Olive Garden,On The Border Mexican Grill & Cantina
+606:Marco's Pizza
+605:Doc Popcorn,Paradise Bakery
+604:Firehouse Subs,Modern Market - Boulder,Panera Bread
+202:TGI Fridays
+349:Panera Bread,TGI Fridays
+205:Five Guys Burgers and Fries,The Cheesecake Factory,Romano's Macaroni Grill,Panda Express,Steak Escape
+200:Five Guys Burgers and Fries
+169:Auntie Anne's Pretzels,Olive Garden
+23:Charleys,Taco Bell
+24:Charley's Grilled Subs,Panda Express
+25:Auntie Anne's,Calistoga Bakery Cafe,Charley's Grilled Subs,Panda Express,The Cheesecake Factory
+344:The Cheesecake Factory,Panera Bread
+206:Auntie Anne's,Mcdonald's
+345:Ceriello Fine Foods,Dishes At Home,Dishes At Home,Eata Pita,Hale & Hearty Soup,Mendy's Kosher Delicatessen,Two Boots Grand Central
+27:Snack Shack
+28:BJ's Restaurant & Brewhouse,Boston Market,Great Steak,Great Wraps,Romano's Macaroni Grill
+167:Boston Market,Panera Bread
+29:Buffalo Wild Wings,McAlister's Deli,Subway
+209:Subway
+409:Coco's Bakery Restaurant,Charley's Grilled Subs,Chili's Grill & Bar,Chompie's,Panda Express
+408:The Cheesecake Factory
+162:Five Guys Burgers and Fries
+2:Papa John's Pizza
+542:Five Guys Burgers and Fries,The Cheesecake Factory
+541:Carl's Jr.,Firehouse Subs,Panda Express
+544:BJ's Restaurant & Brewhouse,Mimi's Cafe
+405:Barro's Pizza,Filiberto's Mexican Food,Taco Bell
+7:Five Guys Burgers and Fries,Panera Bread
+543:Marie Callender's Restaurant & Bakery,Panera Bread
+6:McAlister's Deli
+407:The Cheesecake Factory
+340:Arby's,Blimpie
+160:KFC
+548:Olive Garden
+401:Great Steak,Jimmy John's,Paradise Bakery & Cafe,Slices Pizza
+547:Goodies Snack Bar
+403:Five Guys Burgers and Fries,Panda Express,Paradise Bakery & Cafe,Pita Jungle - Fashion Square
+549:Freshens Yogurt,Olive Garden,Subway
+211:Buffalo Wild Wings,Firehouse Subs,Panera Bread
+210:Panera Bread,Quiznos Sub,TGI Fridays,Uno Pizzeria & Grill
+318:Panera Bread
+216:Chili's Grill & Bar,Uno Pizzeria & Grill
+319:Lorenzo's Pizza & Steak,Maggiano's Little Italy,Taco Bell
+19:Bob Evans Restaurant,New York's Famous Pizza & Pasta,Panera Bread,Quiznos,Tropical Smoothie Café
+213:Tropical Smoothie Café,Uno Pizzeria & Grill
+316:Au Bon Pain
+317:Quiznos
+17:Firehouse Subs,Hungry Howie's,Chili's Grill & Bar,Olive Garden,TGI Friday's,Taco Bell,Zaxby's Chicken Fingers & Buffalo Wings
+18:BJ's Restaurant & Brewhouse,Boston Market,Great Steak,Great Wraps,Romano's Macaroni Grill
+178:Five Guys Burgers and Fries
+315:Au Bon Pain
+217:Tokyo Saugus Japanese Steak House
+312:Charley's Grilled Subs,Panera Bread
+16:West Wing Café
+176:Checkers,Roman Delight Pizza
+13:Subs & More
+310:Charley's Grilled Subs,The Cheesecake Factory
+14:Olive Garden,Panera Bread
+311:Charley's Grilled Subs
+12:Five Guys Burgers and Fries,Panera Bread
+418:Pizza Hut
+21:Charley's Grilled Subs
+512:Charley's Grilled Subs,McDonald's,Sonic Drive-In
+511:Charley's Grilled Subs,McDonald's,Sonic Drive-In
+416:Boka Pizza
+510:Taco Bell
+623:Panera Bread
+174:Chili's Grill & Bar
+622:Panda Express
+175:Buffalo Wild Wings,Olive Garden
+621:Charley's Grilled Subs,Chili's Grill & Bar,Panera Bread
+620:Panera Bread
+173:The Cheesecake Factory,Panda Express,TGI Fridays
+410:Blimpie,My Fit Foods,Panda Express,Paradise Bakery & Cafe
+518:BJ's Restaurant & Brewhouse,Five Guys Burgers and Fries,Frullati,Jersey Mike's Subs
+517:Charley's Grilled Subs,The Cheesecake Factory,Sonic Drive-In
+414:Charley's Grilled Subs,Taco Bell
+516:BJ's Restaurant & Brewhouse,Mimi's Cafe
+413:Miracle Mile Delicatessen,Sub Factory
+514:Geier, Rob,Great Wraps,Charley's Grilled Subs,Panda Express
+411:minibar.ber.shop
+220:Paradise Bakery & Cafe
+221:D'Angelo Grilled Sandwiches,The Cheesecake Factory,Taco Bell
+222:Au Bon Pain
+223:Boston Chowda Co,Boston Kitchen Pizza,Philadelphia Steak & Hoagie
+225:The Cheesecake Factory
+328:Subway,Taco Bell
+226:Bertucci's,Panera Bread
+329:Panda Express
+227:Panera Bread,Uno Pizzeria & Grill
+188:Arby's
+323:TGI Fridays,TGI Fridays
+229:Charley's Grilled Subs
+189:Bertucci's,Jerry's Subs & Pizza
+321:Charley's Grilled Subs,Taco Bell
+522:Buffalo Wild Wings
+521:Stir Fry 88
+523:Fuddruckers
+428:Buffalo Wild Wings,Del Taco,Famous Dave's Bar-B-Que,Chili's Grill & Bar,Mimi's Cafe,Olive Garden,Panda Express
+610:Grand Lux Cafe,Charley's Grilled Subs,Panda Express,The Cheesecake Factory,Woody Creek Bakery & Cafe
+183:Panda Express
+612:Maggiano's Little Italy
+186:Charley's Grilled Subs,Panda Express,Panini Latte
+613:Subway
+421:Cousins Subs,Panda Express
+615:Panda Express
+420:Charley's Grilled Subs,Panda Express
+618:California Pizza Kitchen,Great Steak and Potato Company,Panda Express
+423:Which Wich Superior Sandwiches
+617:The Rock Wood Fired Kitchen
+528:Brio Tuscan Grille,Great Wraps,Charley's Grilled Subs,The Cheesecake Factory,Panera Bread,Sonic
+619:Mimi's Cafe,On The Border Mexican Grill & Cantina,Quiznos Sandwich Restaurants,Romano's Macaroni Grill
+527:Cafe Express
+424:Charley's Grilled Subs,Mimi's Cafe,Olive Garden,Panda Express,Taco Bell
+116:Domino's Pizza
+79:Chili's Grill & Bar,Jimmy John's,Olive Garden
+114:Chili's Grill & Bar,Olive Garden,Scoops & Smoothie Cafe,TGI Fridays
+78:Charley's Grilled Subs,Chili's Grill & Bar,Jimmy John's,Olive Garden,Panda Express
+115:Fazoli's
+77:Garfield's Restaurant & Pub,Panera Bread
+571:Atlanta Bread,Schlotzsky's,Charley's Grilled Subs,McDonald's,Panda Express,TGI Fridays
+112:Fazoli's
+570:Famous Dave's Bar-B-Que,Olive Garden,Panera Bread,TGI Fridays
+110:Gandolfo's New York Deli,Pizza Hut
+436:Panda Express
+434:Panda Express,Round Table Pizza
+431:Crispers,Five Guys Burgers and Fries,Charley's Grilled Subs,Panera Bread,Pizza Hut,Pizzeria Valdiano,Romano's Macaroni Grill,Smokey Bones Bar & Fire Grill,TGI Fridays,TooJay's Original Gourmet Deli
+432:Jimmy John's
+575:Panda Express
+80:Panda Express
+81:Panda Express
+578:Taco Bell
+439:Taco Bell
+579:Pizza Hut
+576:Chili's Grill & Bar,Olive Garden
+437:Bridge City Cafe - Lloyd Center
+84:Panda Express
+438:Fuego Food Carts,Romano's Macaroni Grill
+85:Great Steak
+125:Charley's Grilled Subs,Chili's Grill & Bar,Olive Garden,Panda Express,Panera Bread
+67:Pizza Hut,Taco Bell
+126:Buffalo Wild Wings
+66:Charley's Grilled Subs,Chili's Grill & Bar,Panda Express,Taco Bell,Taco Bell
+127:Panera Bread,Pizza Ranch
+69:Quiznos Sandwich Restaurants
+300:Corner Bakery Cafe,TGI Fridays
+128:Jimmy John's
+121:Jimmy John's
+582:BJ's Restaurant & Brewhouse,The Cheesecake Factory
+123:Maid-Rite,Panda Express,Pizza Hut
+304:Pizza Hut,Taco Bell
+581:BJ's Restaurant & Brewhouse,Quiznos
+124:Milio's Sandwiches
+303:Papa John's Pizza
+306:Pizza Hut
+305:Valentino's Pizza
+308:Sand Witch Cafe
+129:Buffalo Wild Wings,Charley's Grilled Subs,The Cheesecake Factory,On The Border Mexican Grill & Cantina,Panera Bread
+309:South Philly Steaks and Fries
+445:Charley's Grilled Subs
+446:Panera Bread,TGI Fridays
+441:Smokey Bones Bar & Fire Grill
+583:Five Guys Burgers and Fries,Romano's Macaroni Grill,Mimi's Cafe,Panera Bread
+584:Famous Dave's Bar-B-Que,Great Steak,Chili's Grill & Bar
+70:Pizza Hut
+71:Olive Garden,Port of Subs
+587:El Meson Sandwiches,Panda Express
+449:Buca di Beppo - Pittsburgh Station Square
+134:Chili's Grill & Bar
+135:Bob Evans,Chili's Grill & Bar,Panera Bread
+132:Subway
+133:Blimpie
+59:Chili's Grill & Bar,Panda Express,Pizza Hut
+138:Chili's Grill & Bar,Taco Bell
+139:Auntie Anne's Pretzels,Pretzel Factory Inc
+57:Dude Dogs
+136:Five Guys Burgers and Fries,Charley's Grilled Subs,Mimi's Cafe,On The Border Mexican Grill & Cantina,Panda Express,Panera Bread
+56:Quiznos
+137:On The Border Mexican Grill & Cantina,Panera Bread
+450:Pita Pit,The Cheesecake Factory
+453:Five Guys Burgers and Fries,The Cheesecake Factory
+454:Charley's Grilled Subs,Chili's Grill & Bar,Olive Garden,Panera Bread,Smokey Bones Bar & Fire Grill,Sonic Drive-In
+452:TGI Fridays
+458:Panera Bread
+558:Frullati,Quiznos Sandwich Restaurants
+455:Charley's Grilled Subs
+559:Panera Bread
+456:Charley's Grilled Subs,Chili's Grill & Bar,Olive Garden,Panera Bread,Smokey Bones Bar & Fire Grill,Sonic Drive-In
+554:Cafe Waza,Mimi's Cafe
+459:South Philly Steaks & Fries
+62:Hooters
+555:Stir Fry 88,Taco Bell
+63:Paradise Cafe,P.F. Chang's,Panda Express,Paradise Cafe
+552:Fortune Cookie
+60:Kozo Sushi,Taco Bell,Teddy's Bigger Burgers
+130:Panda Express,Jimmy John's,Maid-Rite,Panda Express
+143:Pizza Hut
+49:Subway
+144:O'Charley's,Pizza Hut,Red Lobster
+145:Ray's Ny Pizza
+148:Fazoli's,Zaxby's Chicken Fingers & Buffalo Wings
+149:Olive Garden,Subway
+463:TGI Fridays
+464:Great Wraps
+569:Charley's Grilled Subs
+467:Five Guys Burgers and Fries
+565:Chili's Grill & Bar,Olive Garden,Panera Bread,Steak Escape
+51:Great Steak,McAlister's Deli
+567:Steak Escape
+53:Pizza Hut
+54:Panda Express,Quiznos
+561:Soup'er Sandwich
+140:Round Table Pizza
+564:Great Steak Grill,Olive Garden,Panera Bread,Little Caesars Pizza
+487:Charley's Grilled Subs,Chili's Grill & Bar,Taco Bell,Pizza Hut
+281:Valentino's
+285:Carlos O'Kelly's,Famous Dave's Bar-B-Que,Chili's Grill & Bar,Panera Bread,Romano's Macaroni Grill,Taco Bell,Valentino's
+284:Charley's Grilled Subs,Olive Garden,Panda Express
+287:Charley's Grilled Subs,Chili's Grill & Bar,Panda Express,Village Inn
+482:Charley's Grilled Subs
+481:Chick-fil-A,Joey Menna's Philadelphia Grille
+473:Buffalo Wild Wings,Five Guys Burgers and Fries,Olive Garden,Panera Bread,Schlotzsky's
+270:Chili's Grill & Bar,Panda Express,Taco Bell
+475:Steak Escape,Stir Fry 88
+272:Panda Express
+477:Charley's Grilled Subs
+274:Famous Dave's Bar-B-Que,Charley's Grilled Subs,Joe's Crab Shack
+479:Olive Garden
+275:Hoagieville
+277:Manhattan Sandwich Co,Taco Bell
+471:Charley's Grilled Subs
+109:Buffalo Wild Wings
+108:Great Steak,Panera Bread
+107:Panera Bread,Subway
+106:Buca di Beppo - Castleton Square,Frullati,Charley's Grilled Subs,Pizza Di Roma,On The Border Mexican Grill & Cantina,TGI Fridays,TGI Fridays
+105:Maggiano's Little Italy,TGI Fridays,The Cheesecake Factory
+104:TGI Fridays
+103:Buffalo Wild Wings
+102:Chili's Grill & Bar,McDonald's
+100:Panda Express,Panera Bread
+98:Papa John's Pizza,Pizza Hut,Taco Bell
+97:Panda Express
+597:Great Steak,Panda Express,Romano's Macaroni Grill,TGI Fridays,The Cheesecake Factory
+391:BJ's Restaurant & Brewhouse,Panera Bread
+596:BJ's Restaurant & Brewhouse,Great Steak,Panda Express
+390:Steak Escape,TGI Fridays,The Cheesecake Factory
+393:On The Border Mexican Grill & Cantina,Panda Express,Olive Garden,Panda Express,Paradise Bakery & Cafe,The Cheesecake Factory
+94:Buffalo Wild Wings,CHARLEY'S GRILLED STEAKS,Chili's Grill & Bar,Panda Express,Panera Bread - Closed,Taco Bell
+598:Max's Opera Cafe of Palo Alto,Max's Opera Cafe of Palo Alto
+93:Panda Express,The Cheesecake Factory
+395:Buca di Beppo - Mesa,Firehouse Subs,Five Guys Burgers and Fries,Panda Express,Sauce Pizza & Wine
+92:Panda Express
+394:Charley's Grilled Subs,Panda Express
+91:Great Steak
+90:Pizza Hut
+294:D'Angelo Grilled Sandwiches
+293:Bertucci's,D'Angelo Grilled Sandwiches,Extreme Pita,TGI Fridays
+296:Pizza Hut
+295:Buffalo Wild Wings,Roman Delight Pizza
+290:Charley's Grilled Subs,The Cheesecake Factory,Panera Bread
+497:Frullati
+298:Olive Garden
+299:The Cheesecake Factory,Maggiano's Little Italy
+490:Charley's Grilled Subs
+396:Buffalo Wild Wings
+398:BJ's Restaurant & Brewhouse,Buffalo Wild Wings,Chili's Grill & Bar,Chompie's,Jason's Deli,Jersey Mike's Subs,Mimi's Cafe,Olive Garden,Panda Express,Steak Escape,The Cheesecake Factory,The Old Spaghetti Factory
+399:BJ's Restaurant & Brewhouse,Buffalo Wild Wings,Chili's Grill & Bar,Chompie's,Jason's Deli,Jersey Mike's Subs,Mimi's Cafe,Olive Garden,Panda Express,Steak Escape,The Cheesecake Factory,The Old Spaghetti Factory
+590:Auntie Anne's Pretzels,BJ's Restaurant & Brewhouse,Five Guys Burgers and Fries,Charley's Grilled Subs,Panda Express,TGI Fridays
+88:Arby's,Buca di Beppo - Lombard,Famous Dave's Bar-B-Que (Closed),Panda Express
+593:Panda Express,The Cheesecake Factory
+89:Panera Bread
+241:Five Guys Burgers and Fries,Charley's Grilled Subs
+383:Chili's Grill & Bar,Steak Escape
+195:Chili's Grill & Bar,Panera Bread
+194:Five Guys Burgers and Fries,Olive Garden,Panera Bread,Uno Pizzeria & Grill
+381:Five Guys Burgers and Fries
+196:Papa John's Pizza
+191:Atlanta Bread,Boston Market,Bun Cafe,Quiznos Sandwich Restaurants
+190:Copper Canyon Grill Silver Spring,Panera Bread,Romano's Macaroni Grill,zpizza
+192:Olive Garden,Steak Escape
+389:Charleys Philly Steaks,Taco Bell
+388:Charley's Grilled Subs,Taco Bell
+387:Charley's Grilled Subs
+385:Panera Bread,Quiznos
+245:great steak & potato company,Panera Bread,Romano's Macaroni Grill
+244:Let's Dish!
+243:Charley's Grilled Subs,Panda Express
+249:Cicis
+247:Olive Garden
+509:Five Guys Burgers and Fries,Charley's Grilled Subs,Panda Express
+507:Brooklyn's Pizzeria,Sonic Drive-In,TGI Fridays
+230:D'Angelo Grilled Sandwiches
+370:Steak Escape
+372:Charley's Grilled Subs,Mr Hero,Smokey Bones Bar & Fire Grill
+379:Buffalo Wild Wings,Bob Evans,Olive Garden,Taco Bell
+378:Buffalo Wild Wings,Charley's Grilled Subs
+375:Charley's Grilled Subs
+376:Bob Evans
+234:Charley's Grilled Subs,Panda Express,TGI Fridays
+236:Charley's Grilled Subs,The Cheesecake Factory,Panda Express,Paradise Bakery & Cafe,Subway
+263:Pizza Hut
+261:Carlos O'Kelly's
+360:Subway
+363:Atlanta Bread Co,Five Guys Burgers and Fries,On The Border Mexican Grill & Cantina,Panera Bread,Romano's Macaroni Grill
+368:Rising Bread Co,TGI Fridays
+268:Bob Evans,On The Border Mexican Grill & Cantina,Buffalo Wild Wings,Chili's Grill & Bar,Jason's Deli,On The Border Mexican Grill & Cantina,Panda Express,Panera Bread,Planet Sub
+267:Panda Express
+266:D'Bronx,Panera Bread,Taste Of Philly
+265:Planet Sub
+264:Charley's Grilled Subs,Panera Bread,Taco Bell
+350:Charley's Grilled Subs,Quiznos
+351:Taco Bell
+353:Little Caesars Pizza
+352:Taco Bell
+355:Bojangles' Famous Chicken 'n Biscuits
+357:Charley's Grilled Subs
+359:Sagebrush Steakhouse
+358:Firehouse Subs,Great Steak
+259:Charley's Grilled Subs,McAlister's Deli
+255:Cicis,Olive Garden

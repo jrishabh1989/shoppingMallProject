@@ -1,0 +1,1 @@
+{"59":{"Longs Drugs":4},"198":{"CVS Pharmacy":4},"186":{"Montgomery Mall Shell":3.6},"195":{"CVS Pharmacy":2.8},"17":{"CVS Pharmacy":3.8},"296":{"CVS Pharmacy":3.2},"413":{"Danny's Family Car Wash":2.4},"61":{"Longs Drugs":3.4,"ABC Stores":4},"265":{"CVS Pharmacy":3.6}}

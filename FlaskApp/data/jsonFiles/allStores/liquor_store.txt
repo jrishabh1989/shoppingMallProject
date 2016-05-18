@@ -1,0 +1,53 @@
+195:Wine Shoppe
+190:Adega Wine Cellars & Cafe
+154:Elk Creek Vineyards
+152:Elk Creek Vineyards
+150:Elk Creek Vineyard
+433:Safeway
+244:Trader Joe's
+607:Wine Experience Café & World Cellar,Wine Experience Café & World Cellar
+606:Orchard Wine Cellar
+242:Trader Joe's
+439:Winery at Wilcox,Winery at Wilcox
+87:Binny's Beverage Depot
+437:Made In Oregon Store,Safeway
+438:Made In Oregon Store
+67:Golden Mart Poke,Times Supermarket
+203:Bin 201
+300:Stew Leonard's Wines of Clifton
+169:Valley Wine & Spirits
+307:Native Spirit
+129:Vintage Wine & Spirits Co
+345:Beer Table,Grande Harvest Wines
+379:Havana House
+408:Bacchus Wine Made Simple
+541:Spec's Wine, Spirits and Finer Foods
+544:Spec's Wine, Spirits and Finer Foods
+407:Bacchus Wine Made Simple
+442:Benigna’s Creek Vineyard and Winery
+401:BevMo!
+231:Mackinaw trail Winery Mackinaw City Tasting Room
+71:State Liquor Stores
+72:Liquor Store
+448:Fine Wine & Spirits
+210:WineNation
+56:Times Supermarket
+17:Publix Super Market at Esplanade At Butler Plaza,Publix Super Market at Esplanade At Butler Plaza,Trader Joe's
+176:Jazz Liquor
+14:State of Alabama ABC Store
+12:ABC Beverages
+363:Brixx Wood Fired Pizza,Harris Teeter,Red Bank Wine
+452:Wine & Spirits Stores,Wine & Spirits Stores
+595:BevMo!
+226:Derby Street Wine & Spirits
+324:Claridge Wine & Liquor
+461:Fine Wine & Good Spirits
+180:Bin 604
+463:Blue Mountain Vineyards
+612:Jerri's Tobacco Shop and Fine Wines
+611:Grape Wine Market & Spirits
+186:Montgomery Gourmet
+398:Cubanos Cigar Lounge
+399:Cubanos Cigar Lounge
+617:Mile High Wine & Spirits
+88:D.O.C. Wine Bar

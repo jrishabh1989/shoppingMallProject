@@ -1,0 +1,1 @@
+{"220":{"US Post Office":3.6},"49":{"US Post Office":3.5},"452":{"US Post Office":1.7},"306":{"US Post Office":2},"566":{"US Post Office":2.6},"529":{"US Post Office":1.4},"499":{"US Post Office":2.7},"23":{"USPS":2.2},"330":{"US Post Office":3.2},"88":{"US Post Office":3.3}}

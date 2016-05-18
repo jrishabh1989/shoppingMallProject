@@ -1,0 +1,303 @@
+338:Ruby Tuesday
+34:Ted's Montana Grill
+337:99 Restaurant & Pub
+37:Logan's Roadhouse
+334:99 Restaurant & Pub
+601:Bent Fork The Grill,Rock Bottom Restaurant & Brewery
+152:John Phillip's Restaurant & Bar,Max & Erma's
+600:Roadkill Sports Grill
+530:Arturo's Uptown Italiano,Belvedere,Champps,McCormick & Schmick's Seafood & Steaks,Uptown Sushi
+153:Bar Louie,Brio Tuscan Grille,Brothers Bar & Grill,Gameworks,Gameworks
+150:Johnny Carino's Italian Fayette Mall,Logan's Roadhouse,Saul Good,TGI Fridays,The Pub Lexington
+42:Jim 'N Nick's Bar-B-Q,Ted's Montana Grill,The Firkin & Crown
+609:TGI Fridays
+539:Grimaldi's Pizzeria,Kona Grill
+608:Bar Louie,La Sandia Cantina,Ling & Louie's Asian Bar and Grill,TGI Fridays,Texas de Brazil,Toby Keith's Denver
+538:BJ's Restaurant & Brewhouse,Mongo
+607:Chili's Grill & Bar,McCabe's Bistro & Pub,Old Chicago Pizza and Taproom,Rumbi Island Grill,Ted's Montana Grill
+537:Barcenas
+606:Cheeky Monk Belgian Beer Cafe,Rock Bottom Restaurant & Brewery
+605:Gordon Biersch,Village Tavern
+604:Cantina Laredo
+202:TGI Fridays
+349:Applebee's,Outback Steakhouse,TGI Fridays
+203:Brio Tuscan Grille,Gordon Biersch,The Chop House Annapolis,Paladar Latin Kitchen & Rum Bar
+205:Applebee's,Punk's Backyard Grill
+200:Bonefish Grill,Pappas Restaurant and Sports Bar
+201:Ruby Tuesday
+23:GameRoom Sawgrass,Villagio
+343:Cipollini,Toku Modern Asian
+344:Legal Sea Foods - Huntington
+206:Ruby Tuesday
+26:Ruby Tuesday
+345:Beverage Bar,Cipriani Dolci®,Michael Jordan's The Steak House N.Y.C.,Grand Central Oyster Bar & Restaurant,Two Boots Grand Central
+28:BJ's Restaurant & Brewhouse,Ruby Tuesday
+347:Beekman Beer Garden Beach Club,Cabana Seaport,Margarita Bar NYC,Pacific Grill,The Paris Cafe,Uno Chicago grill
+29:Buffalo Wild Wings
+409:Chili's Grill & Bar
+408:Mancuso's Restaurant,The Greene House,RA Sushi Bar Restaurant,Tommy Bahama Restaurant, Bar & Store
+162:Bonefish Grill,Mugshots Grill & Bar
+542:Brio Tuscan Grille,Estância Churrascaria
+541:Fish City Grill,LongHorn Steakhouse
+544:BJ's Restaurant & Brewhouse
+7:LongHorn Steakhouse
+543:Sushi Sake Japanese Cuisine
+407:Mancuso's Restaurant,The Greene House,RA Sushi Bar Restaurant,Tommy Bahama Restaurant, Bar & Store
+340:Ruby Tuesday
+548:Logan's Roadhouse
+401:Cadillac Ranch,D'Arcy McGee's Pub & Restaurant,Dave & Buster's,Genghis Grill - Build Your Own Stir Fry,Lucille's Smokehouse Bar-B-Que,Bar Louie,Ruby Tuesday,San Filipe's Cantina,The Keg Steakhouse & Bar - Tempe,Thirsty Lion Gastropub & Grill - Tempe
+400:Arena Sports Bar & Grill,Claim Jumper,GameWorks,Joe's Crab Shack
+403:Grand Lux Cafe,Modern Steak,NM Cafe
+402:Blanco Tacos + Tequila
+8:Applebee's
+211:Buffalo Wild Wings
+210:Applebee's,Chatters Bar & Grill,LongHorn Steakhouse,TGI Fridays,Uno Pizzeria & Grill
+318:Redstone American Grill
+216:Chili's Grill & Bar,Outback Steakhouse,Uno Pizzeria & Grill
+319:Bistro at Cherry Hill,Maggiano's Little Italy,Seasons 52
+213:99 Restaurant & Pub,Ruby Tuesday,Uno Pizzeria & Grill
+316:Joe's American Bar & Grill,Legal Sea Foods,Papa Razzi Trattoria
+17:Miller's Ale House - Gainesville,Bonefish Grill,Chili's Grill & Bar,Outback Steakhouse,TGI Friday's,Texas Roadhouse
+178:Bonefish Grill,Silver Spring Mining Company
+18:BJ's Restaurant & Brewhouse,Ruby Tuesday
+315:Joe's American Bar & Grill,Legal Sea Foods,Papa Razzi Trattoria
+218:Miller's Ale House - Watertown
+176:Applebee's
+310:Ruby Tuesday
+14:California Dreaming Restaurant,Logan's Roadhouse,Ruby Tuesday
+11:Applebee's
+12:Bonefish Grill
+171:The Greene Turtle
+416:Hooters
+623:Outback Steakhouse,Ruby Tuesday
+174:Della Rose's Avenue Tavern,Chili's Grill & Bar,Kobe Japanese Steak & Seafood House,Tilted Kilt White Marsh
+175:Buffalo Wild Wings
+621:Chili's Grill & Bar,Draft Sports Grill
+620:Champps Americana,Ted's Montana Grill
+419:La Placita Bar & Grill
+173:TGI Fridays
+410:WineStyles
+519:Chelsea's Street Pub
+518:BJ's Restaurant & Brewhouse,Genghis Grill - Build Your Own Stir Fry,Phil's Philly Steaks,R.J. Gator's Hometown Grill & Bar
+516:BJ's Restaurant & Brewhouse,Bone Daddy's House of Smoke,Dave & Buster's,Genghis Grill - Build Your Own Stir Fry,Houlihan's,Chuy's,Arlington Improv Comedy Club,India Grill,The Melting Pot,Piranha Killer Sushi,Pluckers Wing Bar,Studio Movie Grill,The Keg Steakhouse & Bar
+514:Applebee's,Chili's Grill & Bar,Love & War In Texas
+411:Brio Tuscan Grille,Dominick's Steakhouse,Eddie V's Prime Seafood,Grimaldi's Pizzeria,Narcisse Champagne & Tea Lounge,Tanzy Restaurant,Tk's Urban Tavern
+220:5 Napkin Burger,Haru Sushi,Legal Sea Foods,Top of the Hub
+222:Legal Sea Foods
+223:Ames Plow Tavern,Dick's Last Resort,Cheers,Cheers,Ruth's Chris Steak House,McCormick & Schmick's Seafood & Steaks,Ned Devine's,Salty Dog Seafood Grille & Bar,Cheers,Monkey Bar,Zuma Tex Mex Grill
+224:Aquitaine Dedham,Legal C Bar,Met Bar & Grill,Wicked Fire Kissed Pizza
+225:Legal Sea Foods
+328:Applebee's
+226:Burtons Grill of Hingham,Rustic Kitchen,Jasper White's Summer Shack
+329:Santa Fe Bar & Grill
+227:Outback Steakhouse,Uno Pizzeria & Grill
+188:Ruby Tuesday
+323:TGI Fridays,TGI Fridays
+324:Main Street
+321:BitterSweet Cafe
+322:Ruby Tuesday
+522:Tilted Kilt Killeen,Buffalo Wild Wings
+427:Macayo's,Texas Roadhouse
+521:Genghis Grill - Build Your Own Stir Fry
+180:Bond Street Social,Renaissance Hotel,Lebanese Taverna,Pazo,Talara,Wit & Wisdom
+429:Applebee's,Texas Roadhouse
+428:Buffalo Wild Wings,Chili's Grill & Bar,Hooters
+610:Brio Tuscan Grille,Cru A Wine Bar,Earls Kitchen + Bar,Champps Americana,The White Chocolate Grill
+183:Ruby Tuesday
+612:Coyote Ugly,Hard Rock Cafe Denver,Lucky Strike Denver,Maggiano's Little Italy
+611:Bar Louie,Mellow Mushroom,Land of Sushi
+186:Legal Sea Foods
+614:Fluff Color | Makeup | Blowdry Bar and Bridal Salon,Old Chicago
+613:Chili's Grill & Bar
+616:Cherry Cricket
+421:Applebee's,Outback Steakhouse,Sushi Garden,The Melting Pot,World Sports Grille
+615:Brio Tuscan Grille,Elway's
+420:Applebee's
+618:California Pizza Kitchen
+423:Frog & Firkin,Gentle Ben's Brewing Company,No Anchovies,Wilko
+617:Baker Street Pub & Grill,Elephant Bar Restaurant,Little India Restaurant (Belmar),Lucky Strike Belmar,The Rock Wood Fired Kitchen,Ted's Montana Grill,The Oven
+422:Armitage,Blanco Tacos + Tequila,Firebirds Wood Fired Grill,RA Sushi Bar Restaurant
+528:Baker St. Pub & Grill,Brio Tuscan Grille
+619:Hops Grillhouse & Brewery,Outback Steakhouse,Romano's Macaroni Grill
+527:Berryhill Baja Grill,Jasper's,Tommy Bahama
+79:Chili's Grill & Bar
+78:Chili's Grill & Bar,LongHorn Steakhouse,Texas Roadhouse
+114:Chili's Grill & Bar,LongHorn Steakhouse,TGI Fridays
+77:Garfield's Restaurant & Pub
+115:Applebee's,Texas Roadhouse
+571:Fox River Brewery and Restaurant,TGI Fridays
+112:Applebee's,LongHorn Steakhouse,TGI Fridays
+570:Applebee's,Famous Dave's Bar-B-Que,Texas Roadhouse,TGI Fridays
+118:Applebee's,Diamond Dave's
+119:RoadHouse Bar & Grill
+431:Friendly Confines,LongHorn Steakhouse,Miller's Ale House - Orlando Alafaya,Romano's Macaroni Grill,Smokey Bones Bar & Fire Grill,TGI Fridays
+432:Hola!
+575:Diamond Dave's
+80:Applebee's,Texas Roadhouse
+81:Applebee's,Texas Roadhouse
+439:Ruby Tuesday
+87:Bar Louie,Gordon Biersch,Ted's Montana Grill
+576:Chili's Grill & Bar
+437:Billy Heartbeats,Stanfords Lloyd Center
+84:Old Chicago Pizza & Taproom
+438:The Parish,Romano's Macaroni Grill
+125:Bennigan's Grill & Tavern,Chili's Grill & Bar
+67:Chili's Grill & Bar,Just Tacos Mexican Grill & Cantina,Maru-Hi Restaurant & Lounge,Ruby Tuesday
+126:Buffalo Wild Wings
+66:Big City Diner,Chili's Grill & Bar,Monterey Bay Canners
+300:TGI Fridays
+582:BJ's Restaurant & Brewhouse
+304:Applebee's
+581:BJ's Restaurant & Brewhouse
+305:Ruth's Chris Steak House,Salt Creek Grille,Salt Creek Grille
+308:The Stone Pony Summer Stage,Langosta Lounge,McLoone's Asbury Grille,Stella Marina Bar & Restaurant,The Stone Pony Summer Stage,Beach Bar,Tim McLoone's Supper Club,Wonder Bar
+307:Applebee's
+129:Buffalo Wild Wings,Sideline,Joe's Crab Shack
+309:Applebee's
+445:Garfield's,Texas Roadhouse
+446:Bar Louie,Dave & Buster's,Rock Bottom Restaurant & Brewery,TGI Fridays
+440:Garfield's Restaurant & Pub,Texas Roadhouse
+441:Smokey Bones Bar & Fire Grill
+442:Garfield's Restaurant and Pub
+583:Applebee's,World sports cafe
+584:Burgers & Beer I.V. Mall,Famous Dave's Bar-B-Que,Chili's Grill & Bar
+70:Bulldog Pipe & Cigar
+120:Dubuque Mining Co
+449:Bar Louie,Buckhead Saloon,Gandy Dancer Saloon,Hard Rock Cafe Pittsburgh,Houlihan's,Joe's Crab Shack,Kiku Japanese Restaurant,Steelhouse,The Melting Pot
+134:Applebee's,Bourbon St . Grill,Chili's Grill & Bar,Old Chicago Pizza and Taproom
+135:Applebee's,Jose Peppers Mexican Grill & Tex-Mex Cantina,Dave & Buster's,Hooters,Cheeseburger in Paradise,Chili's Grill & Bar,Jazz a Louisiana Kitchen,LongHorn Steakhouse
+59:Chili's Grill & Bar,The Counter
+138:54th Street Grill & Bar,Applebee's,Chili's Grill & Bar
+139:Sullivan's Steakhouse
+57:Tapas @ Kukui'ula,Tortilla Republic The Upstairs
+136:Cheddar's Casual Cafe,Outback Steakhouse
+137:Bravo! Cucina Italiana,Bristol Seafood Grill,Cold Stone Creamery,Hereford House - Leawood,Houlihan's,Sushi House
+450:Hofbräuhaus Pittsburgh,McCormick & Schmick's Seafood & Steaks
+454:Applebee's,Houlihan's,Chili's Grill & Bar,LongHorn Steakhouse,Smokey Bones Bar & Fire Grill
+451:Houlihan's,Puffs-n-Stuff Cigars and Bar
+452:LongHorn Steakhouse,TGI Fridays
+458:BRAVO! Cucina Italiana,Puffs-n-Stuff Cigar Bar / Jernigan's
+559:Bar Louie,Bonefish Grill
+456:Applebee's,Houlihan's,Chili's Grill & Bar,LongHorn Steakhouse,Smokey Bones Bar & Fire Grill
+459:Bonefish Grill,Saga Hibachi Steakhouse & Sushi Bar (South Hills Village Mall Location)
+62:Bikini Cantina,Gordon Biersch,Hooters,Chai's Island Bistro,The Waterfront at Aloha Tower,The Waterfront at Aloha Tower
+63:Beijing Restaurant,Chibo Restaurant,P.F. Chang's,Restaurant Suntory,Senor Frogs,Wolfgang's Steakhouse
+552:Applebee's
+131:Applebee's,Old Chicago
+143:Logan's Roadhouse
+49:Locos Grill & Pub
+144:Applebee's,LongHorn Steakhouse
+148:Applebee's
+44:Ruby Tuesday
+149:O'Charley’s Restaurant & Bar
+463:TGI Fridays
+464:Dave & Buster's,Ruby Tuesday
+569:LongHorn Steakhouse,Old Chicago Pizza and Taproom,Texas Roadhouse
+466:Ruby Tuesday
+565:Chili's Grill & Bar,Logan's Roadhouse,Ruby Tuesday
+52:The Celtic Tavern Irish Pub & Restaurant
+54:Koho's Grill & Bar
+563:Garfield's
+564:George's Place Bar & Grill,Outback Steakhouse,Ruby Tuesday
+487:Cajun Steamer Bar & Grill,Famous Dave's,Chili's Grill & Bar,Logan's Roadhouse
+486:Applebee's,O'Charley’s Restaurant & Bar
+484:Mountain Edge Grill
+285:Chili's Grill & Bar,Old Chicago Pizza and Taproom
+284:Applebee's,Granite City Food & Brewery
+288:Baby Blue Sushi Sake Grill,Dante Ristorante Pizzeria,Roja Mexican Grill Shops of Legacy,Sake Bombers Lounge
+287:Applebee's,Chili's Grill & Bar
+480:Applebee's
+481:Rafferty's of Clarksville
+473:Buffalo Wild Wings,Dick's Last Resort,Hofbrau Beer Garden,Margaritaville,LongHorn Steakhouse,Rum Runners,The Cantina Bar & Grill,Tootsie's Orchid Lounge
+476:Garfield's Restaurant & Pub
+270:Chili's Grill & Bar,Max & Erma's,Ruby Tuesday
+475:American Cafe
+477:Ruby Tuesday
+274:Ernie Biggs Dueling Piano Bar,Garfield's Restaurant & Pub,Joe's Crab Shack
+479:Texas Roadhouse
+275:Pepper's Bar and Casino
+277:Bay Bar & Grille
+471:Garfield's
+109:Buffalo Wild Wings
+108:Bourbon Street Distillery,Harry & Izzy's,Champps,Palomino - Indianapolis,Ruth's Chris Steak House,Weber Grill Restaurant
+106:Houlihan's,TGI Fridays,TGI Fridays
+105:Maggiano's Little Italy,Seasons 52,Sullivan's Steakhouse,TGI Fridays
+104:TGI Fridays,Tokyo Japanese Cuisine
+103:Applebee's,Buffalo Wild Wings
+102:Chili's Grill & Bar
+100:Applebee's,Hooters,O'Charley’s Restaurant & Bar,Texas Roadhouse
+97:Bar Louie
+597:Outback Steakhouse,Romano's Macaroni Grill,TGI Fridays
+391:BJ's Restaurant & Brewhouse,Ruby Tuesday
+596:BJ's Restaurant & Brewhouse,Hooters
+390:Brio Tuscan Grille,Dave & Buster's,TGI Fridays,The Pub Polaris
+94:Buffalo Wild Wings,Chili's Grill & Bar
+393:Applebee's
+598:Max's Opera Cafe of Palo Alto,Max's Opera Cafe of Palo Alto
+93:Dave & Buster's
+395:RA Sushi Bar Restaurant
+394:Hooters,Tinder Box
+294:Burtons Grill of Nashua,Joe's American Bar & Grill
+293:LongHorn Steakhouse,TGI Fridays
+295:Buffalo Wild Wings
+290:Granite City Food & Brewery
+495:Cafe Terigo
+292:Applebee's,99 Restaurant & Pub
+297:Buddakan,Game On! - Atlantic City,Phillips Seafood,Phillips Seafood,The Continental,Gordon Ramsay Pub & Grill
+298:Sakura Japanese Steak,Ruby Tuesday
+299:Maggiano's Little Italy,McCormick & Schmick's,Rosa Mexicano
+396:Brunswick Zone XL Gilbert Lanes,Buffalo Wild Wings,TopIt Cupcakes
+398:BJ's Restaurant & Brewhouse,Buffalo Wild Wings,Elephant Bar Restaurant,Firebirds Wood Fired Grill,Chili's Grill & Bar,Juan Jaime's Tacos and Tequila,Majerle's Sports Grill,Outback Steakhouse,The Keg Steakhouse + Bar - Chandler,The Old Spaghetti Factory
+399:BJ's Restaurant & Brewhouse,Buffalo Wild Wings,Elephant Bar Restaurant,Firebirds Wood Fired Grill,Chili's Grill & Bar,Juan Jaime's Tacos and Tequila,Majerle's Sports Grill,Outback Steakhouse,The Keg Steakhouse + Bar - Chandler,The Old Spaghetti Factory
+590:BJ's Restaurant & Brewhouse,Lazy Dog Restaurant & Bar,Roman Holiday Wine Lounge,Salt Creek Grille,Sisley Italian Kitchen,TGI Fridays,Wokcano
+592:Dave & Buster's,McCormick & Schmick's Seafood & Steaks,Mikuni Kaizen,Tres Agaves
+88:Brio Tuscan Grille,Claim Jumper,Famous Dave's Bar-B-Que (Closed),Harry Caray's Italian Steakhouse,Holy Mackerel!,Lucky Strike Lombard,RA Sushi Bar Restaurant,Rock Bottom Restaurant & Brewery
+593:Gordon Biersch,Ruth's Chris Steak House
+241:Applebee's
+195:Chili's Grill & Bar
+383:BRAVO! Cucina Italiana,Chili's Grill & Bar,Max & Erma's
+194:LongHorn Steakhouse,Uno Pizzeria & Grill
+384:The Ville Restaurant And Bar
+197:Rio Buffet & Bar
+382:Ruby Tuesday
+190:Adega Wine Cellars & Cafe,Austin Grill Silver Spring,Copper Canyon Grill Silver Spring,Eggspectation,Thai At Silver Spring
+192:Outback Steakhouse
+198:Bobby McKey's Dueling Piano Bar,Bond 45,Cadillac Ranch,Grace's Mandarin,Ketchup,McCormick & Schmick's Seafood & Steaks,McLoone's Pier House,National Pastime Sports Bar & Grill,Public House National Harbor,Thai Pavilion
+387:Garfield's,Ruby Tuesday
+385:Garfield's,LongHorn Steakhouse
+245:Big Bowl Chinese And Thai,Flame Rotisserie Grill & Bar,Granite City Food & Brewery,Green Mill Restaurant & Bar,Romano's Macaroni Grill
+244:Boston's The Gourmet Pizza,California Pizza Kitchen,Pittsburgh Blue Steakhouse
+242:Lakes Tavern & Grill
+248:Applebee's
+509:Genghis Grill,The Grill on the Alley
+507:Genghis Grill - Build Your Own Stir Fry,Gloria's Restaurants,Houlihan's,TGI Fridays
+230:Not Your Average Joe's,T Murphy's Sports Bar & Grill
+370:Elephant Bar
+372:Smokey Bones Bar & Fire Grill,Wild Mango Restaurant and Bar
+379:Applebee's,Buffalo Wild Wings,O'Charley’s Restaurant & Bar,Outback Steakhouse,Outback Steakhouse,Wing Warehouse
+239:Applebee's
+378:Buffalo Wild Wings,Cheddar's Casual Cafe
+374:Applebee's
+376:Applebee's
+232:Jonathon B Pub
+234:TGI Fridays
+233:Jonathon B Pub
+235:Applebee's
+237:Garfield's,Ruby Tuesday
+260:Bonefish Grill
+261:Texas Roadhouse
+364:Grizzly's Grill N'Saloon
+363:Brixx Wood Fired Pizza,Fox & Hound,LongHorn Steakhouse,Romano's Macaroni Grill,Ruby Tuesday,The Melting Pot
+368:Chili's Grill & Bar,TGI Fridays
+367:Rumors Lounge
+269:BC's Kitchen,Max & Erma's
+268:Buffalo Wild Wings,Chili's Grill & Bar,LongHorn Steakhouse
+267:Applebee's
+266:Jack Stack Barbecue - Freight House
+265:54th Street Grill & Bar,Fat Fish Blue,Granite City Food & Brewery,Hereford House,O'Dowds Little Dublin - Zona Rosa,Swagat Fine Indian Cuisine
+252:Applebee's
+351:Applebee's Queens Center Mall
+352:Applebee's Queens Center Mall
+358:Cajun Grill,Dave & Buster's,Chili's Grill & Bar,Tony Sacco's Coal Oven Pizza - Concord, NC
+254:Garfield's
+255:Beef 'O' Brady's,O'Charley’s Restaurant & Bar

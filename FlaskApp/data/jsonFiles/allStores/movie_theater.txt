@@ -1,0 +1,208 @@
+339:Regal Cinemas Ithaca Mall 14
+332:Regal Cinemas Champlain Centre 8
+330:Regal Cinemas Santa Fe 14
+158:Cinemark Cinema 10
+336:Regal Cinemas Salmon Run Mall 12
+337:AT&T Rotterdam Mall,AT&T Rotterdam Mall,The Schenectady Theater For Children
+37:Carmike 12
+334:Regal Cinemas Aviation Mall 7
+154:Cinemark Florence 14
+600:Cinemark Greeley
+150:Cinemark Fayette Mall and XD
+42:AMC Avenue Forsyth 12,AMC Avenue Forsyth 12
+539:AMC First Colony 24
+608:Harkins Theatres Northfield 18
+607:AMC Dine-In Theatres Southlands 16 Featuring Red Kitchen
+606:AMC Orchard 12
+536:AMC Deerbrook 24
+605:AMC Flatiron Crossing 14
+604:Century Theatre
+603:Regal Cinemas Village at the Peaks 12 & RPX,Regal Cinemas Village at the Peaks 12 & RPX
+202:Bow Tie Cinemas Harbour 9
+205:Bow Tie Cinemas Annapolis Mall 11
+201:United Artists Marley Station 8 Movie Theater
+169:Regal Cinemas Valley Mall 16
+23:Regal Cinemas Sawgrass 23 & IMAX
+206:Regal Cinemas Salisbury 16 & RPX
+166:Country Club Cinemas
+27:Carmike 12
+409:The Picture Show at Paradise Valley Mall
+6:AmStar Cinemas
+543:Regal Cinemas Gateway 16 & IMAX
+5:Carmike 12
+340:Regal Cinemas Arnot Mall 10
+546:Cinemark
+160:Cinemark
+4:Regency Square 12
+401:Harkins Theatres Tempe Marketplace 16
+548:Cinemark Mall Del Norte
+400:Harkins Theatres Arizona Mills 25 w/IMAX,Harkins Theatres Arizona Mills 25 w/IMAX,Harkins Theatres Arizona Mills 25 w/IMAX
+547:Cinemark Movies 8
+403:Harkins Scottsdale Fashion Square 7
+211:AMC Loews Liberty Tree Mall 20
+212:Cinemark at Hampshire Mall
+210:Blackstone Valley 14 Cinema de Lux
+216:Regal Cinemas Bellingham 14
+19:Carmike CInemas
+214:Rave Cinemas
+17:Regal Gainesville Cinema Stadium 14
+312:AMC Rockaway 16
+177:AMC Security Square 8,AMC Security Square 8
+16:AMC Mazza Gallerie
+14:Premiere Cinema 14 - Spanish Fort
+170:Regal Cinemas Westminster 9
+418:Starplex Cinemas
+171:AMC Owings Mills 17
+417:B&B Theatres Muskogee Arrowhead Mall 10
+512:AMC Valley View 16
+416:AMC Arizona Center 24
+511:AMC Valley View 16
+623:Cinemark Enfield 12
+174:AMC Loews White Marsh 16
+519:Abilene Premiere Cinema 10
+414:Harkins Theatres Christown 14
+517:AMC The Parks At Arlington 18
+516:Studio Movie Grill
+411:iPic Theaters
+514:AMC Grapevine Mills 30 with Dine-In Theatres
+224:Showcase Cinema de Lux Legacy Place
+328:Allen Theaters - Animas 10
+329:United Artists DeVargas Mall Cinema 6
+227:Patriot Cinemas - Hanover Mall Cinemas 10
+188:Montgomery Royal Theatres
+323:Princeton UA Theatre
+189:AMC Loews White Flint 5
+321:United Artists Moorestown 7 Movie Theater
+180:Landmark Theatres
+429:Cinemark 10
+428:Harkins Theatres Yuma Palms 14
+523:Temple Premiere Cinemas + IMAX
+612:United Artists Denver Pavilions 15
+611:Regal SouthGlenn 14
+615:AMC Cherry Creek 8
+420:Cinemark Park Place 20 and XD
+618:United Artists Colorado Mills 16 & IMAX
+617:Century 16 Bel Mar
+619:United Artists Colorado Mills 16 & IMAX
+527:Cinemark 17 and XD
+77:AMC Showplace Carbondale 8
+118:Marcus Crossroads Cinema
+433:Pony Village Cinema
+431:Regal Cinemas Waterford Lakes 20 IMAX
+432:Regal Cinemas Old Mill 16 & IMAX
+80:Hickory Point 12
+81:Hickory Point 12
+573:Marcus Cedar Creek Cinema
+439:Cinema 5 Theatre
+87:Gold Class Cinemas,The Promenade Bolingbrook,The Promenade Bolingbrook
+437:Regal Cinemas Lloyd Center 10 & IMAX
+576:Frontier 9
+85:Cinemark Movies 10
+438:Regal Cinemas Pioneer Place 6
+67:Consolidated Theatres Mililani
+125:CORAL RIDGE CINEMA
+66:Consolidated Theatres Pearlridge
+127:Marcus Sycamore Cinema
+128:Cinemark North Grand 5
+129:Cinemark 20 Jordan Creek and XD
+445:Clearview Mall Cinemas
+446:AMC Loews Waterfront 22
+440:Cinemark Stroud Mall and XD
+442:Selinsgrove 12
+583:Edwards Fresno Stadium 22 & IMAX,Edwards Fresno Stadium 22 & IMAX
+584:Cinemark Imperial Valley Mall 14
+120:Mindframe Theaters
+73:AMC Quincy Mall 3
+135:Legends 14 Theatre
+132:Southridge 12
+59:Consolidated Theatres Kahala
+133:AMC Salina 10
+137:AMC Town Center 20
+450:SouthSide Works
+454:Cinemark
+458:Galleria Six
+456:Cinemark
+459:Carmike 10
+554:Malco Pinnacle Hills Cinema
+60:Consolidated Theatres Koko Marina
+131:Merle Hay Mall Cinema
+143:Cinemark Paducah
+144:Regal Greenwood Mall Stadium 10
+560:Malco Mall Trio
+146:South Side Mall Theatre
+460:Indiana Mall Cinemas
+463:Carmike Cinemas
+569:Marcus Bay Park Cinema
+469:Carmike 7 Theatre
+565:Cinemark Huntington Mall
+53:Maui Mall Megaplex Cinema
+54:Consolidated Theatres Ka?ahumanu
+140:Regal Cinemas Dimond Center 9
+561:Behind the Mall Cinema Inc
+563:Carmike Cinemas
+564:Regal Cinemas Grand Central Mall 12
+280:Showplex Cinemas Mall Stadium 7
+485:Carmike Cinemas Foothills 12
+285:Marcus South Pointe Cinema
+482:Marquee Cinemas
+483:Carmike 12
+481:Governor's Square 10
+473:The Grand Theatre,The Grand Theatre
+476:Regal Cinemas Spartan 16
+272:Regal St. Louis Stadium 18 & IMAX
+479:Rushmore Seven
+277:Regal Cinemas Gallatin Valley 11
+278:Rimrock Mall,Wynnsong 10
+471:Regal Cinemas Crown Center 14
+109:AMC Showplace Washington Square 12
+108:United Artists Circle Centre 9
+107:Carmike 18
+106:AMC Castleton Square 14
+105:Landmark Theatres
+96:The Holiday Star Theater
+596:Cinemark Tanforan
+94:AMC Chicago Ridge 6
+393:Picture Show Superstition Springs
+91:North Riverside Luxury 6: Classic Cinemas
+290:AMC Westroads 14
+497:Premiere Cinema 6 - Westgate Mall
+396:Regal Cinemas Gilbert 14
+398:Harkins Theatres Chandler Fashion 20
+399:Harkins Theatres Chandler Fashion 20
+590:Edwards Valencia 12 & IMAX,Westfield Valencia Town Center,Westfield Valencia Town Center
+88:AMC Yorktown 18,AMC Yorktown 18
+89:Cinemark 16 Deer Park
+384:Cinema Six
+191:Academy Stadium Theaters
+190:Regal Cinemas Majestic 20 & IMAX
+389:Regal Cinemas River Valley Mall 10 Movie Theater
+388:Regal Cinemas Indian Mound 11
+387:Cinemark Colony Square Mall
+385:Carmike Cinemas, Inc
+245:AMC Rosedale 14
+247:Cinemark River Hills Movies 8
+246:Carmike
+507:AMC Firewheel 18
+230:Regal Cinemas Cape Cod Mall 12
+370:Rave Motion Pictures - Franklin Park 16,Franklin Park Mall,Franklin Park Mall
+372:Great Northern Mall
+379:Regal Cinemas Boulevard Centre 14,Encore Cinema
+239:Phoenix Theatres Mall of Monroe,Phoenix Theatres Mall of Monroe
+378:Cinemark Tinseltown
+376:Mall 6
+232:Carmike Cinema District Office
+231:Courtyard Cinema
+234:Fashion Square Ten
+233:Carmike Cinema District Office
+235:Carmike Cinemas
+237:Birchwood Cinema 10
+263:Goodrich • Capital 8
+364:Carmike Stadium 9,Carmike Stadium 9
+363:Regal Cinemas Mayfaire 16 & IMAX
+369:Northtowne Cinema 9
+368:West Acres Cinema
+355:Carmike Cinemas
+357:Carolina Mall Cinema
+358:AMC Concord Mills 24
+254:Wilcox Cinema
+255:United Artists Bonita Lakes 9,United Artists Bonita Lakes 9

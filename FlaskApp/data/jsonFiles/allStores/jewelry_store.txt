@@ -1,0 +1,439 @@
+338:Claire's,Charlotte Russe,J B Robinson,JCPenney,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Piercing Pagoda,Piercing Pagoda,Van Cott Jewelers,Zales
+339:Claire's,Kay Jewelers,Perrywinkle's Fine Jewelry,Piercing Pagoda
+332:Claire's,Hannoush Jewelers - Champlain Center North,JCPenney,JCPenney,Piercing Pagoda,Sears
+330:Claire's,Dillard's,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+158:Claire's,Dillard's,Forever 21,Gordon's Jewelers,Icing by Claire's,JCPenney,J. King Jeweler-Food Court,Kay Jewelers,New York & Company,Sears,Zales - The Diamond Store
+331:JCPenney,JCPenney,Kay Jewelers,Sears
+336:Claire's,Charlotte Russe,J.B. Robinson,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+156:Claire's,Coach,Dillard's,Gold & Diamond,Charlotte Russe,KAY JEWELERS,Sears
+337:Claire's,Sears,Jewels Jewelry,Littman Jewelers,Macy's - CLOSED,Piercing Pagoda,Sears
+155:Claire's
+334:Claire's,Goldmine,JCPenney,Sears,Piercing Pagoda,Sears,T.J.Maxx,Zales
+154:Ashcroft & Oak Jewelers,Totally Pagoda,Claire's,Forever 21,Glitter,Hannoush Jewelers - Florence Mall,JCPenney,Kay Jewelers,Macy's,Macy's,Totally Pagoda,Rogers Jewelers,Sears,Silverado,Torrid
+601:Claire's,francesca's,Helzberg Diamonds,Charlotte Russe,Kay Jewelers,Macy's,Maximum Boutique,Zales - The Diamond Store
+152:Dillard's,Dillard's,DSW Designer Shoe Warehouse,francesca's,Charming Charlie,Jared - Galleria of Jewelry,Kay Jewelers,New York & Company
+600:Claire's,Gordon's Jewelers,JCPenney,Sears,Sears,Zales - The Diamond Store
+530:francesca's,High Gloss,Paul Carter Jewels
+150:Claire's,Dillard's,Dillard's,francesca's,Helzberg Diamonds,JCPenney,Kay Jewelers,LeRoy's Jewelers,Macy's,New York & Company,Piercing Pagoda,Princess Jewelers,REEDS Jewelers,Silverado,JCPenney,The Limited,Zales - The Diamond Store
+535:Claire's
+534:Ben Bridge Jeweler,Brighton Collectibles,Claire's,Dillard's,Forever 21,francesca's,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,PANDORA Baybrook Mall,Piercing Pagoda,Samuels Jewelers,Sears,Swarovski Retail Ventures #132,Zales
+533:Claire's,Texas Gold & Silver Group,Gordon's Jewelers,Macy's,Oro Italiano,Perfumania,Shirin Diamond Center
+609:Claire's,Dillard's,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Jewelry Palace,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Zales - The Diamond Store
+539:Ben Bridge Jeweler,Claire's,Dillard's,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Charms Etc,James Avery Jewelry,JCPenney,Kay Jewelers,Lords Jewelers,Macy's,New York & Company,Swarovski,Zales - The Diamond Store
+608:Claire's,Charlotte Russe,Charming Charlie Denver,JCPenney,Jewelry Expressions,Macy's,New York & Company
+538:Coach,Dillard's,Forever 21,Gordon's Jewelers,Charlotte Russe,James Avery Jewelry,Jared - Galleria of Jewelry,Kay Jewelers,Macy's,New York & Company,THE LIMITED,Zales Outlet
+607:Claire's,Gold Concepts Inc,Charming Charlie Aurora,JCPenney,Wood Shark Trading Company
+606:Claire's,Charming Charlie Westminster,JCPenney,Kay Jewelers,Macy's,Torrid,Zales - The Diamond Store
+536:Claire's,Coach,Diamonds Unlimited,Dillard's,Forever 21,francesca's,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Jared - Galleria of Jewelry,JCPenney,KAY JEWELERS,Lord Jewelers Deerbrook Mall,Macy's,Media Magic,New York & Company,Samuels Jewelers,Sears,Zales - The Diamond Store
+605:Ben Bridge,Brighton Collectibles,Dillard's,Fast-Fix Jewelry & Watch Repairs - Flatiron Crossing,Helzberg Diamonds,Charlotte Russe,Jewelfire Diamonds,John Atencio,Kay Jewelers,Macy's,Piercing Pagoda,Precision Time - Flatiron Crossing,Simply Sterling,Swarovski,Forever XXI,Zales Jewelers
+604:francesca's,Macy's
+603:Kay Jewelers,Piercing Pagoda,Samuels Jewelers,Zales - The Diamond Store
+602:Icing by Claire's,Claire's,Gordon's Jewelers,Icing by Claire's,J.B. Robinson Jewelers,JCPenney,Piercing Pagoda,Sears,Zales - The Diamond Store
+202:DSW Designer Shoe Warehouse,Enchanted Art and Sole Comfort Footwear,Enchanted Art and Sole Comfort Footwear
+349:Bandstand Watches,Claire's,Forever 21,francesca's,Gerald Peters,Goff Jewelers,Helzberg Diamonds,Charlotte Russe,Icing,JCPenney,Kay Jewelers,The Limited,Limor Jewelers,Littman Jewelers,Macy's,Michael Kors,Pandora,Piercing Pagoda,Piercing Pagoda,Sears,Swarovski,Forever 21,Zales - The Diamond Store
+203:As Kindred Spirits,Smyth Jewelers Annapolis Towne Centre
+204:Adore Jewelry & Diamond Center,As Kindred Spirits,Adore Jewelry & Diamond Center,Adore Jewelry & Diamond Center
+205:Blanca Flor Silver Jewelry,Brighton Collectibles,C J Watch & Jewelry Repair,Claire's,Fashion Time - The Time Store,Forever 21,francesca's,Gold Palace,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Charms Galore,Icing by Claire's,Jared - Galleria of Jewelry,JCPenney,Kay Jewelers,Liljenquist & Beckstead Annapolis Mall,The Limited,Littman Jewelers,Macy's,Monica Jewelers,Pandora Annapolis Mall,Piercing Pagoda,Sears,Sears,Swarovski,Zales - The Diamond Store
+200:Gold Plus,Piercing Pagoda,Silver Place
+201:Claire's,Fine Fortune Jewelry,Forever 21,Fred Meyer Jewelers,Gold Palace,Gordon's Jewelers,JCPenney,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Smyth Jewelers
+169:Claire's,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,King's Jewelry,Littman Jewelers,Macy's - Closed,Piercing Pagoda,REEDS Jewelers,Sears,Zales - The Diamond Store
+342:Claire's,Gold Buyers At the Mall,Charlotte Russe,Jewelry Center,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Piercing Pagoda,Zales - The Diamond Store
+343:Bottega Veneta Manhasset,David Yurman,Donna Karan New York,Giorgio Armani Boutique,CHANEL FINE JEWELRY AT AMERICANA MANHASSET,London Jewelers,London Jewelers,Michael Kors,Tiffany & Co.,Van Cleef & Arpels
+344:Bloomingdale's,Brighton Collectibles,Coach,francesca's,Henri Bendel,Kay Jewelers,Macy's,Michael Kors,PANDORA Walt Whitman Mall,Saks Fifth Avenue,Swarovski
+206:Boscov's,Claire's,Charlotte Russe,J.B. Robinson Jewelers,JCPenny,Kay Jewelers,Littman Jewelers,Macy's,Piercing Pagoda,Sears,Zales - The Diamond Store
+166:Gordon's Jewelers,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Sears,Zales-The Diamond Store
+345:Innasense Designs Grand Central and Inaya Jewelry Online
+165:Claire's,JCPenney,Kay Jewelers,Piercing Pagoda
+346:D.Fiori,Maurice Fine Jewelry,Miriam Salat,Satya Jewelry,Swarovski
+208:Forever 21,Goldstein Swank & Gordon,Hannoush Jewelers - Auburn Mall,Charlotte Russe,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda,Sears
+209:Claire's,DSW Designer Shoe Warehouse,Hannoush Jewelers - Greendale Mall,Piercing Pagoda
+161:Claire's,Dillard's,Dillard's,Elegant Jewelers,Gordon's Jewelers,Hot Topic,JCPenney,JCPenney,Kay Jewelers,Milan Jewelers,Sam's Custom Jewelry,Sears,Silver City,The Limited,Zales - The Diamond Store
+409:Claire's,Dillard's,Helzberg Diamonds,Icing,Indian Market,Jared - Galleria of Jewelry,JCPenney,Kay Jewelers,Macy's,Piercing Pagoda,Precision Time - Paradise Valley Mall,Sears,Silver Effects,Zales
+162:Adler's Towne Center,Merci Beaucoup,Mignon Faget
+408:Brighton Collectibles,francesca's,Gauthier,Isaac Jewelers,Michael Kors
+542:C. Kirk Root Designs,francesca's
+541:Claire's,DSW Designer Shoe Warehouse,James Avery Jewelry - Wolf Ranch Town Center,Kay Jewelers,LOFT,T.J.Maxx
+7:Charming Charlie Tuscaloosa,New York & Company
+405:N & R Gold & Silver Jewelry
+544:Austin Americus Diamond,DSW Designer Shoe Warehouse,Home Consignment Center - Austin,Sam Moon Austin
+6:Claire's,Dillard's,Icing by Claire's,JCPenney,Jewel Queen,Kay Jewelers,Kay Jewelers,Sears
+543:Samuels Diamonds
+5:Claire's
+340:Claire's,Charlotte Russe,JCPenney,Littman Jewelers,Macy's - Closed,Piercing Pagoda,Piercing Pagoda,Sears
+407:Brighton Collectibles,francesca's,Gauthier,Isaac Jewelers,Michael Kors
+546:Claire's,JCPenney,Jewelry Box,New York & Company,Right Jewelry
+160:Claire's,Coach,Dillard's,Gordon's Jewelers,JCPenney,Kay Jewelers,Marks & Morgan,Sears,Prien Lake Mall,Icing by Claire's,Zales
+4:Claire's,Dillard's,Dillard's,JCPenney,JCPenney,Sears,Zales - The Diamond Store
+548:Body Central,Deutsch & Deutsch - Laredo,Dillard's,Forever 21,Gordon's Jewelers,Charlotte Russe,JCPenney,John Flores Jewelry & Repair,Macy's,New York & Company,Oro Valle,Piercing Pagoda,Precious Image,Sears,The Limited,Zales - The Diamond Store
+401:Claire's,Charlotte Russe,JCPenney
+400:Black Market Minerals,Capri Jewelers,Claire's,Forever 21,Arizona Mills,Charlotte Russe,Kay Jewelers Outlet,Piercing Pagoda,Arizona Mills,Zales Outlet
+547:GOLD N' CHAIN,JCPenney
+9:jcpenney
+403:Barneys New York, Scottsdale,Ben Bridge,Bottega Veneta,Brighton Collectibles,Bulgari Store Arizona - Camelback Rd,Cartier,Claire's,David Yurman,Dillard's,Fast-Fix Jewelry and Watch Repairs,Forever 21,Forever 21,francesca's,Fred Meyers Jewelers,Barneys New York, Scottsdale,Hot Topic,Charlotte Russe,Charming Charlie Scottsdale,Kay Jewelers,Love Culture-Scottsdale,Macy's,Michael Kors,Montblanc,Omega Boutique,PANDORA Scottsdale Fashion Square,Soho,Swarovski Scottsdale Fashion Square,The Limited,Tiffany & Co.
+549:Claire's,Dillard's,Forever 21,J G Gold Works,Gordon's Jewelers,Charlotte Russe,JCPenney,Jewelry Box,Kay Jewelers,Make It Personal,Oro Valle,Sears
+8:Claire's,Earthbound Trading,Fashion Jewelry,Charlotte Russe,Intrigue,JCPenney,Kay Jewelers,REEDS Jewelers,Sears,THE LIMITED
+402:Platella
+211:Blue River Diamond Co,Kay Jewelers,Piercing Pagoda
+212:Claire's,Hannoush Jewelers - Hampshire Mall,JCPenney
+210:Claire's,Kay Jewelers,The Paper Store
+318:Bernie Robbins Jewelers,francesca's
+319:Brighton Collectibles,Claire's,XXI Forever,francesca's,Littman Jewelers,Charlotte Russe,JCPenney,Laila Rowe Cherry Hill Mall,Littman Jewelers,Macy's,New York & Company,PANDORA Cherry Hill Mall,Philly Diamond Connection,Piercing Pagoda,Swarovski,The Limited,Torrid
+213:Belden Jewelers,Claire's,DSW Designer Shoe Warehouse,ELLE Jewelry,XXI Forever,Hannoush Jewelers - Holyoke Mall,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,New York & Company,Pandora,Piercing Pagoda,Piercing Pagoda,Piercing Pagoda,Sears,Shirin Jewelers,Swarovski Retail Ventures #194
+316:Brighton Collectibles,Bvlgari,Cartier,Di Modolo,Dodo,Henri Bendel,Chanel Boutique,Landau,Links of Londan,Macy's,Michael Kors,Montblanc,Sidney Thomas Jewelers,Saks Fifth Avenue,Tiffany & Co.,Van Cleef & Arpels
+214:Claire's,Hannoush Jewelers - Eastfield Mall,Kay Jewelers,Macy's - Closed,Piercing Pagoda,Sears
+317:JCPenney,Kay Jewelers,Littman Jewelry,Pay/Half,Piercing Pagoda,Sears,Zales
+179:Burdell's Jewelers,City Jewelers,Claire's,Elite Gold & Diamond,Fashion Jewelry,Forever 21,Milan Gold & Diamonds,Precious Stone,R K Jewelers
+178:Charlotte Russe,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Shaw's,Super Silver Galaxy,Zales - The Diamond Store
+315:Brighton Collectibles,Bvlgari,Cartier,Di Modolo,Dodo,Henri Bendel,Chanel Boutique,Landau,Links of Londan,Macy's,Michael Kors,Montblanc,Sidney Thomas Jewelers,Saks Fifth Avenue,Tiffany & Co.,Van Cleef & Arpels
+217:Square One Mall,Belden,Claire's,Fashion X,Forever 21,Hannoush Jewelers - Square One Mall,Charlotte Russe,Icing By Claire's,Jasmine Jewelry,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda,Sears,Square One Mall,Zales The Diamond Store
+177:Claire's,Claire's,Glazer Jewelers,Gold Valley,Macy's,Jewelry Hut,Macy's,Piercing Pagoda,Sears,Secret Garden Jewelry & Gifts,Treasures – The Diamond Place,Claire's,USA Living,Zales - The Diamond Store
+312:Alberto's Fine Jewelry,Ann Taylor,Coach,Forever 21,francesca's,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Pandora,Piercing Pagoda,Precision Time - Rockaway Mall,Sears,Swarovski Crystal,Rockaway Townsquare,The Limited,White Diamond Jewelers,Zales - The Diamond Store
+218:Claire's,Forever 21,Charlotte Russe,Marcou Jewelers,Piercing Pagoda
+176:Designer Name,Eastern Jewelry,Golden Names Jewelry Store,JCPenney,Jewelry Collection,Kay Jewelers,Paradice Jewelry & Repair,Piercing Pagoda,Sears,Shaw's Jewelers
+313:Claire's,JCPenney,Littman Jewelry,Piercing Pagoda,Sears
+310:Claire's,Helzberg Diamonds,Icing,Littman Jewelers,Love Culture,Macy's,Michael Anthony jewelers,PANDORA at Willowbrook Mall,Piercing Pagoda,Reflections,Sears,Swarovski Willowbrook Mall,The Limited,XXI Forever,Zales
+311:Benchmark Gold,Charlotte Russe,Sears,Kay Jewelers,Macy's,Piercing Pagoda,Livingston Mall,Sears,The Limited,Zales - The Diamond Store
+170:Boscov's,Claire's,Gold Time Inc,Gordon's Jewelers,Kay Jewelers,Littman Jewelers,New York & Company,Piercing Pagoda,Sears
+418:Claire's,Dillard's,JCPenney,Riddle's Jewelry,Zales - The Diamond Store
+171:Kay Jewelers,Macy's - CLOSED,Piercing Pagoda,Zales
+417:Ally Gally Fashion Accessories,Claire's,Dillard's,Gold Plaza II,JCPenney,JCPenney,Zales - The Diamond Store
+512:Bellagio Jewelers,Claire's,Elegant Jewelers,Forever 21,Brighton Collectibles,Marquise Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+416:New York & Company
+511:Bellagio Jewelers,Claire's,Elegant Jewelers,Forever 21,Brighton Collectibles,Marquise Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+623:Hot Topic,Charlotte Russe,KAY JEWELERS,Macy's - Closed,Park Avenue Jewelry,Piercing Pagoda,Sears,Zales - The Diamond Store
+622:Brighton Collectibles,Claire's,Forever 21,francesca's,Forever 21,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,Littman Jewelers,Macy's,Michael Kors,New York & Company,Piercing Pagoda,Pandora,Piercing Pagoda,Sears,Swarovski Danbury Fair Mall,Zales - The Diamond Store
+175:Claire's,Fast-Fix Jewelry and Watch Repairs,Fire & Ice,Forever 21,francesca's,Helzberg Diamonds,Icing by Claire's,Jared - Galleria of Jewelry,JCPenney,The Limited,Littman Jewelers,Macy's,Macy's,New York & Company,Piercing Pagoda,REEDS Jewelers,Sears,Shaw's,Torrid,Zales
+621:Claire's,Dillard's,FOREVER 21,Fred Meyer Jewelers,Gold Rush Littleton Cash for Gold, Cash for Silver, Cash for Diamonds,Gordon's Jewelers,Helzberg Diamonds,JCPenney,Kay Jewelers,Lorenzo Jewelers,Macy's,Piercing Pagoda,Precision Time - Southwest Plaza,Sears,Torrid,Zales
+620:Claire's,francesca's
+173:Tiffany & Co.,Claire's,Coach,Icing,Kay Jewelers,Laila Rowe Towson Town Center,THE LIMITED,Littman Jewelers,Love Culture,Macy's,Michael Kors,New York & Company,Pandora,Piercing Pagoda,Radcliffe Jewelers,Shaw's Jewelers,Swarovski,Temptations,Tiffany & Co.,Forever 21,Piercing Pagoda
+410:Demirjian
+519:Icing by Claire's,Claire's,Dillard's,Dillard's,Gordon's Jewelers,Icing by Claire's,JCPenney,JCPenney,Lovely Gift,Samuels Jewelers,Sears,Sears
+518:Benchmark Jewelers,Brighton Collectibles,Claire's,Dillard's: Northeast Mall,DSW Designer Shoe Warehouse,North East Mall,Forever 21,francesca's,Helzberg Diamonds,Charlotte Russe,Charming Charlie Hurst,Intrigue Jewelers,Jared - Galleria of Jewelry,JCPenney,Kay Jewelers,North East Mall,Macy's,Michael Kors,Pandora,Piercing Pagoda,North East Mall,Sears,North East Mall,T.J.Maxx,The Limited,Zales - The Diamond Store
+414:Claire's,JCPenney
+517:Benchmark Jewelers - The Parks at Arlington,Claire's,Claire's,Coach,Dillard's,DSW Designer Shoe Warehouse,FOREVER 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,New York & Company,PANDORA The Parks at Arlington,Robinson Jewelers,Samuels Jewelers,Sears,Zales Outlet
+516:Brighton Collectibles,francesca's,HALTOM'S,Charming Charlie Arlington,James Avery Jewelry,LOFT,Robbins Brothers Engagement Ring Store, Arlington
+411:Galicia Fine Jewelers,PANDORA Scottsdale Quarter
+514:Jewelry Outlet,Benchmark Jewelers - Grapevine Mills Mall,Elegant Jewelers,Forever 21,Grapevine Mills,His Highness Jewelers,Lemon Pop,Icing,Grapevine Mills,Marc Samuels Jewelers,Michael Kors,New York & Company Outlet,Grapevine Mills,Zales Outlet
+220:Pandora,Swarovski at The Shops at Prudential Center
+221:Ann Taylor,Claire's,francesca's,Charlotte Russe,Kay Jewelers,Limelight,Macy's,Macy's,PANDORA CambridgeSide Galleria,Piercing Pagoda,Sears,Silver Paradise,Swarovski Cambridgeside Galleria
+222:Barneys New York, Copley Place,Boccelli,David Yurman,Giorgio Armani Boutique,Christian Dior,Landau,Michael Kors,Montblanc,Tiffany & Co.
+223:Geoclassics,Local Charm,Michal Negrin,Luxe Boutique
+224:Claire's,francesca's,Love Culture-Legacy Place,PANDORA Legacy Place,The Paper Store
+225:The Shops at Chestnut Hill,Bloomingdale's,Michael Kors,The Shops at Chestnut Hill
+328:Bola Tys and Butterflys,Claire's,Dillard's,JCPenney,JCPenney,Kay Jewelers,Piercing Pagoda,Samuels Jewelers,Sears,Sears,Zales - The Diamond Store
+226:Brighton Collectibles,Claire's,francesca's
+329:Chavez Fine Jewelers,Queen's Ransom,Queen's Ransom,Zales the Diamond Store
+227:Claire's,Charlotte Russe,JCPenney - Closed,JCPenney - Closed,Macy's,Nasr Bros Jewelers,Piercing Pagoda,Sears,The Limited
+228:Belden Jewelers,Claire's,Hot Topic,Kay Jewelers,Macy's,Piercing Pagoda,Sears,Silver Star Jewelry
+188:DSW Designer Shoe Warehouse,Elite Gold and Diamond,Forever 21,Gold Palace,Heritage Jewelers,Hot Topic,Charlotte Russe,JCPenney,Kay Jewelers,Laila Rowe Wheaton,Macy's,Kay Jewelers,New York & Company,Piercing Pagoda,Ruby Jewelers,Shaw's,Sun's Jewelry and Clock
+229:Arias Jewelers,Belden Jewelers,Claire's,Elie Jewelers,Forever 21,francesca's,Hannoush Jewelers - Emerald Square Mall,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,Macy's,Macy's,New York & Company,New York Gold Exchange,Piercing Pagoda,Sears,Emerald Square,Torrid,Piercing Pagoda,Zales - The Diamond Store
+324:Marlowe's Jewelry & Repair's
+189:Coldwater Creek,Esterman Estate Jewelers,Galerie Ingrid Cooper,The Jewelry Design Co
+320:Boscov's,Claire's,Hot Topic,Kay Jewelers,Macy's
+321:Boscov's,Claire's,Dakota Watch Company,KAY JEWELERS,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Macy's,Dakota Watch Company
+322:Boscov's,Brand Jewelers,Claire's,Gordon's Jewelers,Charlotte Russe,Charming Charlie Deptford,Icing By Claire's,JCPenney,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Swarovski Deptford Mall,Torrid,Zales
+427:Claire's,Dillard's,Fred Meyer Jewelry,JCPenney,Sears
+522:Claire's,Sears,Gold Time Custom Jewelry,Gordon's Jewelers,Harris Originals,JCPenney,Jewelry Town,Jewelry World,Kay Jewelers,K’s Jewelers,Piercing Pagoda,Samuels Jewelers,Sears,Sears,Zales - The Diamond Store
+180:Amaryllis Handcrafted Jewelry
+426:Dillard's,Elite Jewelers,Frederick Fisher Jewelers,Charlotte Russe,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Zales
+521:Amy's Jewelers,Claire's,Dillard's,Gordon's Jewelers,Charlotte Russe,James Avery Jewelry,JCPenney,Dillard's,Sears,Sears,Sears,Zales - The Diamond Store
+429:Claire's,Dillard's,Piercing Pagoda,Samuels Jewelers,Sears
+428:Dillard's,JCPenney,Kay Jewelers,Zales - The Diamond Store
+523:Claire's,Citi Jewelers,Claire's,Dillard's,JCPenney,Macy's,Mark Yourself,N G Diamonds,Zales - The Diamond Store
+610:Ann Taylor,Ben Bridge,Brighton Collectibles,Fast-Fix Jewelry Repairs & Watch Repairs - Park Meadows,Forever 21,Helzberg Diamonds,JCPenney,JOHN ATENCIO,Local Charm,Love Culture,Macy's,Michael Kors,Sundance the Store,Swarovski Park Meadows Mall,The Limited,Zales - The Diamond Store
+183:Claire's,Forever 21,Charlotte Russe,Icing by Claire's,JCPenney,Jewelry Creations,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Shaw's Jewelers,The Limited,Zales - The Diamond Store
+612:Claire's,Forever 21
+520:Claire's,Dillard's,Gordon's Jewelers,Icing by Claire's,JCPenney,JCPenney,Sears,Sears,Sears
+611:LOFT,Macy's,Sears,Trice Jewelers
+186:Brighton Collectibles,Claire's,Forever 21,Gold Buyers of America,Gold Palace,Helzberg Diamonds,Hot Topic,Icing by Claire's,Jewelry Corner,Kay Jewelers,Konplott,Laila Rowe Montgomery Mall,Liljenquist & Beckstead,Macy's,Michael Kors,Pandora,Piercing Pagoda,Sears,Shaw's,Swarovski,The Limited,Torrid
+421:Claire's,Mesa Verde Trading Co,Gold Buyers of America,Star Jewelry,Ultra Diamonds
+615:Brighton Collectibles,Claire's,Fast-Fix Jewelry & Watch Repairs,Forever 21,Guess,Hyde Park,John Atencio,Juicy Couture,Macy's,Michael Kors,Montblanc,Na Hoku, Hawaii's Finest Jewelers Since 1924,Swarovski Retail Ventures,Swarovski,Tiffany & Co.,Zales - The Diamond Store
+420:Brighton Collectibles,Claire's,Dillard's,Helzberg Diamonds,Charlotte Russe,Kay Jewelers,Love Culture,Macy's,New York & Company,Sears,Swarovski,XXI Forever
+618:Colorado Mills,Body Language,Colorado Mills,Colorado Mills,Claire's,Colorado Mills,Forever 21,Colorado Mills,Charlotte Russe,Kay Jewelers,Colorado Mills,Regency Diamonds,Colorado Mills,Signature Diamonds,Colorado Mills,Ultra Diamonds,Zales Outlet
+617:Brighton Collectibles,Claire's,DSW Designer Shoe Warehouse,Charming Charlie Lakewood,New York & Company,Wild At Heart Artisan Boutique,Zales - The Diamond Store
+422:francesca's,PANDORA La Encantada,Pierini,Spirit of Santa Fe,Tiffany & Co.
+528:Ann Taylor,Brighton Collectibles - Woodlands Mall,Claire's,Coach,Dillard's,Elegant Jewels,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Icing By Claire's,It's About Time,James Avery Jewelry,JCPenney,Kay Jewelers,Macy's,New York & Company,Samuels Jewelers,Swarovski,Zales - The Diamond Store
+619:DSW Designer Shoe Warehouse
+424:Arizona Watch & Jewelry Services,Ben Bridge,Dillard's,Forever 21,Fred Meyer Jewelers,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Charming Charlie Tucson,Icing,JCPenney,KAY JEWELERS,Kevin Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda,Sears,Swarovski Tucson Mall,The Limited,Torrid,Zales - The Diamond Store
+527:francesca's,Thomas Markle Jewelers,Tiffany & Co.
+116:Claire's,Fred Meyer Jewelers,JCPenney - Closed,Riddle's Jewelry
+117:All Kay Jewelers
+114:Claire's,Dillard's,Fred Meyer Jewelers,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,Rogers Jewelers,THE LIMITED
+115:Claire's,Dillard's,JCPenney,Kay Jewelers,Kay Jewelers,LeRoy's,Piercing Pagoda,Sears,Sears
+571:Ashcroft & Oak Jewelers,Claire's,DSW Designer Shoe Warehouse,Forever 21,Fred Meyer Jewelers,Helzberg Diamonds,Icing by Claire's,JCPenney,THE LIMITED,Macy's,Piercing Pagoda,Rogers & Hollands Jewelers,Sears,Torrid,Zales
+112:Claire's,College Mall,College Mall,Exclusive Jewelry & Gifts,francesca's,Kay Jewelers,Macy's,Piercing Pagoda,Rogers & Hollands Jewelers,Sears,College Mall,The Limited,College Mall,Zales - The Diamond Store
+570:Sears,JCPenney,Kay Jewelers,Macy's,Macy's,Macy's,Sears,Zales - The Diamond Store
+113:Claire's,JCPenney,JCPenney
+118:Claire's,Icing by Claire's,JCPenney - Closed,Kay Jewelers,Riddles Jewelry,Sears,Sears,Zales - The Diamond Store
+119:JCPenney,Riddle's Jewlery,Zales - The Diamond Store
+436:Claire's,Kay Jewelers
+433:Claire's,Don's Jewelers-Pony Village,Macy's - Closed,Harry Ritchies Jewelers,JCPenney - Closed,JCPenney - Closed,Macy's - Closed
+434:Harry Ritchie's Jewelers,Macy's - Closed
+431:Claire's,francesca's,Stalhi Celebrity Fashion Boutique,Waterford Jewelers
+432:Claire's,Saxon's Fine Jewelers
+575:Claire's,JCPenney,Kay Jewelers,Piercing Pagoda,Sears
+439:Claire's,JCPenney,Kay Jewelers,Sears
+576:Claire's,Dillard's,Dillard's,Frontier Jewelers,JCPenney,Kay Jewelers,Riddle’s Jewelry,Samuels Jewelers,Sears,Sears,Zales - The Diamond Store
+437:Ben Bridge Jeweler,Body Jewelry Company,Claire's,Sears,Forever 21,Fred Meyer Jewelers,Fuego,Harry Ritchie's Jewelers Portland,Charlotte Russe,Kay Jewelers,Macy's,Piercing Pagoda,Sears,Treasure Island,True Colors
+577:Claire's,Claire's,JCPenney,JCPenney,Kay Jewelers,Macy's,Riddle's Jewelry,Samuels Jewelers,Sears,Sears,Zales - The Diamond Store
+438:Claire's,The Fossil Cartel,Mystique,Something Silver,Swarovski Pioneer Place,The Fossil Cartel,Tiffany & Co.,Forever 21
+125:Claire's,Dillard's,Forever 21,Greenberg's Jewelers,Helzberg Diamonds,JCPenney,JCPenney,Kay Jewelers
+126:Glassando
+128:Claire's,JCPenney,Kay Jewelers,Riddle's Jewelry
+580:Cash Your Gold,Claire's,Exotic Custom Jewelry,Iceberg Diamonds,JCPenney,Macy's,Piercing Pagoda,Ron Jewelers,Sam's Jewelers,Sears,Sears,Silver Art,Simply Silver,Tri Valley Cash For Gold,Zales - The Diamond Store
+582:Claire's,Devon's Jewelers,francesca's,New York & Company,Forever 21,Forever 21,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Prestigio Jewelers,Rock Out,Rogers Jewelry Co.,Sardinia Jewelers Fashion Fair Mall,Signature Body Jewelry,Swarovski,Torrid,Zales - The Diamond Store
+123:Claire's,Gold Buyers at the Mall,Helzberg Diamonds,Kay Jewelers,Rogers Jewelers,Sears
+304:Diamond Hut Jewelers,Gold Valley
+581:Blooming Beauty,Claire's,Coach,Fast Fix Jewelry and Watch Repairs,XXI Forever,Fred Meyer Jewelers,Helzberg Diamonds,Charlotte Russe,Icing By Claire's,Impressions Jewelry,JCPenney,Kay Jewelers,Macy's,Piercing Pagoda,St Andrew Jewelers,Sears,Torrid,XXI Forever,Zales - The Diamond Store,Zee Jewelers
+124:JCPenney,Rogers Jewelers
+307:Brighton Collectibles,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Lia Accessories & Gifts,Littman Jewelers,Macy's,Mahtani Jewelers,Piercing Pagoda,Precision Time - Woodbridge Center,Sears,Swarovski,The Limited,Torrid,XXI Forever,Zales - The Diamond Store
+129:Brighton Collectibles,Dillard's,DSW Designer Shoe Warehouse,Forever 21,francesca's,Greenberg's Jewelers,Helzberg Diamonds,Jared - Galleria of Jewelry,New York & Company,Pandora,Rogers Jewelers
+309:Boscov's,Casino Jewelry,Claire's,Corbo Jewelers of Toms River,Forever 21,Hot Topic,Charlotte Russe,JCPenney,Ocean County Mall,Littman Jewelers,Macy's,Boscov's,New York & Company,Piercing Pagoda,Piercing Pagoda,Ocean County Mall,Sears,Ocean County Mall,Swarovski,Venzio Jewelers,Wolf Fine Jewelers,Zales - The Diamond Store
+444:Claire's,JCPenney,Kay Jewelers,King's Jewelry,Macy's,Piercing Pagoda,Sears,Shail Jewelry
+445:Boscov's,Claire's,JCPenney,MOSES JEWELERS,Piercing Pagoda,Sears
+446:Claire's,King's Jewelry,Macy's
+440:Claire's,JCPenney,Kay Jewelers,Littman Jewelers,Piercing Pagoda,Sears,Sears,Piercing Pagoda
+441:Claire's,JCPenney,Kay Jewelers,Littman Jewelers,Macy's,Piercing Pagoda,Plumb Gold,Strawberry,The Limited,Zales - The Diamond Store
+442:Boscov's,Claire's,JCPenney - Closed,KAY JEWELERS,Piercing Pagoda,Sears,Zales - The Diamond Store
+583:Claire's,JCPenney,Macy's,Ivy Home Decor
+584:Claire's,Dillard's,Don Roberto Jewelers,Don Roberto Jewelers,Forever 21,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Zales
+120:Claire's,JCPenney,Kay Jewelers,Zales - The Diamond Store
+587:Plaza Carolina,Plaza Carolina,Plaza Carolina,Forever 21,Forever Crystals,JCPenney,Piercing Pagoda,Sears,Tous
+134:Claire's,Dillard's,Harris Jewelry,Icing by Claire's,JCPenney,Kay Jewelers,Piercing Pagoda,Riddle's Jewelry,Zales - The Diamond Store
+135:Claire's,Forever 21,Helzberg Diamonds,JCPenney,Zales Outlet
+132:Gold Valley,KAY JEWELERS,Sears
+133:Claire's,Dillard's,Gordon's Jewelers,JCPenney,Riddle's Jewelry,Sears,Sears,Zales - The Diamond Store
+138:Claire's,K C Jewelry
+139:Claire's,fast fix jewelry and watch repair,Fred Meyer Jewelers,Gold Buyers At the Mall,JCPenney,Jewelry&Stuff,PANDORA Anchorage,Zales - The Diamond Store
+136:Claire's,Dillard's,Dillard's,Dillard's,francesca's,Hannoush Jewelers - Oak Park Mall,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,Natural Way Boutique,New York & Company,Pandora,Piercing Pagoda,Piercing Pagoda,Samuels Jewelers,Swarovski Oak Park Mall,The Limited,Zales
+137:Brighton Collectibles,Claire's,francesca's,Helzberg Diamonds,Macy's,New York & Company,The Limited
+450:Forever 21,Kay Jewelers
+453:Brighton Collectibles,Claire's,Fast-Fix Jewelry & Watch Repairs,XXI Forever,francesca's,Charlotte Russe,JCPenney,Kay Jewelers,THE LIMITED,Littman Jewelers,Macy's,Michael Kors,New York & Company,Omega Boutique,PANDORA Ross Park Mall,Piercing Pagoda,Ross Park Mall,Sears,Ross Park Mall,Swarovski,Tiffany & Co.,Totally Pagoda
+454:Claire's,Charlotte Russe,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,King's Jewelry,Littman Jewelers,Macy's,Piercing Pagoda
+451:Claire's,XXI Forever,Helzberg Diamonds,Charlotte Russe,Claire's,J.B. Robinson,JCPenney,Jewels & More,Kay Jewelers,King's Jewelry,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda,Sears,Zales - The Diamond Store
+452:DSW Designer Shoe Warehouse,L S Jewelers
+458:H Baskin
+558:Icing by Claire's,Claire's,Coach,Dillard's,Dillard's,Icing by Claire's,Kay Jewelers,Pandora,New York & Company,Pandora,Silver Boutique,Silvex,The Limited,XXI Forever,Zales
+455:Forever 21,Gold Center,Charlotte Russe,JCPenney,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Silver & Gold Connection,Robert Cox Jewlers,Silver & Gold Connection
+559:Faux PAS,Kristin Todd Accessories,Roberson's Fine Jewelry,Vivid Designs
+456:Claire's,Charlotte Russe,Chateau Fine Jewelers,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,King's Jewelry,Littman Jewelers,Macy's,Piercing Pagoda
+554:Brighton Collectibles,Claire's,Coach,Dillard's,Forever 21,francesca's,Gordon's Jewelers,Charlotte Russe,Icing By Claire's,JCPenney,Kay Jewelers,Rogers Jewelers,Zales
+459:Claire's,Coach,South Hills Village,Helzberg Diamonds,Jared - Galleria of Jewelry,Macy's,New York & Company,PANDORA South Hills Village,Piercing Pagoda,South Hills Village,Sears,South Hills Village,Swarovski,The Limited
+555:Dillard's,Dillard's,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,JCPenney,Jewelry Box,Kay Jewelers,New York & Company,Sears,Zales - The Diamond Store
+552:After Midnight Jewelers,Claire's,Hannoush Jewelers - University Mall,Icing by Claire's,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+131:Claire's,Expo II Extreme,Helzberg Diamonds,Kay Jewelers,Piercing Pagoda,Sears,Zales - The Diamond Store
+130:Brodkey's Jewelers,Claire's,Greenberg's Jewelers,Helzberg Diamonds,Charlotte Russe,JCPenney,Josephs Jewelers,Kay Jewelers,Lazer Expressions,The Limited
+550:Claire's,Macy's,Saraz,Zales - The Diamond Store
+143:Dillard's,Charlotte Russe,Claire's,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,New York & Company,Sears,THE LIMITED,Zales - The Diamond Store
+144:Ashcroft & Oak Jewelers,Claire's,Dillard's,Forever 21,Charlotte Russe,JCPenney,Kay Jewelers,LeRoy's,Macy's,New York & Co,Macy's,Sears
+560:Claire's,Diamond Center,Dillard's,Gold Plaza II,Gordon's Jewelers,Charlotte Russe,Claire's,JCPenney,JCPenney,Kay Jewelers,Metal Trends,Rogers Jewelers,Sears,Sears
+146:Taylor's Jewelry Store
+147:JCPenney,Kay Jewelers,Piercing Pagoda,Rogers Jewelers,Sears,Zales - The Diamond Store
+148:Claire's,JCPenney,Macy's,Piercing Pagoda,Rogers Jewelers
+149:Ashcroft & Oak Jewelers,Claire's,Dillard's,Gold N Diamonds,Gold N Diamonds,Goldrush,Charlotte Russe,JCPenney,Kay Jewelers,LeRoy's Jewelers,Lucky Charms,Macy's,Piercing Pagoda,Sears,Zales
+461:Freeman Jewelers,Kay Jewelers,Eric J. Loch Diamonds & Fine Jewelry,Piercing Pagoda
+460:Claire's,JCPenney,Jewelry Junction,King's Jewelry,Lorelli's Jewelry,Luxenberg's Jewelers,Sears
+463:Boscov's,Gold Buyers At The Mall,Kay Jewelers,Littman Jewelers,Piercing Pagoda,Silver N Beyond,Zales - The Diamond Store
+464:Earrings World Inc,Forever 21,Gold Heart Direct,JCPenney,Kay Jewelers Outlet,Philadelphia Mills,Piercing Pagoda,Royal Jewelers Inc,Twinkle,Ultra Diamonds,Zales Outlet
+569:Ashcroft & Oak Jewelers,Claire's,francesca's,Charlotte Russe,Icing By Claire's,Jewelry Box,KAY JEWELERS,New York & Company,Piercing Pagoda,Rogers & Hollands Jewelers,Bay Park Square,Zales - The Diamond Store
+466:Claire's,Charlotte Russe,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda
+467:Boscov's,Exton Place,Forever 21,Gordon's Jewelers,Charlotte Russe,Icings,J C Penney Co,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Village Silver,Zales
+468:Claire's,JCPenney,Kay Jewelers,Littman Jewelers,Piercing Pagoda,Sears
+469:Belle Jewelers,Christopher and Banks,Claire's,King's Jewelry,Littman Jewelry,Piercing Pagoda,Sears,The Heritage Shop Hallmark Gold Crown,Zales - The Diamond Store
+565:Sears,Charlotte Russe,Charming Charlie Barboursville,JCPenney,Littman Jewelers,Macy's,New York & Company,Rogers Jewelers,Sears,Zales - The Diamond Store
+567:Claire's,JCPenney,Kay Jewelers,LeRoy's Jewelers,Piercing Pagoda,Piercing Pagoda,Sears,Zales - The Diamond Store
+561:Claire's,Dillard's,JCPenney,Kay Jewelers,Sears,Sears,Zales - The Diamond Store
+140:Claire's,Forever 21,Fred Meyer Jewelers: Fine Jewelry,GM Gold & Diamonds,Gold Treasure,Icing by Claire's,J.B. Robinson Jewelers,Jewelry Box,Kay Jewelers,Piercing Pagoda,Torrid,Zales - The Diamond Store
+562:Sara Jewelers
+563:Claire's,Forever 21,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,New York & Company,Piercing Pagoda,Sears
+564:Claire's,Claire's,Charlotte Russe,JCPenney,Le Roy's Jewelers,Rogers Jewelers,Sears,Sears
+141:Claire's
+195:Talley Jewelry Inc
+194:Honeycomb Hideout,Charming Charlie Bowie,Kay Jewelers,Macy's,Sears
+197:Elite Jewelers,Gold Plaza,Kamal's Diamond Jewelers,Kay Jewelers,King Jewelers
+191:Bling Jewelry,Gold N Diamonds,Gold King Jewelers,Gold N Diamonds,Gold Plaza,RTK Group Inc,Royal Jewelry
+190:DSW Designer Shoe Warehouse,New York & Company
+192:Gold Rush,Golden Dream Jewelers,Goldspot,Kay Jewelers,Macy's,Piercing Pagoda,Plumb Gold,Shaw's Jewelers,Treasure World of Diamonds
+198:Fossil Store,Charming Charlie National Harbor,Strictly First Glass,Swarovski Retail Ventures #195
+506:Claire's,Claire's,Dillard's,Gordon's Jewelers,JCPenney,JCPenney,Jewel Empire,Jewelry Box,Samuels Jewelers,Sears,Sears,Zales - The Diamond Store
+509:Ann Taylor,Bachendorf's,Brighton Collectibles,Claire's,Forever 21,Charlotte Russe,Landau Costume Jeweler,Macy's,Michael Kors,PANDORA Jewelry at Galleria Dallas,THE LIMITED,Tiffany & Co.,Tous,Zales - The Diamond Store
+507:Brighton Collectibles,Designs By Fleur De Lis,Dillard's,DSW Designer Shoe Warehouse,Firewheel Town Center,Firewheel Town Center,Firewheel Town Center,Charlotte Russe,Charming Charlie Garland,James Avery Jewelry,Kay Jewelers,Macy's,Nasr Jewelers,New York & Company,Rock N Soul Couture,Sam's Fine Jewelry,Zales - The Diamond Store
+508:Sears
+501:Claire's,Dillard's,Gold Gallery,Gordon's Jewelers,Icing by Claire's,JCPenney,Kay Jewelers,Rogers Jewelers,Sears,Treasures
+34:Claire's
+37:Claire's,JCPenney (PERMANENTLY CLOSED),Kay Jewelers,Oxford Jewelers,Sears,Zales - The Diamond Store
+43:Kay Jewelers
+42:Atlanta Diamond Design,Claire's,DSW Designer Shoe Warehouse,francesca's,Charming Charlie Cumming
+23:Sawgrass Mills,Barneys Warehouse, Sawgrass Mills,Bloomingdale's,Sawgrass Mills,Claire's,Coach,Coach,Barneys Warehouse, Sawgrass Mills,CR Jewelers Diamond Outlet,David Yurman,Jewelry Collection,Forever 21,Sawgrass Mills,Giorgio Armani Outlet,Helzberg Diamonds,Charlotte Russe,IPPOLITA Outlet Store,Judith Ripka,Michael Kors,Michael Kors,Paradise Jewelry and Watches,Piercing Pagoda,Pollack Jewelers,Sawgrass Mills,Skagen Outlet Store,Zales Outlet
+24:Claire's,Dillard's,Gordon's Jewelers,Charlotte Russe,JCPenney,Littman Jewelers,Macy's,Mayors,New York & Company,Pandora,Piercing Pagoda,Sears
+25:Claire's,Dillard's,Forever 21,francesca's,Unique Gold & Silver,Gordon's Jewelers,Charlotte Russe,JCPenney,JCPenney,Kay Jewelers,Littman Jewelers,Luna Fashion & Accessories Llc,Macy's,Piercing Pagoda,Precision Time,Sears,Unique Gold & Silver,Zales - The Diamond Store
+26:Claire's,Gold Center,JCPenney,Piercing Pagoda,REEDS Jewelers,Sears,Sterling Moments
+27:Claire's,JCPenney,Kay Jewelers
+28:Royal Jewelers,Claire's,Helzberg Diamonds,Dillard's,Forever 21,Forever 21,francesca's,Helzberg Diamonds,Icing by Claire's,JCPenney,Jewelry Works,Kay Jewelers,Macy's,Marks & Morgan Jewelers,Piercing Pagoda,Prestige Jewelry & Gifts,Sears
+29:Claire's,Gold Center,JCPenney,Kay Jewelers,New York & Company,Piercing Pagoda,Sears,Silver Center
+19:Claire's,Dillard's,Gordon's Jewelers,JCPenney,Kay Jewelers,Milan Jewelers,Piercing Pagoda,Reeds Jewelers,Sears,Zales - The Diamond Store
+18:Claire's,Cupid Fashion Jewelry LLC,Helzberg Diamonds,Dillard's,Forever 21,francesca's,Helzberg Diamonds,Icing by Claire's,JCPenney,Jewelry Works,Kay Jewelers,Macy's,Marks & Morgan Jewelers,Piercing Pagoda,Prestige Jewelry & Gifts,Sears,Zales - The Diamond Store
+16:Charles Schwartz & Son Jewelers at the Mazza Gallarie,Pampillonia,Tabandeh
+13:Claire's,Dillard's,Charlotte Russe,JCPenney,Kay Jewelers,The Limited,Marks & Morgan,Piercing Pagoda,Shaan's Jewelers
+14:Claire's,Dillard's,francesca's,Charlotte Russe,Charming Charlie Spanish Fort,Kay Jewelers,New York & Company,Private Gallery,Ware Jewelers
+11:Claire's,Dillard's,Dillard's,Fashion Scents,Intrigue Jewelers,JCPenney,JCPenney,Kay Jewelers,Marks & Morgan
+12:Claire's,Dillard's,francesca's,New York & Company,Ware Jewelers
+21:Claire's,Coach,CR Jewelers,Eisha Enterprises,Fast-Fix Jewelry and Watch Repair,Gordon's Jewelers,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Coral Square,Sears,Silver & Gold Connection,The Limited,Piercing Pagoda
+20:Kay Jewelers
+79:Zales
+78:White Oaks Mall,Claire's,Gold Palace,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,Kay Jewelers,Macy's,Piercing Pagoda,Precious Image,Rogers & Hollands Jewelers,Sears,White Oaks Mall,The Limited,Zales
+77:Claire's,JCPenney,Kay Jewelers,Macy's,Piercing Pagoda
+80:Claire's,JCPenney,JCPenney,Kay Jewelers,The Limited,Zales - The Diamond Store
+81:Claire's,JCPenney,JCPenney,Kay Jewelers,The Limited,Zales - The Diamond Store
+86:JCPenney,JCPenney,Kay Jewelers,Piercing Pagoda,The Limited
+87:Claire's,DSW Designer Shoe Warehouse,Forever 21,Helzberg Diamonds,Charlotte Russe,Charming Charlie Bolingbrook,Kay Jewelers,Macy's,Macy's
+84:Claire's,Claire's,Forever 21,Helzberg Diamonds,Charlotte Russe,JCPenney,KAY JEWELERS,Macy's,Rogers & Hollands Jewelers
+85:Claire's,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,Loving Jewelers,Piercing Pagoda,Sears
+67:Gold Club & Gifts
+66:Ben Bridge,Diamond Co,Forever 21,HOTTOPIC,Charlotte Russe,Icing by Claire's,Michael's Fine Jewelry,JHL Jewelry,Kay Jewelers,Lucky Lotus,Macy's,Macy's,Michael's Fine Jewelry,Millennium,Royal Hawaiian Heritage Jewelry,Sears,Watch Center of Hawaii
+69:Claire's,Harry Ritchies Jewelers Moscow,Johnson's Jewelry,Macy's - Closed,Macy's - Closed,Zales the Diamond Store
+68:Claire's,Macy's,Tiffany & Co.
+70:Claire's,Harry Ritchie's Jewelers,JCPenney,Macy's,Samuels Jewelers,Sears
+71:Claire's,Kay Jewelers
+72:Jensen Jewelers
+73:Claire's,Fred Meyer Jewelers,JCPenney - Closed,JCPenney - Closed,Kay Jewelers,Sears,Zales - The Diamond Store
+59:Claire's,Liang of Hawaii,Macy's,Riches Hawai'i,The Diamond Specialists
+57:Halelea Gallery Kauai,Palm Palm
+56:Claire's,Kay Jewelers,Macy's,Macy's,Macy's,Prestige Jewelers,Zales - The Diamond Store
+64:Wahhing Jewelry & Arts Inc
+63:Cartier,Koa Nani,Kobe Jewelry,Laki Hawaiian Design,Philip Rickard Honolulu,Rolex Boutique Kaimana Kea
+61:Ben Bridge,Ben Bridge,Bottega Veneta Ala Moana,Brighton Collectibles,BVLGARI Honolulu,Cartier,Claire's,Coach,Damiani,Dewcarat,Emporio Armani,Folli Follie,Forever 21,Harry Winston,Hilo Hattie,Jewel Gallery By Macys,Martin & MacArthur Ala Moana Shopping Center,Maui Divers Jewelry,Michael Kors,Montblanc,Na Hoku, Hawaii's Finest Jewelers Since 1924,Pandora,Philip Rickard,Philip Rickard,Ralph Lauren,Ponte Vecchio Hotta,Silver Rhino,Swarovski Ala Moana Center,Tiffany & Co.
+51:Claire's,Coach,Dillard's,Forever 21,Gordon's Jewelers,Harris Jewelry & Electronics,Helzberg Diamonds,Charlotte Russe,Jared - Galleria of Jewelry,JCPenney,Kay Jewelers,Macy's,New York & Company,PANDORA Augusta Mall,Sears,Shaan's Jewelers
+53:Crystal Dreams,Imperial Jewelers
+54:Ben Bridge,Claire's,Forever 21,The Gold Guys,Gold Mart,Icing by Claire's,Island Creation Jewelers,Kay Jewelers,Macy's,Macy's,Maui Divers Jewelry,Na Hoku, Hawaii's Finest Jewelers Since 1924,Sears,Zales - The Diamond Store
+281:JCPenney
+487:Coach,Dillard's,Fast-Fix Jewelry and Watch Repairs,Forever 21,francesca's,Fred Meyers Jewelers,Charlotte Russe,James Avery Jewelry,JCPenney,Macy's,New York & Company,Pear Tree Avenue
+280:Brodkey's Jewelers,Claire's,Dillard's,JCPenney,JCPenney,Sartor Hamann Jewelers,Sears,Sears,Sears
+486:Claire's,JCPenney,Kay Jewelers,Princess Jewelry,Zales - The Diamond Store
+485:Claire's,Kay Jewelers,Sears,Silver World,Treasures Jewelers
+484:Claire's,Michael Kors,Ultra Diamonds
+285:Claire's,francesca's,Sartor Hamann Jewelers
+284:Brodkey's Jewelers,Claire's,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,The Limited,Piercing Pagoda,Precision Time - Gateway Mall,Rogers Jewelers,Sears,Touch of Gold,Zales - The Diamond Store
+489:Claire's,Fashion Scents Jewelry Designers,Hot Topic,Jackson Jewelers,JCPenney,Kay Jewelers,Macy's,REEDS Jewelers,Sears
+288:Keepsakes Jewelry & Watch Repair
+287:Claire's,Brodkey's Jewelers,Claire's,Dillard's,Gold Buyers of America,Greenberg's Jewelers,Helzberg Diamonds,Charlotte Russe,JCPenney,New York & Company,Precision Time,Rogers Jewelers,Sears,The Limited,Zales - The Diamond Store
+482:Claire's,JCPenney,Saslow's Jewelers,Sears
+483:Best of Gold Silver & Diamonds,Claire's,JCPenney - CLOSED,JCPenney - CLOSED,Kay Jewelers,Piercing Pagoda
+480:Claire's,The Empire Mall,Helzberg Diamonds,Charlotte Russe,Icing,Iris Accessories,JCPenney,Kay Jewelers,Macy's,The Empire Mall,Piercing Pagoda,Precision Time - Empire Mall,Rogers Jewelers,Sears,The Limited,Zales - The Diamond Store
+481:Rogers & Hollands Jewelers,Claire's,Dillard's,Gordon's Jewelers,Harris Originals of Tn Inc,JCPenney,Kay Jewelers,Marks & Morgan,Sears,Zales - The Diamond Store
+473:Pier Park,Claire's,Dillard's,Forever 21,Charming Charlie Panama City Beach,JCPenney,Laugh Out Loud,REEDS Jewelers,Shimmering Seas Jewelry,Zales - The Diamond Store
+270:Claire's,Dillard's,Earthbound Trading Company,Hannoush Jewelers - Mid Rivers Mall,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,JCPenney,Jewel Angels,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,The Limited,Zales
+476:Claire's,Dillard's,East Coast Jewelers,Helzberg Diamonds,JCPenney,JCPenney,Kay Jewelers,New York Jewelry & Watches,Piercing Pagoda,Queens Jewelers,Sears,Sears,Silver & Such,Zales - The Diamond Store
+475:Claire's,Diamond Palace,Dillard's,Charlotte Russe,Icing by Claire's,Jade,JCPenney,Kay Jewelers,New York & Company,New York & Company,REEDS Jewelers,Northpark Mall,THE LIMITED,Zales - The Diamond Store
+272:Claire's,Claire's,Forever 21,Charlotte Russe,Jewelry Box,Prime Jewelers,Ultra Diamonds
+477:Gold N Jewels,Gold Valley,Charlotte Russe,JCPenney,Kay Jewelers,Milan Jewelers,New York & Company,Paramount Jewelers,Piercing Pagoda,REEDS Jewelers,Sears,Zales - The Diamond Store
+274:Brighton Collectibles,Claire's,francesca's,Charlotte Russe,Kay Jewelers
+273:Claire's,Hot Topic,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,New York & Company,Rogers Jewelers
+479:Bling,Claire's,Charlotte Russe,Icing by Claire's,JCPenney,Jewelry Etc By Riddles,Oro-Gold,Sears,Zales - The Diamond Store
+275:Claire's,Dillard's,Hot Topic,Icing by Claire's,JCPenney,Kay Jewelers,Morgan Jewelers - Southgate Mall,Riddle's Jewelry,Samuels Jewelers,Zales - The Diamond Store
+276:Claire's,JCPenney,Kay Jewelers,JCPenney
+277:Claire's,Hot Topic,JCPenney,Macy's,Riddle's Jewelry,Samuels Jewelers
+278:Claire's,Dillard's,JCPenney,Jensen Jewelers,Kay Jewelers,Riddle's Jewelry,Samuels Jewelers
+279:Riddle's Jewelry Inc,Claire's,JCPenney,Riddle's Jewelry Inc
+471:Claire's,Hot Topic,J.B. Robinson,Kay Jewelers,King's Jewelry,Macy's,Piercing Pagoda,Sears
+109:Claire's,Gold N' Gems,Gold N' Gift,Jewelry Land,Jewelry n More,Kay Jewelers
+108:Andrews Jewelers,Claire's,Forever 21,Forever 21,francesca's,Charlotte Russe,Kay Jewelers,New York & Company,Circle Centre Mall,Swarovski,THE LIMITED
+107:Claire's,DSW Designer Shoe Warehouse,Charlotte Russe,JCPenney,Zales - The Diamond Store
+106:Forever 21,francesca's,The Gold Cobbler,Gold Pros,Helzberg Diamonds,Charlotte Russe,Jazzy Trends Inc,JCPenney,JCPenney,Kay Jewelers,The Limited,Macy's,New York & Company,J.B.Robinson Jewelers,PANDORA Castleton,Piercing Pagoda +,Piercing Pagoda +,Sears,Swarovski,The Limited,Castleton Square,Zales - The Diamond Store
+105:Brighton Collectibles,The Fashion Mall at Keystone,Michael Kors,Pandora,Saks Fifth Avenue,The Fashion Mall at Keystone,Tiffany & Co.
+104:Ashcroft & Oak Jewelers,Claire's,JCPenney,Kay Jewelers,Macy's,Osterman Jewelers,Piercing Pagoda,Ross Elliott Jewelers,Sears,Icing by Claire's,Zales
+103:JCPenney,JCPenney
+102:Andrews Jewelers,Hot Topic,Kay Jewelers,Piercing Pagoda,Sears
+100:Andrews Jewelers,Tippecanoe Mall,Fred Meyer Jewelers,Charlotte Russe,Tippecanoe Mall,Icing,JCPenney,Kay Jewelers,Macy's,M S Jewelers,Piercing Pagoda,Rogers & Hollands Jewelers,Sears,The Limited,Zales - The Diamond Store
+98:Athens Jewelers,Claire's,Claire's,JCPenney,Kay Jewelers
+97:JCPenney,Gold Center,Premier Jewelers,Rogers & Hollands Jewelers,Sun Jewelers
+597:Ben Bridge Jeweler,Claire's,DSW Designer Shoe Warehouse,Forever 21,Kay Jewelers,Macy's,Sterling Works,Swarovski,Torrid
+391:Andrews Jewelers,The Mall at Tuttle Crossing,Body Jewel,Claire's,Damaged,Diamonds Forever,Farah Jewelers,Forever 21,Helzberg Diamonds,Charlotte Russe,Icing,JCPenney,Kay Jewelers,The Limited,Macy's,The Mall at Tuttle Crossing,The Mall at Tuttle Crossing,New York & Company,Ocean Blue Jewelers,Macy's,PANDORA Mall at Tuttle Crossing,Sears,Sears,Silver Mountain,The Mall at Tuttle Crossing
+596:Claire's,Designers Center,Forever 21,Hot Topic,Charlotte Russe,JCPenney,KAY JEWELERS,My Gold Buyer,Piercing Pagoda,Sam's Jewelers,Sears
+390:Andrews Jewelers,Ashcroft & Oak Jewelers,Claire's,Farah Jewelers,XXI Forever,francesca's,Charlotte Russe,Charming Charlie Columbus,J.B. Robinson,JCPenney,Kay Jewelers,The Limited,Macy's,Saks Fifth Avenue,Sears,Sears,Silver Mountain Jewelry,Swarovski
+599:Fred Meyer Jewelers,Macy's,Sears,Zales - The Diamond Store
+94:Claire's,Forever 21,Zales - The Diamond Store,Charlotte Russe,Icing by Claire's,JB Robinson Jewelers,Kay Jewelers,Lyla Jewelers,New York & Company,Piercing Pagoda,Rogers & Hollands Jewelers,Sears,Torrid,Zales - The Diamond Store
+393:Arizona Diamond Center,Dillard's,Fred Meyer Jewelers,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,The Icing,JCPenney,JCPenney,Karma,Kay Jewelers,Macy's,Piercing Pagoda,Precision Time,Samuels Jewelers,Sears,Silver Effects,Tinkerbell,Weisfield Jewelers,Zales - The Diamond Store
+598:Brighton Collectibles,Gleim the Jeweler,Macy's,Michael Kors,Ralph Lauren,Shreve & Co,Tiffany & Co.
+93:Brighton Collectibles,Claire's,Eternal Jewelers,Forever 21,francesca's,Helzberg Diamonds,Hot Rags,Icing,Iguana Body Jewerly,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,Macy's,Michael Hill Jewelers Orland Square,New York & Company,PANDORA Orland Square,Piercing Pagoda,Rogers & Hollands Jewelers,Sears,Silvermax Inc,Swarovski,THE LIMITED,Torrid,Zales
+392:Dillard's,Forever 21,Gordon's Jewelers,Charlotte Russe,JCPenney,JCPenney,Kay Jewelers,New York & Company,Sears,Zales - The Diamond Store
+395:francesca's,Jared - Galleria of Jewelry,Wedding Ring & Gold Gallery
+91:Claire's,De Colores,Diamonds & Diamonds,Forever 21,Gold n Diamonds,Gold Rush Bullion LLC,Charlotte Russe,J.B. Robinson Jewelers,JCPenney,Jewel Time,Jewelberry,Julio's Jewelers,Kay Jewelers,New York & Company,Piercing Pagoda,Reflection Jeweler,Rogers & Hollands Jewelers,Sears,Sears,Timeless Pieces,Treasures Jewelers,Zales - The Diamond Store
+394:Arizona Diamond Center,Claire's,Dillard's: Fiesta Mall,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Jewelry Unlimited,Kay Jewelers,Piercing Pagoda,Samuels Jewelers,Sears,Zales - The Diamond Store
+294:Belden Jewelers,Claire's,Facets,francesca's,Hannoush Jewelers - Pheasant Lane,JCPenney,JCPenney,Jeweler's Workbench,The Limited,Macy's,New York & Company,PANDORA Pheasant Lane Mall,Totally Pagoda,Piercing Pagoda,Pheasant Lane Mall,Sears,Swarovski,UMA: Fashion Jewelry Tarot N Chakra,Zales - The Diamond Store
+293:Belden,Coldwater Creek,Forever 21,francesca's,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,Paisley Road,PANDORA Mall of New Hampshire,Piercing Pagoda,Piercing Pagoda,Sears,The Mall of New Hampshire,Zales
+499:Claire's,Dillard's,Expressions,Kay Jewelers,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Claire's,JCPenney,Jewelery Box,Kay Jewelers,New York & Company,Red Raider Outfitter - South Plains Mall,Sears,Silver Star Jewelry,Brighton Collectibles,Helzberg Diamonds,Zales
+295:Claire's,G.M. Pollack & Sons Jewelers,Hannoush Jewelers - Fox Run Mall,Charlotte Russe,JCPenney,Jeweler's Workbench,Kay Jewelers,Macy's,Macy's,PANDORA Fox Run Mall,Piercing Pagoda,Sears,The Mall at Fox Run,Tates Crafts & Jewelry,The Limited,Torrid,Zales - The Diamond Store
+290:Icing by Claire's,Brodkey's Jewelers,DSW Designer Shoe Warehouse,Forever 21,Martin Jewelry,Gold N Silver,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,JCPenney,JCPenney,Kay Jewelers,New York & Company,Precision Time - Westroads Mall,Torrid,Zales - The Diamond Store
+292:Charlotte Russe,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,The Jewelers Workbench,Zales - The Diamond Store
+291:Zales Outlet
+497:Gold & Silver,Gordon's Jewelers,Charlotte Russe,James Avery Jewelry,JCPenney,Jewelry Palace,Jewelry Pros,Kay Jewelers,Lone Star Diamonds,Sears
+297:Design Jewelry,Erwin Pearl,Juicy Couture,Michael Kors,Michal Negrin Jewelry,Swarovski,Tiffany & Co.,Tommy Bahama
+298:Claire's,Diamonds R4 Ever,Fadz,Gold N Diamond,Gold 'n' Jewels,Gold Plus,Charlotte Russe,JCPenney,Kay Jewelers,Littman Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,Icing by Claire's,Zales - The Diamond Store
+299:Barneys New York Co-Op,Bloomingdale's,Brighton Collectibles,Lee Perla,Omega,The Shops at Riverside,The Shops at Riverside,Tiffany & Co.
+490:Claire's,Global Jewelers,Charlotte Russe,Kay Jewelers,Macy's,New York & Company,Sweetness Sweets,Zales - The Diamond Store
+398:Ben Bridge Jeweler,Brighton Collectibles,Capri Jewelers,Claire's,Dillard's,Fast-Fix Jewelry & Watch Repairs - Chandler,Fred Meyer Jewelers,Gemsetter & Company,Hannoush Jewelers,Helzberg Diamonds,Christopher Diamond Creations,Icing by Claire's,Kay Jewelers,Love Culture-Chandler,Macy's,Piercing Pagoda,Precision Time - Chandler Fashion Center,Sears,Silver Effects,Swarovski,The Limited,Forever 21,Zales - The Diamond Store
+399:Ben Bridge Jeweler,Brighton Collectibles,Capri Jewelers,Claire's,Dillard's,Fast-Fix Jewelry & Watch Repairs - Chandler,Fred Meyer Jewelers,Gemsetter & Company,Hannoush Jewelers,Helzberg Diamonds,Christopher Diamond Creations,Icing by Claire's,Kay Jewelers,Love Culture-Chandler,Macy's,Piercing Pagoda,Precision Time - Chandler Fashion Center,Sears,Silver Effects,Swarovski,The Limited,Forever 21,Zales - The Diamond Store
+590:Andrew's Fine Jewelry Store,Ben Bridge,Brighton Collectibles,Claire's,Forever 21,francesca's,Charlotte Russe,JCPenney,Kay Jewelers,Kevin Jewelers,Macy's,Michael Kors,New York & Company,Piercing Pagoda,Prince of Jewelers,Sears,Steve Madden,Swarovski,Tous,Zales
+592:DSW Designer Shoe Warehouse,Charming Charlie Roseville
+88:Claire's,Forever 21,Charlotte Russe,JCPenney,JCPenney Salon,Michael Hill Jewelers Yorktown,The Limited,Torrid
+593:Ben Bridge Jeweler,Brighton Collectibles,Claire's,DeVons Jewelers,Fast-Fix Jewelry & Watch Repairs,XXI Forever,francesca's,Helzberg Diamonds,Charlotte Russe,Icing,JCPenney,Love Culture,Macy's,Michael Kors,New York & Company,Piercing Pagoda,Precision Time,Samuels Jewelers,Sears,Swarovski,The Limited,Tiffany & Co.,Zales
+89:Brighton Collectibles,Claire's,francesca's,PANDORA
+241:Claire's,DSW Designer Shoe Warehouse,francesca's,Helzberg Diamonds,Charlotte Russe,Icing,JCPenney,Kay Jewelers,Piercing Pagoda,Sears,Gold Guys Duluth,Miller Hill Mall,Zales
+383:Added Touch,Ashcroft & Oak,Claire's,Coach,Dillard's,Forever 21,GoldRush,Charlotte Russe,J.B. Robinson Jewelers,Kay Jewelers,Macy's,Piercing Pagoda,Piercing Pagoda,Rogers Jewelers,Sears,DSW Designer Shoe Warehouse
+384:Claire's,JCPenney,Kay Jewelers,King's Jewelry,Macy's,Piercing Pagoda,Sears,Zales - The Diamond Store
+381:Claire's,JCPenney,Kay Jewelers,Osterman Jewelers,T.J.Maxx
+382:Claire's,Icing by Claire's,JCPenney,Macy's,Sears
+389:Andrews Jewelers,Claire's,Dunkin's Diamonds,J.B. Robinson Jewelers,JCPenney,Sears,Silver Expressions
+388:Claire's,Dunkin's Diamonds,Gold Buyers At the Mall,JCPenney,Kay Jewelers,Sears,Added Touch
+387:Claire's,Icing by Claire's,J.B. Robinson Jewelers,JCPenney,JCPenney,Kay Jewelers,Zales - The Diamond Store
+385:Claire's,King's Jewelry,Littman Jewelry,Macy's,Sears,Zales
+245:Ayano,Brighton Collectibles,Buchkosky Jewelers,Claire's,Claire's,Coach,DSW Designer Shoe Warehouse,Forever 21,francesca's,Goldmaxx,Helzberg Diamonds,Charlotte Russe,Icing,JCPenney,Kay Jewelers,Macy's,Macy's,New York & Company,PANDORA Store at Rosedale Center,Piercing Pagoda,Rogers & Hollands Jewelers,THE LIMITED
+244:Claire's,francesca's,Jared - Galleria of Jewelry
+243:AK Jewelers,Claire's,Forever 21,Goodman Jewelers,Helzberg Diamonds,Hoff Family Jewelers,Charlotte Russe,Icing by Claire's,JCPenney,Kay Jewelers,Macy's,Piercing Pagoda,Rogers & Hollands Jewelers,Sears
+242:Claire's,DSW Designer Shoe Warehouse,francesca's,Charming Charlie Woodbury
+248:Claire's,Fred Meyer Jewelers,Gold Buyers at the Mall,Icing,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Rogers & Hollands Jewelers,Swarovski Retail Ventures #158,Zales - The Diamond Store
+247:Claire's,Goodman Jewelers,Charlotte Russe,JCPenney,Jewels of Austria,Kay Jewelers,New York & Company,Piercing Pagoda,Sears,Sears,Zales - The Diamond Store
+246:Claire's,JCPenney,JCPenney,Paffrath & Son Jewelers,Riddle's Jewelry
+230:Claire's,Forever 21,Hannoush Jewelers - Cape Cod Mall,Icing,Cape Cod Mall,Cape Cod Mall,Macy's,Cape Cod Mall,Pandora Cape Cod Mall,Piercing Pagoda,Sears
+370:Totally Pagoda,Claire's,Diamonds Forever USA,Dillard's,Dillard's,DSW Designer Shoe Warehouse,Forever 21,GoldRush Franklin Park Mall,Helzberg Diamonds,Charlotte Russe,Claire's,J Foster Jewelers,JCPenney,Jule,Kay Jewelers,Macy's,New York & Company,Osterman,PANDORA Franklin Park Mall,Piercing Pagoda,Rogers & Hollands Jewelers,Sunburst Jewelers,Swarovski,Torrid,Totally Pagoda
+372:Ashcroft & Oak Jewelers,Claire's,Dillard's,A Fast Jeweler LLC,Forever 21,Charlotte Russe,J.B.Robinson Jewelers,Jared - Galleria of Jewelry,JCPenney,JCPenney,Kay Jewelers,Macy's,New York & Company,Piercing Pagoda,Piercing Pagoda,Rogers Jewelers,Macy's,Sears,Torrid
+379:Dillard's,Forever 21,Icing by Claire's,JCPenney,KAY JEWELERS,LeRoy's Jewelers,Macy's,New York & Company,Piercing Pagoda,Sears,The Limited
+239:Claire's,Osterman Jewelers
+378:Ashcroft & Oak Jewelers,Claire's,Coach,Dillard's,Charlotte Russe,Icing by Claire's,JCPenney,Jewels & More,Kay Jewelers,King's Jewelry,LeRoy's Jewelers,Macy's,New York & Company,Totally Pagoda,Plumb Gold,Sears,Shail Jewelers,Trollbeads
+375:Claire's,JCPenney,Kay Jewelers,Piercing Pagoda,Rogers
+376:JCPenney,Kay Jewelers,Piercing Pagoda
+232:B H Hobart Jewelers,Piercing Pagoda,Claire's,Fred Meyer Jewelers,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,Osterman Jewelers,Piercing Pagoda,Rogers & Hollands Jewelers,Zales - The Diamond Store
+234:Claire's,Fred Meyer Jewelers,Gold Spot,Charlotte Russe,Icing by Claire's,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,LeRoy's Jewelers,Macy's,Macy's,New York & Company,Osterman Jewelers,Piercing Pagoda,Sears
+233:B H Hobart Jewelers,Piercing Pagoda,Claire's,Fred Meyer Jewelers,Charlotte Russe,JCPenney,Kay Jewelers,Macy's,Osterman Jewelers,Piercing Pagoda,Rogers & Hollands Jewelers,Zales - The Diamond Store
+236:The Shops at Mission Viejo,Ben Bridge,Brighton Collectibles,Claire's,Coach,Fast Fix Jewelry & Watch Repair,Forever 21,Fredric H. Rubel Jewelers,Charlotte Russe,Kevin Jewelers,LOFT,Macy's,PANDORA Shops at Mission Viejo,The Shops at Mission Viejo,Something Silver,Swarovski,The Shops at Mission Viejo,Watch Works,Zales - The Diamond Store
+235:Claire's,Fred Meyer Jewelers,JCPenney,Jewelry Express,KAY JEWELERS,Macy's,Rogers & Hollands Jewelers,Sears,Zales
+237:Claire's,Fred Meyer Jewelers,J.B. Robinson Jewelers,JCPenney,Kay Jewelers,Lawrence Jewelers,Macy's,Piercing Pagoda,Sears,Things Remembered
+263:Dillard's,JCPenney,Sears,Zales - The Diamond Store
+260:Claire's,Dillard's,Gold Outlet,Gordon's Jewelers,Charlotte Russe,JCPenney,Kay Jewelers,New York & Company,REEDS Jewelers,Sears,Gold Shop,Traditional Jewelers,Treasures,Zales - The Diamond Store
+261:Claire's,Dillard's,Gordon's Jewelers,JCPenney,Piercing Pagoda,Sears,Zales
+360:Legacy Ink Tattoo & Piercing,Bailey's Fine Jewelry - Greenville,Claire's,Gems N Gold,JCPenney,Kay Jewelers,New York & Company,Piercing Pagoda,REEDS Jewelers
+366:Antique & Coin Exchange,Claire's,Icing by Claire's,JCPenney,Kay Jewelers,Riddle's Jewelry,Walkers N' Daughters Jewelers
+364:Claire's,Icing by Claire's,JCPenney,Kay Jewelers,Riddle's Jewelry,Sears,Zales - The Diamond Store
+363:Claire's,francesca's,New York & Company,REEDS Jewelers
+369:Claire's,JCPenney,Samuels Jewelers,Sears
+368:Almost Famous Body Piercing,Claire's,Classic Jewelers,Forever 21,Helzberg Diamonds,Christopher & Banks,JCPenney,Kay Jewelers,Kay Jewelers,Macy's,Riddle's Jewelry,Sears,The Limited,Wimmer's Diamonds,Zales - The Diamond Store
+367:Village Goldsmith
+269:Claire's,Clarkson Jewelers,Charming Charlie Lake Saint Louis,New York & Company
+268:Claire's,Helzberg Diamonds
+267:Claire's,Dillard's,Forever 21,francesca's,Gold & Time,Hannoush Jewelers,Charlotte Russe,Icing by Claire's,Independence Center,J.Jill,Jared - Galleria of Jewelry,Kay Jewelers,Macy's,Independence Center,New York & Company,Piercing Pagoda,Samuels Jewelers,Sears,Torrid,Zales
+266:Bacara Designs
+265:Claire’s,Dillard's,DSW Designer Shoe Warehouse,Forever 21,Helzberg Diamonds,Charlotte Russe,Charming Charlie Kansas City,Kay Jewelers,New York & Company,Zales - The Diamond Store
+264:Claire's,Dillard's,Helzberg Diamonds,Hurst Diamonds,JCPenney,Kay Jewelers,New York & Company,Sears
+252:Cash For Gold
+350:Claire's,XXI Forever,Charlotte Russe,John Gerald Jewelers Inc,Kay Jewelers,Macy's,Malsons Jewelers,Michael Matthew's Jewelers Llc,New York & Company,Piercing Pagoda,Piercing Pagoda,Precision Time - Kings Plaza Mall,Sears,Zales - The Diamond Store
+351:Bling Bling,Claire's,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Icing By Claire's,JCPenney,Just A Second,Kay Jewelers,Macy's,Icing By Claire's,Piercing Pagoda,Swarovski,Swatch,Tattoo Nation,Zales - The Diamond Store
+352:Bling Bling,Claire's,Forever 21,Gordon's Jewelers,Helzberg Diamonds,Charlotte Russe,Icing By Claire's,JCPenney,Just A Second,Kay Jewelers,Macy's,Icing By Claire's,Piercing Pagoda,Swarovski,Swatch,Tattoo Nation,Zales - The Diamond Store
+355:JCPenney - Closed,Saslows Jewelers,Zales the Diamond Store
+357:Claire's,JCPenney,Jewelry Mine,Kay Jewelers,Marks & Morgan,Piercing Pagoda,Saslow's Jewelers,Sears
+359:Atlanta Jewelry & Repair,Claire's,JCPenney - CLOSED,Kay Jewelers,Kay Jewelers,Piercing Pagoda,Sears,Sears
+358:Concord Mills,Claire's,Diamond District,DKNY Outlet,Forever 21,Helzberg Diamonds,Charlotte Russe,Icing by Claire's,Kay Jewelers Outlet,Michael Kors,New York & Company Outlet,Piercing Pagoda,Concord Mills,Quick Fixes,REEDS Jewelers,Concord Mills,The Limited,Ultra Diamonds,Zales Outlet
+259:Claire's,Dillard's,D'Or International Tcm,Forever 21,Charlotte Russe,JCPenney,Zales - The Diamond Store,New York & Company,REEDS Jewelers,Sears,Zales - The Diamond Store,Treasure Island,Treasure Island,Zales - The Diamond Store
+254:Tanner Jewelers,Dillard's,Impression Jewelry
+256:Claire's,JCPenney,Tali's Collections,Traditional Jewelers-Mc Comb
+255:Claire's,Dillard's,Claire's,JCPenney,Jewel Time,Kay Jewelers,REEDS Jewelers,Sears,T.J.Maxx,Treasure Island

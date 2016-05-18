@@ -1,0 +1,1 @@
+{"409":{"Mesquite Library":4.4},"181":{"Enoch Pratt Free Library":4.5},"183":{"Gaithersburg Library":4.3},"611":{"Southglenn Library (Arapahoe Libraries)":4.1},"124":{"Cedar Rapids Public Library - Ladd Library":4.6},"413":{"Century Library":4.1},"190":{"Borders":3.5}}

@@ -1,0 +1,1 @@
+{"363":{"Bike Cycles":4.8},"431":{"Bike Shop Cycle Spectrum Orlando":4.2},"622":{"Eastern Mountain Sports":4.2},"432":{"REI":4.2},"304":{"BabiesRUs":3.6},"226":{"REI":4.1},"620":{"Giant Denver":4.3},"583":{"REI":4.4},"397":{"Bike Masters":4.1},"606":{"REI":4},"450":{"REI":4.6},"551":{"Outdoor Gear Exchange":4.6}}

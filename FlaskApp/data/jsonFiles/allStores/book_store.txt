@@ -1,0 +1,203 @@
+34:Books-A-Million
+37:Books-A-Million
+601:Barnes & Noble
+600:Family Christian
+153:Barnes & Noble
+150:LifeWay Christian Store
+42:Barnes & Noble
+539:Barnes & Noble
+538:Barnes & Noble
+607:Barnes & Noble
+606:Orchard Used Books & Comics
+536:Barnes & Noble
+605:Borders
+604:Barnes & Noble
+202:Barnes & Noble
+205:Borders
+169:Books-A-Million
+23:Books-A-Million
+166:Books-A-Million
+345:Posman Books
+29:LifeWay Christian Store
+162:Books-A-Million
+408:Barnes & Noble
+542:Barnes & Noble
+541:Family Christian
+7:Barnes & Noble
+544:LifeWay Christian Store
+6:Family Christian
+407:Barnes & Noble
+401:Barnes & Noble,Barnes & Noble
+403:Rosetta Stone, AZ
+210:Barnes & Noble,The Paper Store
+216:Barnes & Noble,Newbury Comics
+319:Books A Million
+19:Family Christian
+17:Barnes & Noble
+217:Newbury Comics
+176:Urban Knowledge Bookstore
+310:Street Corner News
+14:Barnes & Noble Booksellers Eastern Shore
+311:Barnes & Noble
+12:Books-A-Million
+170:Mustard Seed
+418:Ruth's Christian Book Store
+417:Ruth's Christian Book Store
+174:Barnes & Noble
+175:Borders Express
+620:Tattered Cover Book Store
+419:The Book Shop
+519:Books-A-Million
+518:Barnes & Noble,Barnes & Noble
+517:Barnes & Noble,LifeWay Christian Store
+514:Books-A-Million
+220:Barnes & Noble Booksellers Prudential Center
+221:Borders
+223:Newbury Comics
+224:The Paper Store
+226:Barnes & Noble
+329:Hastings Entertainment
+323:Barnes & Noble,Barnes & Noble
+229:Newbury Comics
+427:Barnes & Noble Booksellers Prescott Gateway Mall
+612:Barnes & Noble
+421:Barnes & Noble
+420:Borders
+618:Family Christian,Barnes & Noble
+423:University of Arizona Bookstores
+528:Barnes & Noble
+619:Barnes & Noble
+527:Barnes & Noble
+116:Book World
+115:Books-A-Million,Waldenbooks
+113:Waldenbooks
+570:Barnes & Noble
+119:Book World Stores
+434:Waldenbooks
+431:Barnes & Noble,Family Christian
+575:Waldenbooks
+80:Waldenbooks
+81:Waldenbooks
+87:Barnes & Noble
+84:The Illini Shop
+577:Galilean Inc,Waldenbooks
+125:Barnes & Noble
+66:BOOKOFF,Borders
+126:Beat the Bookstore,Iowa Hawk Shop
+69:Hastings Entertainment
+307:Woodbridge News Inc
+129:Barnes & Noble
+445:New Dimension Comics and Games
+446:Barnes & Noble
+442:Waldenbooks
+583:Berean Christian Stores
+120:Borders
+73:Waldenbooks
+449:Bradley's Books
+134:Varney's K-State Place,Waldenbooks
+135:Books-A-Million
+132:Book Trader
+59:Barnes & Noble,Barnes & Noble
+133:Books-A-Million
+138:Book Warehouse
+139:Christian Science Reading Room
+136:Barnes & Noble
+137:Barnes & Noble,Barnes & Noble
+454:Borders
+452:Family Christian
+455:Barnes & Noble
+456:Borders
+559:Westrock Toys, LLC
+459:Barnes & Noble
+554:LifeWay Christian Store
+63:Borders Express
+61:Barnes & Noble
+143:LifeWay Christian Store
+144:Half Price Books Outlet,LifeWay Christian Store
+560:Revelation Christian Book & Gift Store
+463:Humungo Comics
+466:Borders Express
+467:Borders Express
+468:Waldenbooks
+469:Comics World
+51:Barnes & Noble
+565:Borders,Family Christian,Ollie's Bargain Outlet
+140:Bosco's Comics Cards & Games
+563:Four Horsemen Comics and Gaming
+50:Borders,LifeWay Christian Store
+487:LifeWay Christian Store
+486:T.L. Lowery Global Foundation
+484:Family Books Outlet
+285:Barnes & Noble
+284:Big Red Shop
+483:Book Land
+480:Waldenbooks
+481:Borders
+272:Books-A-Million
+477:Barnes & Noble
+273:Barnes & Noble,Gospeland
+276:Family Christian
+277:Barnes & Noble,Go! Calendars Games Toys & Books
+107:Barnes & Noble
+104:Waldenbooks
+102:Books-A-Million
+101:Barnes & Noble
+100:Barnes & Noble
+98:Family Christian,Mummphy's Book Nook
+97:Azizi Books
+597:Barnes & Noble
+390:Barnes & Noble
+596:Barnes & Noble
+94:Borders Express
+393:Half Price Books
+598:Going In Style,University Shop
+92:Half Price Books
+395:Barnes & Noble
+90:5th Avenue Bookstore
+294:Newbury Comics
+293:Harrison's Comics
+499:Barnes & Noble
+298:Level Up Entertainment
+299:Barnes & Noble
+398:Atomic Comics,Barnes & Noble
+399:Atomic Comics,Barnes & Noble
+590:Barnes & Noble Booksellers Valencia
+88:Brilliant Sky Toys & Books
+89:Barnes & Noble,Barnes & Noble
+593:Learning Express Toys
+241:Barnes & Noble
+194:Barnes & Noble Booksellers Bowie,Family Christian
+197:Urban Knowledge Bookstore
+381:Books-A-Million
+191:Books-A-Million
+190:Borders
+389:Waldenbooks
+387:Waldenbooks
+385:Ollie's Bargain Outlet,Waldenbooks
+245:Borders
+244:Barnes & Noble Booksellers Maple Grove
+243:Barnes & Noble
+248:Barnes & Noble,Barnes & Noble
+247:Barnes & Noble,Double Play
+246:Book World
+509:Texas Treasures
+507:Barnes & Noble
+230:Barnes & Noble,Newbury Comics
+370:Barnes & Noble
+379:Lion & Lamb Christian Resources,Ollie's Bargain Outlet
+239:Waldenbooks
+378:Bradley's Book Outlet
+231:True North Books
+235:Barnes & Noble
+260:Books-A-Million
+364:Barnes & Noble
+363:Barnes & Noble,Brilliant Sky Toys
+369:Bookland
+368:Family Christian
+367:Barry's Collectors Corner,Christian Bookshelf - Parable Christian Store
+265:Barnes & Noble,Vintage Stock
+264:Barnes & Noble
+357:Books-A-Million
+359:Books-A-Million
+254:Bookland
+256:Book Land

@@ -1,0 +1,54 @@
+113:Kmart
+195:CVS Pharmacy
+486:Kmart Pharmacy
+194:Comcare Pharmacy
+191:CVS Pharmacy,Giant
+433:Safeway
+434:Rite Aid
+198:CVS Pharmacy
+42:CVS Pharmacy
+480:Hy-Vee
+385:CVS Pharmacy
+579:Lucky Pharmacy
+248:Fred Meyer Jewelers
+247:Target Pharmacy
+437:Safeway
+67:Longs Drugs
+349:CVS Pharmacy
+126:CVS Pharmacy
+66:Longs Drugs
+69:Rite Aid Pharmacy
+123:Hy-Vee
+169:Hyun H. Artz, PharmD
+345:Rite Aid
+167:CVS Pharmacy inside Target Store
+162:Bocage Pharmacy Centre
+445:Giant Eagle Supermarket,Rite Aid Pharmacy
+7:15th Street Pharmacy
+375:Marc's Stores
+376:Kmart Pharmacy
+263:Hy-Vee
+132:Hy-Vee
+59:Longs Drugs
+261:Steven C. Stoner, PharmD
+57:Longs Drugs
+56:Longs Drugs
+179:Rite Aid Pharmacy,Rite Aid Pharmacy,Shoppers Food & Pharmacy - Mondawmin
+17:CVS Pharmacy
+368:West Acres Pharmacy,West Acres Pharmacy
+410:Albertsons,Albertsons
+61:Longs Drugs
+265:CVS Pharmacy
+98:Martin's Super Market
+220:Star Market
+226:Rite Aid Pharmacy
+329:Albertsons,CVS Pharmacy,CVS Pharmacy
+91:Jewel-Osco
+188:Target
+324:Rite Aid Pharmacy
+296:CVS Pharmacy
+463:CVS Pharmacy
+465:Pathmark
+569:Shopko Ashwaubenon
+53:Longs Drugs
+141:Carrs Pharmacy,Carrs Pharmacy

@@ -1,0 +1,198 @@
+338:HSBC ATM,Chemung Canal Trust Company,Visions Federal Credit Union
+331:KeyBank ATM
+337:Trustco Bank
+152:Citizens Bank of Northern Kentucky
+530:Texas Community Bank
+150:PNC Bank,ATM (PNC Bank)
+42:BB&T - Avenues Of Forsyth Branch,SunTrust Bank
+40:Mapco Express
+609:U.S. Bank - Aurora Mall Walk-Up
+607:Wells Fargo Bank
+604:Wells Fargo Bank
+202:ATM,NASA Federal Credit Union
+349:Chase Bank,S I Bank & Trust
+203:PNC Bank (inside Giant),SECU Credit Union
+169:M&T Bank,Susquehanna Bank - Halfway Office
+342:First Niagara Bank - Jefferson Valley Branch,Chase Bank
+344:HSBC
+166:ATM
+345:Chase Bank
+346:First Republic Bank
+28:Wells Fargo Bank
+409:BBVA Compass,Wells Fargo Bank
+164:Bangor Savings Bank
+541:Capital One Bank,Chase Bank
+6:BB&T,Wells Fargo Bank
+340:Elmira Savings Bank FSB ATM
+546:IBC Bank
+31:Community Bank & Trust,Regions Bank,Wells Fargo Bank
+160:Jefferson Financial Credit Union
+548:BBVA Compass,International Bank of Commerce
+547:IBC Bank,Bank & Trust
+9:Bank Trust
+8:Cadence Bank,Regions
+211:USALLIANCE FINANCIAL
+212:PeoplesBank
+210:Bank of America ATM
+216:Bank of America ATM
+213:Bank of America ATM,PeoplesBank,TD Bank,ATM (TD Bank)
+17:Florida Citizens Banks
+178:Liberty Federal Savings & Loan,Ultron
+18:Wells Fargo Bank
+217:Salem Five Bank - Square One Mall Saugus,Santander Bank ATM
+177:BP
+312:ATM,PNC Bank
+176:PNC Bank
+14:United Bank
+20:Regions Bank,SunTrust Bank
+417:BancFirst
+510:Wells Fargo Bank
+175:ATM (M&T Bank)
+621:Wells Fargo Bank
+410:Superpumper
+414:Wells Fargo Bank
+413:Comerica Bank,Chase Bank
+220:Cardtronics ATM,Sovereign ATM
+221:Century Bank and Trust Company
+222:Sovereign ATM
+223:Bangkok Express
+224:Citizens Bank
+327:Wells Fargo ATM
+226:Bank of America ATM,Express Petroleum
+329:Wells Fargo Bank
+227:Bank of America ATM
+188:Wells Fargo Bank
+426:Wells Fargo Bank
+185:Capital One Bank
+611:Wells Fargo Bank
+186:Wells Fargo Bank
+614:Colorado Credit Union
+421:Arizona Central Credit Union
+423:Wells Fargo ATM
+617:U.S. Bank,Wells Fargo Bank
+525:ACE Cash Express
+619:Chase Bank
+424:ATM (Bank of America)
+527:BB&T,Cadence Bank,Wells Fargo Bank
+117:Wells Fargo Bank
+115:Chase Bank
+113:First Financial Bank
+436:Umpqua Bank
+433:Cardtronics ATM,Sterling Bank
+434:PremierWest Bank
+431:Chase Bank,Orlando Federal Credit Union
+80:Hickory Point Bank & Trust
+81:Hickory Point Bank & Trust
+439:CNB Bank,PNC Bank
+437:Wells Fargo Bank
+67:American Savings Bank,Bank of Hawaii Times Mililani In-Store Branch,Central Pacific Bank,Hickam Federal Credit Union,Hickam Federal Credit Union,Territorial Savings Bank,Territorial Savings Bank,Tesoro
+66:American Savings Bank,American Savings Bank,Bank of Hawaii,Bank of Hawaii,Central Pacific Bank,First Hawaiian Bank ATM,Hickam Federal Credit Union,Hickam Federal Credit Union,Territorial Savings Bank
+126:Hills Bank and Trust Company
+69:Chase Bank
+300:PNC Bank
+128:Cardtronics ATM
+582:Union Bank
+446:Cardtronics ATM
+447:Citizens Bank Pennsylvania
+440:Wayne Bank
+583:Chase Bank,Pacific Service Credit Union
+70:Horizon Credit Union
+584:Wells Fargo ATM
+120:Dubuque Bank and Trust
+72:Magic Valley Bank,Wells Fargo Bank
+73:First Bankers Trust Co., N.A.,First Bankers Trust Co., N.A.
+587:First Bank
+588:Chase Bank,Spectrum Credit Union
+589:Wells Fargo Bank
+59:American Savings Bank,Bank of Hawaii Mortgage Department,Bank of Hawaii Mortgage Department,Central Pacific Bank
+133:Bank of America
+138:UMB Bank and ATM
+139:Wells Fargo ATM,Wells Fargo Bank
+56:American Savings Bank,First Hawaiian Bank
+137:Central Bank of the Midwest
+450:Citizens Bank,PNC Bank
+453:Citizens Bank
+454:PNC Bank
+452:Clearview Federal Credit Union,PNC Bank
+455:First Niagara Bank - Monroeville Mall Branch
+456:PNC Bank
+556:Liberty Bank of Arkansas
+62:First Hawaiian Bank ATM (Topa Financial Center)
+459:First Niagara Bank - South Hills Village Branch
+60:American Savings Bank,Bank of Hawaii Hawaii Kai Branch,Hawaii National Bank,Pacific Stock
+61:American Savings Bank,Bank of Hawaii - Ala Moana Branch,Central Pacific Bank,Territorial Savings Bank
+553:Berkshire Bank
+560:ATM (Arvest Bank)
+147:Citizens Union Bank
+148:BB&T - Towne Square Branch,U.S. Bank - Towne Square KY Office
+466:Citizens Bank
+565:JPMorgan Chase,Huntington Federal Savings Bank
+567:United Bank
+54:HawaiiUSA Federal Credit Union,Territorial Savings Bank
+140:Alaska USA Federal Credit Union,Wells Fargo Bank
+561:ATM (Regions Bank)
+562:Simmons First National Bank
+563:BB&T
+141:Wells Fargo ATM
+564:BB&T
+281:ATM (Wells Fargo Bank)
+487:First Tennessee Bank
+280:Home Federal Svngs & Loan Association,Wells Fargo Bank
+486:Bank of Cleveland,Regions Bank
+485:Ultron
+286:Wells Fargo ATM
+480:The First National Bank in Sioux Falls
+473:Regions Bank
+274:ATM (Arvest Bank)
+275:Mountain West Bank
+277:Rocky Mountain Bank
+279:Wells Fargo Bank
+104:First Financial Bank,First Financial Bank
+100:Chase Bank
+98:Chase Bank,JPMorgan Chase,TCU,TCU
+97:First American Bank ATM
+597:Wells Fargo Bank
+598:ATM (Bank of America),Wells Fargo Bank
+395:Chase Bank
+90:PNC Bank
+499:PlainsCapital Bank
+296:Cardtronics ATM
+290:First Westroads Bank Inc
+298:Bank of America ATM
+299:Cardtronics ATM
+398:Arizona Bank & Trust,BBVA Compass,Wells Fargo Bank
+399:Arizona Bank & Trust,BBVA Compass,Wells Fargo Bank
+88:Cole Taylor Bank
+593:Christian Stanley Inc
+241:Pioneer National Bank
+384:Wes Banco Bank
+382:Chase Drive-Up
+191:Capital One Bank,Bank of America ATM,Capital One Bank,PNC Bank (inside Giant)
+192:SunTrust Bank,SunTrust ATM
+389:Citizens Bank
+244:BMO Harris Bank
+243:Amarose Convenience
+242:North American Banking Company
+506:BBVA Compass
+501:Red River Federal Credit Union
+379:Chase Bank,Farmers National Bank
+239:Monroe Bank & Trust
+378:PNC Bank
+375:Chase Bank
+234:FirstMerit Bank,Independent Bank
+263:Central Bank
+366:Kirkwood Bank
+363:ATM (Wells Fargo Bank)
+369:State Bank & Trust Co
+368:Union State Bank
+269:CJ Banks
+268:Blue Ridge Bank and Trust Co.
+266:United Missouri Bank
+265:Citizens Bank & Trust
+264:Central Bank of Boone County,Central Bank of Boone County
+350:Chase Bank
+355:BB&T,Cabe and Cato Inc.,Cornerstone Bank,First Citizens Bank
+359:PNC Bank,Wells Fargo Bank
+258:International Merchant Services (A
+253:BankPlus
+255:Citizens National Bank,Great Southern National Bank
